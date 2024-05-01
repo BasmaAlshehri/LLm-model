@@ -1,0 +1,1000 @@
+patient_id,Patient_Name,Age,Gender,Medical_History,DrugBank ID,Drug_Name,Brand_names,DDI_Label
+7001,Douglas Oconnor,95,Female,"['Heart Disease', 'Allergies', 'Diabetes', 'Asthma', 'Stroke', 'Hypertension']",DB07915,"(2E,4E)-2-Hydroxy-6-oxo-6-phenyl-2,4-hexadienoic acid",,0
+7002,Kathryn Hopkins,56,Female,['Hypertension'],DB07916,3-{6-[(8-HYDROXY-QUINOLINE-2-CARBONYL)-AMINO]-2-THIOPHEN-2-YL-HEXANOYLAMINO}-4-OXO-BUTYRI ACID,,0
+7003,Robert Alexander,86,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07917,4-(BENZHYDRYLOXY)-1-[3-(1H-TETRAAZOL-5-YL)PROPYL]PIPERIDINE,,1
+7004,Mandy Burgess,63,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07918,2-heptyl-4-hydroxyquinoline N-oxide,2-(n-heptyl)-4-hydroxyquinoline N-oxide | 2-heptyl-4-hydroxyquinoline N-oxide | 2-heptyl-4-hydroxyquinoline-N-oxide | 2-heptyl-4-quinolinol 1-oxide | HOQNO | HQNO,0
+7005,William Gates,87,Female,"['Asthma', 'Heart Disease', 'Stroke', 'Allergies', 'Cancer', 'Diabetes', 'Arthritis']",DB07919,Harmine,Banisterine | Leucoharmine | Telepathine | Yageine | Yajeine,0
+7006,Keith Cunningham,42,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07920,N-oxo-2-[(4-phenylphenyl)sulfonylamino]ethanamide,,1
+7007,Kelsey Sanders,53,Female,"['Arthritis', 'Heart Disease', 'Diabetes']",DB07921,2-[(4-fluorophenyl)sulfonylamino]-N-oxo-ethanamide,,1
+7008,Karen Cooper,25,Female,"['Cancer', 'Hypertension', 'Arthritis', 'Stroke', 'Asthma', 'Allergies']",DB07922,N-oxo-2-(phenylsulfonylamino)ethanamide,,0
+7009,Larry Roberts,84,Male,"['Diabetes', 'Asthma', 'Hypertension', 'Allergies']",DB07923,octyl alpha-L-altropyranoside,,0
+7010,Robert Owens,78,Female,"['Heart Disease', 'Asthma', 'Diabetes']",DB07924,octyl beta-D-galactopyranoside,,1
+7011,Anthony Ramirez,49,Female,"['Cancer', 'Stroke', 'Diabetes', 'Arthritis']",DB07925,4-(2-HYDROXYPHENYLSULFINYL)-BUTYLPHOSPHONIC ACID,,0
+7012,Michele Blanchard,68,Female,"['Allergies', 'Arthritis', 'Hypertension', 'Stroke']",DB07926,N-[3-(N'-HYDROXYCARBOXAMIDO)-2-(2-METHYLPROPYL)-PROPANOYL]-O-TYROSINE-N-METHYLAMIDE,,1
+7013,Sabrina Jordan,20,Female,"['Cancer', 'Diabetes']",DB07927,3-[(4-Carboxy-2-hydroxyphenyl)sulfamoyl]-2-thiophenecarboxylic acid,,1
+7014,Logan Green,74,Male,"['Arthritis', 'Allergies', 'Heart Disease', 'Diabetes', 'Hypertension', 'Asthma']",DB07928,N-(2-OXOTETRAHYDROFURAN-3-YL)OCTANAMIDE,,1
+7015,Amanda Baker,97,Female,"['Stroke', 'Allergies', 'Hypertension']",DB07929,"N-(TERT-BUTYL)-3,5-DIMETHYL-N'-[(5-METHYL-2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)CARBONYL]BENZOHYDRAZIDE",,0
+7016,Brian Morgan,73,Male,['Diabetes'],DB07930,(3R)-3-HYDROXYDODECANOIC ACID,,1
+7017,James Madden,89,Female,"['Diabetes', 'Asthma', 'Stroke', 'Cancer', 'Allergies', 'Arthritis', 'Hypertension', 'Heart Disease']",DB07931,Hexestrol,"4,4'-(1,2-diethylethylene)diphenol | Erythrohexestrol | Hexanoestrol | Hexestrol | Hexoestrolum | Meso-3,4-di(p-hydroxyphenyl)-n-hexane | Meso-hexestrol | Mesohexestrol | Synoestrolum",0
+7018,Anne Bell,34,Female,"['Hypertension', 'Allergies', 'Asthma']",DB07932,"dimethyl (1R,4S)-5,6-bis(4-hydroxyphenyl)-7-oxabicyclo[2.2.1]hepta-2,5-diene-2,3-dicarboxylate",,1
+7019,David Reilly,46,Female,"['Cancer', 'Hypertension', 'Stroke', 'Diabetes', 'Asthma', 'Allergies', 'Heart Disease', 'Arthritis']",DB07933,Erteberel,"(3aS,4R,9bR)-4-(4-Hydroxyphenyl)-1,2,3,3a,4,9b-hexahydrocyclopenta(c)(1) benzopyran-8-ol | Erteberel",1
+7020,Victoria Harris,73,Male,"['Asthma', 'Arthritis', 'Diabetes', 'Hypertension', 'Allergies', 'Cancer', 'Heart Disease']",DB07934,[[CYCLOHEXANESULFONYL-GLYCYL]-3[PYRIDIN-4-YL-AMINOMETHYL]ALANYL]PIPERIDINE,,0
+7021,Hailey Stewart,88,Female,['Arthritis'],DB07935,"5-[(5-fluoro-3-methyl-1H-indazol-4-yl)oxy]benzene-1,3-dicarbonitrile",,1
+7022,Jason Bush,29,Male,"['Heart Disease', 'Diabetes', 'Allergies', 'Cancer', 'Asthma', 'Arthritis']",DB07936,N-(4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]carbonyl}phenyl)-5-fluoro-4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-amine,,0
+7023,Allen Mann,45,Male,"['Asthma', 'Hypertension', 'Stroke']",DB07937,"2-butoxy-9-(2,6-difluorobenzyl)-N-(2-morpholin-4-ylethyl)-9H-purin-6-amine",,1
+7024,Mary Giles,70,Female,"['Allergies', 'Hypertension', 'Arthritis', 'Diabetes']",DB07938,(S)-iclaprim,,1
+7025,Tommy Harvey,82,Female,"['Allergies', 'Arthritis', 'Heart Disease', 'Cancer', 'Hypertension', 'Asthma', 'Stroke']",DB07939,N-(3-MERCAPTOPROPANOYL)-D-ALANINE,,0
+7026,Elizabeth Pearson,63,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07940,"9-(3-IODOBENZYLAMINO)-1,2,3,4-TETRAHYDROACRIDINE",,1
+7027,Danielle Roberts MD,73,Female,"['Hypertension', 'Heart Disease', 'Allergies', 'Asthma']",DB07941,PH-797804,,0
+7028,Dr. Erik Holt,40,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07942,2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine,,0
+7029,Scott Harris,41,Male,"['Cancer', 'Hypertension', 'Arthritis', 'Asthma']",DB07943,SD-0006,2-{4-[5-(4-chlorophenyl)-4-pyrimidin-4-yl-1H-pyrazol-3-yl]piperidin-1-yl}-2-oxoethanol | 5-p-chlorophenyl-3-[N-(2-hydroxyacetyl)piperidin-4-yl]-4-pyrimidin-4-yl-1H-pyrazole,1
+7030,Sabrina Fisher,70,Male,"['Diabetes', 'Arthritis', 'Heart Disease', 'Asthma']",DB07944,N-{3-METHYL-5-[2-(PYRIDIN-4-YLAMINO)-ETHOXY]-PHENYL}-BENZENESULFONAMIDE,,0
+7031,Megan Mcbride,36,Male,"['Cancer', 'Asthma', 'Heart Disease', 'Stroke', 'Arthritis']",DB07945,"5-(3-carbamoylbenzyl)-5,6,7,8,9,10-hexahydrocyclohepta[b]indole-4-carboxylic acid",,1
+7032,Richard Monroe,88,Female,"['Cancer', 'Hypertension', 'Heart Disease', 'Allergies', 'Asthma', 'Arthritis', 'Stroke']",DB07946,"N-[2-({[amino(imino)methyl]amino}oxy)ethyl]-2-{6-chloro-3-[(2,2-difluoro-2-phenylethyl)amino]-2-fluorophenyl}acetamide",,1
+7033,Francisco Johnson,99,Male,"['Hypertension', 'Allergies', 'Asthma', 'Arthritis', 'Cancer']",DB07947,ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE,,1
+7034,Megan Delacruz,75,Female,"['Heart Disease', 'Cancer']",DB07949,"({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",,1
+7035,Maria Williamson,49,Female,"['Stroke', 'Cancer', 'Asthma', 'Arthritis', 'Heart Disease', 'Diabetes']",DB07950,Indoleacetic acid,(Indol-3-yl)acetate | (indol-3-yl)acetic acid | 2-(indol-3-yl)ethanoic acid | 3-Indolylessigsäure | heteroauxin | IAA | IES | Indole-3-acetic acid,1
+7036,Jacqueline Miller,71,Male,"['Arthritis', 'Diabetes', 'Stroke', 'Heart Disease']",DB07951,N-(indole-3-acetyl)-L-aspartic acid,IAASP | N-(indol-3-ylacetyl)-L-aspartic acid | N-(indol-3-ylacetyl)aspartic acid | N-(indole-3-acetyl)aspartic acid,0
+7037,John King,23,Female,"['Arthritis', 'Allergies', 'Diabetes', 'Stroke']",DB07952,N-[1H-INDOL-3-YL-ACETYL]GLYCINE ACID,,1
+7038,Nicole Pearson,22,Female,"['Asthma', 'Allergies']",DB07953,N-[1H-INDOL-3-YL-ACETYL]VALINE ACID,,0
+7039,Johnathan Burgess,79,Male,"['Asthma', 'Stroke', 'Arthritis', 'Cancer', 'Heart Disease', 'Hypertension']",DB07954,3-isobutyl-1-methyl-7H-xanthine,"1-methyl-3-(2-methylpropyl)-7H-purine-2,6-dione | 1-methyl-3-isobutylxanthine | 3-isobutyl-1-methyl-3,7-dihydro-1H-purine-2,6-dione | 3-isobutyl-1-methylxanthine | 3-Isobutyl-1-methyxanthine | IBMX",0
+7040,Marc Jackson,24,Female,"['Diabetes', 'Heart Disease']",DB07955,(2-BROMOETHYL)(2-'FORMYL-4'-AMINOPHENYL) ACETATE,,0
+7041,Adam Moreno,95,Female,"['Asthma', 'Heart Disease', 'Stroke', 'Hypertension', 'Arthritis', 'Diabetes', 'Allergies']",DB07956,[1-(3-CHLORO-2-FORMYL-PHENYLCARBAMOYL)-2-METHYL-PROPYL]-CARBAMIC ACID TERT-BUTYL ESTER,,0
+7042,Elaine Phelps,92,Female,"['Diabetes', 'Asthma', 'Stroke']",DB07957,METHYL(2-ACETOXY-2-(2-CARBOXY-4-AMINO-PHENYL))ACETATE,,0
+7043,John Lowe,26,Female,"['Asthma', 'Stroke', 'Heart Disease', 'Diabetes', 'Arthritis', 'Allergies', 'Cancer']",DB07958,(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID,,1
+7044,Jacob Kirby,29,Male,"['Cancer', 'Allergies', 'Arthritis', 'Heart Disease', 'Diabetes']",DB07959,3-(1H-BENZIMIDAZOL-2-YL)-1H-INDAZOLE,,0
+7045,Mary Velazquez,86,Female,['Diabetes'],DB07960,"5-ACETAMIDO-5,6-DIHYDRO-4-HYDROXY-6-ISOBUTOXY-4H-PYRAN-2-CARBOXYLIC ACID",,0
+7046,Elizabeth Adams,70,Female,"['Arthritis', 'Cancer', 'Hypertension', 'Diabetes', 'Asthma']",DB07961,"1-(4-Cyano-phenyl)-3-[2-(2,6-dichloro-phenyl)-1-imino-ethyl]-thiourea",,1
+7047,Alex Hayes,67,Female,"['Hypertension', 'Stroke', 'Asthma', 'Cancer', 'Allergies', 'Diabetes']",DB07962,"METHYL N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINATE",,1
+7048,Nicole Johnson,22,Female,"['Hypertension', 'Stroke', 'Asthma', 'Heart Disease', 'Cancer', 'Diabetes', 'Allergies']",DB07963,"N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINE",,1
+7049,Sharon Cummings,55,Male,"['Arthritis', 'Hypertension', 'Stroke', 'Allergies', 'Asthma', 'Heart Disease']",DB07964,"(3S)-4-{[4-(BUT-2-YNYLOXY)PHENYL]SULFONYL}-N-HYDROXY-2,2-DIMETHYLTHIOMORPHOLINE-3-CARBOXAMIDE",,0
+7050,Theresa Cole,40,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07965,6-(cyclohexylamino)-9-[2-(4-methylpiperazin-1-yl)-ethyl]-9H-purine-2-carbonitrile,6-(Cyclohexylamino)-9-[2-(4-methyl-1-piperazinyl)ethyl]-9H-purine-2-carbonitrile,0
+7051,Norma Stephens,40,Female,"['Arthritis', 'Heart Disease']",DB07966,[4-({4-[(5-cyclopropyl-1H-pyrazol-3-yl)amino]quinazolin-2-yl}amino)phenyl]acetonitrile,,0
+7052,Aaron Fisher,42,Female,"['Hypertension', 'Cancer', 'Arthritis', 'Allergies', 'Stroke', 'Asthma']",DB07967,9-CYCLOPENTYL-6-[2-(3-IMIDAZOL-1-YL-PROPOXY)-PHENYLAMINO]-9H-PURINE-2-CARBONITRILE,,1
+7053,Eric Taylor,93,Female,"['Hypertension', 'Arthritis', 'Stroke', 'Diabetes']",DB07968,N-(2-CHLORO-4-FLUOROBENZOYL)-N'-(5-HYDROXY-2-METHOXYPHENYL)UREA,,0
+7054,David Peterson,45,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07969,3-[3-(4-methylpiperazin-1-yl)-7-(trifluoromethyl)quinoxalin-5-yl]phenol,,1
+7055,Crystal Cooley,97,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07970,5-[(2-methyl-5-{[3-(trifluoromethyl)phenyl]carbamoyl}phenyl)amino]pyridine-3-carboxamide,,1
+7056,Gregory Price,61,Female,['Asthma'],DB07971,"5-AMINO-2-{4-[(4-AMINOPHENYL)SULFANYL]PHENYL}-1H-ISOINDOLE-1,3(2H)-DIONE",,0
+7057,Douglas Nichols,18,Female,"['Hypertension', 'Heart Disease', 'Asthma', 'Allergies', 'Cancer', 'Diabetes', 'Stroke', 'Arthritis']",DB07972,1-(3-METHYLPHENYL)-1H-BENZIMIDAZOL-5-AMINE,,0
+7058,Mrs. Rachel Hernandez,50,Male,"['Allergies', 'Asthma']",DB07973,N-(1-ISOPROPYLPIPERIDIN-4-YL)-1-(3-METHOXYBENZYL)-1H-INDOLE-2-CARBOXAMIDE,,0
+7059,Donna Bell,68,Female,"['Asthma', 'Diabetes', 'Stroke', 'Cancer', 'Allergies', 'Heart Disease', 'Hypertension', 'Arthritis']",DB07974,1-{2-[(4-CHLOROPHENYL)AMINO]-2-OXOETHYL}-N-(1-ISOPROPYLPIPERIDIN-4-YL)-1H-INDOLE-2-CARBOXAMIDE,,0
+7060,Lindsay Greer,74,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07975,"2-({[3,5-DIFLUORO-3'-(TRIFLUOROMETHOXY)BIPHENYL-4-YL]AMINO}CARBONYL)CYCLOPENT-1-ENE-1-CARBOXYLIC ACID",,1
+7061,Sabrina Morrow,60,Female,['Diabetes'],DB07976,3-{[(3-FLUORO-3'-METHOXYBIPHENYL-4-YL)AMINO]CARBONYL}THIOPHENE-2-CARBOXYLIC ACID,,0
+7062,Pamela Haynes,78,Male,"['Heart Disease', 'Asthma', 'Allergies']",DB07977,"3-({[3,5-DIFLUORO-3'-(TRIFLUOROMETHOXY)BIPHENYL-4-YL]AMINO}CARBONYL)THIOPHENE-2-CARBOXYLIC ACID",,0
+7063,John Moore,22,Male,"['Arthritis', 'Allergies', 'Hypertension', 'Cancer', 'Heart Disease', 'Diabetes', 'Asthma']",DB07978,"2-({[2,3,5,6-TETRAFLUORO-3'-(TRIFLUOROMETHOXY)BIPHENYL-4-YL]AMINO}CARBONYL)CYCLOPENTA-1,3-DIENE-1-CARBOXYLIC ACID",,0
+7064,Deborah Martin,87,Male,"['Allergies', 'Hypertension', 'Asthma', 'Cancer', 'Heart Disease', 'Stroke', 'Diabetes']",DB07979,"(2E)-3-(3,4-DIHYDROXYPHENYL)-2-IMINOPROPANOIC ACID",,0
+7065,Meghan Boyd,28,Male,"['Diabetes', 'Asthma', 'Allergies', 'Heart Disease', 'Stroke', 'Cancer', 'Hypertension']",DB07981,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1R)-1-(hydroxymethyl)propyl]acetamide,,0
+7066,Kathryn Lester,49,Male,"['Asthma', 'Cancer', 'Diabetes']",DB07982,2-{4-[4-({4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-yl}amino)phenyl]piperazin-1-yl}-2-oxoethanol,,0
+7067,Sharon Yates,42,Female,"['Allergies', 'Diabetes', 'Cancer', 'Stroke', 'Heart Disease', 'Asthma']",DB07983,1-(4-IODOBENZOYL)-5-METHOXY-2-METHYL INDOLE-3-ACETIC ACID,,1
+7068,Anthony Irwin,30,Male,"['Allergies', 'Stroke', 'Asthma', 'Hypertension']",DB07984,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1S)-1-(hydroxymethyl)propyl]acetamide,,1
+7069,Victor Carpenter,61,Female,"['Arthritis', 'Asthma', 'Allergies', 'Stroke', 'Hypertension', 'Cancer']",DB07985,+/-METHYL 4-(AMINOIMINOMETHYL)-BETA-[3- INH (AMINOIMINO)PHENYL]BENZENE PENTANOATE,,1
+7070,Kimberly Robinson,98,Female,"['Allergies', 'Stroke', 'Hypertension', 'Heart Disease']",DB07986,[4-(4-PHENYL-PIPERIDIN-1-YL)-BENZENESULFONYLAMINO]-ACETIC ACID,,0
+7071,Keith Brooks,52,Male,"['Stroke', 'Arthritis', 'Heart Disease', 'Diabetes', 'Asthma']",DB07987,"[2-(5-Mercapto-[1,3,4]thiadiazol-2-ylcarbamoyl)-1-phenyl-ethyl]-carbamic acid benzyl ester",,0
+7072,Jeffrey Moreno,77,Male,"['Cancer', 'Stroke', 'Asthma', 'Allergies', 'Arthritis', 'Diabetes']",DB07988,"2-[3-(5-Mercapto-[1,3,4]thiadiazol-2yl)-ureido]-N-methyl-3-pentafluorophenyl-propionamide",,1
+7073,Brandon Farmer,28,Male,"['Arthritis', 'Allergies', 'Asthma', 'Heart Disease', 'Hypertension']",DB07989,2-(ACETYL-HYDROXY-AMINO)-4-METHYL-PENTANOIC ACID METHYL ESTER,,1
+7074,Michael Newton,73,Male,['Diabetes'],DB07990,"(RP,SP)-O-(2R)-(1-PHENOXYBUT-2-YL)-METHYLPHOSPHONIC ACID CHLORIDE",,1
+7075,Jessica Nguyen,66,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07991,N-[(1R)-3-(4-HYDROXYPHENYL)-1-METHYLPROPYL]-2-(2-PHENYL-1H-INDOL-3-YL)ACETAMIDE,,0
+7076,Larry Smith Jr.,70,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07992,Indoxyl sulfate,3-indolyl hydrogen sulfate | 3-indolyl sulfate | 3-Indoxyl sulfate | 3-Indoxylsulfuric acid | Indican | Indol-3-yl hydrogen sulfate | Indol-3-yl sulfate | Indoxyl sulfic acid | Indoxyl sulphate | Indoxyl-3-sulphate | Indoxylsulfuric acid,1
+7077,Tyler Stevens,18,Female,"['Asthma', 'Allergies', 'Hypertension', 'Stroke', 'Arthritis', 'Diabetes', 'Cancer']",DB07993,"N~3~-[3-(1H-INDOL-6-YL)BENZYL]PYRIDINE-2,3-DIAMINE",,0
+7078,Rachel Nolan,86,Male,['Hypertension'],DB07994,"N~3~-[5-(1H-INDOL-6-YL)-2-(PYRIDIN-2-YLMETHOXY)BENZYL]PYRIDINE-2,3-DIAMINE",,1
+7079,Richard Stewart,91,Male,"['Diabetes', 'Hypertension', 'Allergies', 'Heart Disease', 'Asthma']",DB07995,H-89,N-[2-(4-bromocinnamylamino)ethyl]isoquinoline-5-sulfonamide,1
+7080,Eric Hess DVM,47,Male,"['Stroke', 'Heart Disease', 'Hypertension', 'Arthritis', 'Diabetes', 'Cancer', 'Asthma', 'Allergies']",DB07996,5-(2-methylpiperazine-1-sulfonyl)isoquinoline,1-(5-Isoquinolinesulfonyl)-2-methylpiperazine | 1-(5-Isoquinolinylsulfonyl)-2-methylpiperazine,1
+7081,Alyssa Davis,94,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07997,N-[2-(METHYLAMINO)ETHYL]-5-ISOQUINOLINESULFONAMIDE,,0
+7082,Destiny Mosley MD,68,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB07999,"{4-[(CARBOXYMETHOXY)CARBONYL]-3,3-DIOXIDO-1-OXONAPHTHO[1,2-D]ISOTHIAZOL-2(1H)-YL}ACETIC ACID",,1
+7083,Mr. Jonathan Sweeney,67,Female,"['Diabetes', 'Cancer', 'Hypertension']",DB08000,"2-(CARBOXYMETHYL)-1-OXO-1,2-DIHYDRONAPHTHO[1,2-D]ISOTHIAZOLE-4-CARBOXYLIC ACID 3,3-DIOXIDE",,0
+7084,Laura Page,22,Male,"['Cancer', 'Diabetes']",DB08001,5-(3-{3-[3-HYDROXY-2-(METHOXYCARBONYL)PHENOXY]PROPENYL}PHENYL)-4-(HYDROXYMETHYL)ISOXAZOLE-3-CARBOXYLIC ACID,,1
+7085,Laura Shelton,83,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08003,ISOTHIAZOLIDINONE ANALOG,,0
+7086,Lori Yu,44,Female,"['Stroke', 'Asthma', 'Arthritis', 'Cancer']",DB08004,"(2S)-2-{[3-(3-aminophenyl)imidazo[1,2-b]pyridazin-6-yl]amino}-3-methylbutan-1-ol",,0
+7087,Ashley Jimenez,71,Male,"['Cancer', 'Stroke', 'Allergies', 'Diabetes', 'Hypertension']",DB08005,4-{[5-chloro-4-(1H-indol-3-yl)pyrimidin-2-yl]amino}-N-ethylpiperidine-1-carboxamide,,0
+7088,Troy Fox,29,Female,['Stroke'],DB08006,"N-anthracen-2-yl-5-methyl[1,2,4]triazolo[1,5-a]pyrimidin-7-amine",,1
+7089,Jessica Williams,93,Female,"['Allergies', 'Hypertension', 'Arthritis', 'Stroke']",DB08007,(2R)-3-{[(BENZYLAMINO)CARBONYL]AMINO}-2-HYDROXYPROPANOIC ACID,,0
+7090,Hunter Lee,27,Male,"['Diabetes', 'Cancer', 'Arthritis', 'Allergies', 'Stroke', 'Hypertension', 'Heart Disease', 'Asthma']",DB08008,"5-methyl-N-[4-(trifluoromethyl)phenyl][1,2,4]triazolo[1,5-a]pyrimidin-7-amine",,0
+7091,Thomas Bates,46,Male,"['Arthritis', 'Cancer', 'Diabetes', 'Stroke']",DB08009,SU-11652,,0
+7092,Alyssa Summers,84,Male,"['Stroke', 'Hypertension', 'Allergies', 'Arthritis', 'Asthma']",DB08010,"(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime",,1
+7093,Ryan Ford,58,Male,"['Stroke', 'Cancer', 'Heart Disease', 'Allergies', 'Arthritis', 'Diabetes', 'Asthma', 'Hypertension']",DB08011,"(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime",,1
+7094,Brittney Harrell,75,Female,"['Asthma', 'Allergies']",DB08012,Pirodavir,Pirodavir | Pirodavirum,0
+7095,Scott Chang,55,Female,"['Stroke', 'Diabetes', 'Allergies', 'Heart Disease']",DB08013,(METHYLPYRIDAZINE PIPERIDINE PROPYLOXYPHENYL)ETHYLACETATE,,0
+7096,Hannah Maynard,85,Male,"['Asthma', 'Arthritis', 'Hypertension', 'Diabetes', 'Stroke']",DB08014,(METHYLPYRIDAZINE PIPERIDINE BUTYLOXYPHENYL)ETHYLACETATE,,1
+7097,Leslie Anderson,24,Male,"['Cancer', 'Diabetes', 'Arthritis', 'Asthma', 'Hypertension']",DB08015,"(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime",,0
+7098,Peter James,23,Female,"['Cancer', 'Hypertension', 'Allergies', 'Stroke', 'Diabetes']",DB08016,"4-(6-CHLORO-2,4-DIOXO-1,2,3,4-TETRAHYDROPYRIMIDIN-5-YL) BUTYL PHOSPHATE",,0
+7099,Annette Nash PhD,33,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08017,3-METHOXY-6-[4-(3-METHYLPHENYL)-1-PIPERAZINYL]PYRIDAZINE,,1
+7100,Joshua Davis,26,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08018,"N-{(3S,4S)-4-[(6-AMINO-4-METHYLPYRIDIN-2-YL)METHYL]PYRROLIDIN-3-YL}-N'-(4-CHLOROBENZYL)ETHANE-1,2-DIAMINE",,0
+7101,Lori Smith,74,Male,['Stroke'],DB08019,"N-{(3R,4S)-4-[(6-amino-4-methylpyridin-2-yl)methyl]pyrrolidin-3-yl}-N'-(3-chlorobenzyl)ethane-1,2-diamine",,0
+7102,Luis Holland,44,Male,"['Diabetes', 'Cancer', 'Arthritis']",DB08020,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-6-(METHOXYMETHYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",,0
+7103,Gloria Jenkins,51,Male,"['Heart Disease', 'Arthritis', 'Cancer', 'Allergies', 'Diabetes', 'Stroke', 'Asthma']",DB08021,5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide,,1
+7104,Jeffery Gonzales,79,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08022,"(2S)-1,3-benzothiazol-2-yl{2-[(2-pyridin-3-ylethyl)amino]pyrimidin-4-yl}ethanenitrile",,0
+7105,Catherine Huffman,93,Female,"['Allergies', 'Stroke', 'Diabetes']",DB08023,"N-cyclohexyl-4-imidazo[1,2-a]pyridin-3-yl-N-methylpyrimidin-2-amine",,0
+7106,Jaime Boyer,95,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08024,1-[2-(S)-AMINO-3-BIPHENYL-4-YL-PROPIONYL]-PYRROLIDINE-2-(S)-CARBONITRILE,,1
+7107,Kristin Graham,96,Male,"['Asthma', 'Heart Disease', 'Diabetes', 'Hypertension', 'Cancer']",DB08025,"N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE",,1
+7108,Lynn Cardenas PhD,42,Male,"['Heart Disease', 'Allergies']",DB08026,"2-{4-[(4-imidazo[1,2-a]pyridin-3-ylpyrimidin-2-yl)amino]piperidin-1-yl}-N-methylacetamide",,0
+7109,Alexandra David,92,Female,"['Asthma', 'Heart Disease', 'Cancer', 'Allergies']",DB08027,CAP-1,,0
+7110,George Webb,44,Male,"['Heart Disease', 'Arthritis', 'Hypertension', 'Asthma', 'Allergies', 'Diabetes', 'Cancer']",DB08028,"BUT-3-ENYL-[5-(4-CHLORO-PHENYL)-3,6-DIHYDRO-[1,3,4]THIADIAZIN-2-YLIDENE]-AMINE",,1
+7111,Joshua Lloyd,44,Male,"['Cancer', 'Asthma', 'Heart Disease', 'Allergies', 'Hypertension', 'Diabetes', 'Arthritis']",DB08029,N~2~-(biphenyl-4-ylsulfonyl)-N-hydroxy-N~2~-(2-hydroxyethyl)glycinamide,,0
+7112,Gerald Walker,71,Male,['Stroke'],DB08030,3-[(4'-cyanobiphenyl-4-yl)oxy]-N-hydroxypropanamide,,1
+7113,Tracy Torres,63,Female,['Hypertension'],DB08031,"N-[(13-CYCLOHEXYL-6,7-DIHYDROINDOLO[1,2-D][1,4]BENZOXAZEPIN-10-YL)CARBONYL]-2-METHYL-L-ALANINE",,1
+7114,Jonathan Howard,84,Female,['Heart Disease'],DB08032,"N,N-DIETHYL-2-[(2-THIENYLCARBONYL)AMINO]-4,5,6,7-TETRAHYDRO-1-BENZOTHIOPHENE-3-CARBOXAMIDE",,1
+7115,Heather Garcia,92,Male,"['Hypertension', 'Heart Disease']",DB08033,"(5R)-N,N-DIETHYL-5-METHYL-2-[(THIOPHEN-2-YLCARBONYL)AMINO]-4,5,6,7-TETRAHYDRO-1-BENZOTHIOPHENE-3-CARBOXAMIDE",,0
+7116,Shelly Clark,99,Female,['Heart Disease'],DB08034,"(E)-3,4-DIHYDROXY-N'-[(2-METHOXYNAPHTHALEN-1-YL)METHYLENE]BENZOHYDRAZIDE",,1
+7117,Blake Brown,67,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08035,"1-TERT-BUTYL-3-(2,5-DIMETHYLBENZYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-4-AMINE",,0
+7118,Allison Robinson,49,Female,"['Allergies', 'Cancer']",DB08036,"6,7,12,13-tetrahydro-5H-indolo[2,3-a]pyrrolo[3,4-c]carbazol-5-one",,1
+7119,Denise Reyes,100,Male,['Cancer'],DB08037,MK-0731,,1
+7120,Ashley Frost,46,Male,"['Diabetes', 'Hypertension']",DB08038,"L-alanyl-N-[(1S,2R)-1-benzyl-2-hydroxypropyl]-L-alaninamide",,0
+7121,Paula Rodriguez,34,Male,"['Cancer', 'Allergies', 'Heart Disease', 'Asthma', 'Arthritis', 'Stroke']",DB08039,"(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE",,1
+7122,Andrew Martin,64,Male,"['Hypertension', 'Heart Disease', 'Cancer', 'Allergies', 'Arthritis', 'Asthma']",DB08040,Kelatorphan,(3-(N-Hydroxy)carboxamido-2-benzylpropanoyl)alanine,0
+7123,Ashley Lopez,75,Male,"['Cancer', 'Stroke', 'Diabetes']",DB08041,3-BENZYLOXYCARBONYLAMINO-2-HYDROXY-4-PHENYL-BUTYRIC ACID,,1
+7124,Vickie Mcfarland,88,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08042,"N~4~-methyl-N~4~-(3-methyl-1H-indazol-6-yl)-N~2~-(3,4,5-trimethoxyphenyl)pyrimidine-2,4-diamine",,1
+7125,Sandra Moore,22,Male,"['Hypertension', 'Heart Disease', 'Asthma', 'Allergies', 'Stroke']",DB08043,1-[4-(PYRIDIN-4-YLOXY)PHENYL]-3-[3-(TRIFLUOROMETHYL)PHENYL]UREA,,0
+7126,Kyle Gould,44,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08044,ABT-341,"(1S,6R)-3-{[3-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[4,3-A]PYRAZIN-7(8H)-YL]CARBONYL}-6-(2,4,5-TRIFLUOROPHENYL)CYCLOHEX-3-EN-1-AMINE",1
+7127,Shelby Landry,94,Male,"['Arthritis', 'Cancer', 'Diabetes', 'Stroke', 'Hypertension']",DB08045,"4-{4-[4-(3-AMINOPROPOXY)PHENYL]-1H-PYRAZOL-5-YL}-6-CHLOROBENZENE-1,3-DIOL",,0
+7128,Dr. Patrick Vazquez,71,Male,"['Allergies', 'Diabetes', 'Asthma']",DB08046,2-chloro-5-[(1S)-1-hydroxy-3-oxo-2H-isoindol-1-yl]benzenesulfonamide,,0
+7129,Paul Grimes,72,Male,"['Cancer', 'Diabetes', 'Asthma', 'Hypertension', 'Arthritis', 'Allergies', 'Heart Disease']",DB08047,"4-[1-allyl-7-(trifluoromethyl)-1H-indazol-3-yl]benzene-1,3-diol",,1
+7130,Kevin White,50,Male,"['Allergies', 'Arthritis', 'Asthma', 'Stroke', 'Cancer', 'Diabetes']",DB08048,"4-(6-HYDROXY-1H-INDAZOL-3-YL)BENZENE-1,3-DIOL",,0
+7131,Ashley Peterson,40,Female,"['Cancer', 'Allergies', 'Asthma', 'Stroke', 'Hypertension']",DB08049,"7,8-dihydroxy-4-phenyl-2H-chromen-2-one",,1
+7132,Shane Henderson MD,90,Male,"['Asthma', 'Cancer', 'Stroke', 'Arthritis']",DB08050,5-phenyl-2-keto-valeric acid,,1
+7133,Timothy Warren,38,Female,"['Allergies', 'Stroke', 'Diabetes', 'Asthma', 'Cancer']",DB08051,"(2R)-4-(2-BENZOYL-1,2-DIAZEPAN-1-YL)-4-OXO-1-(2,4,5-TRIFLUOROPHENYL)BUTAN-2-AMINE",,1
+7134,Cynthia Clarke,83,Male,"['Diabetes', 'Allergies', 'Heart Disease', 'Cancer', 'Asthma', 'Arthritis', 'Stroke']",DB08052,PP-121,,1
+7135,Matthew Wallace,53,Female,"['Allergies', 'Cancer']",DB08053,"1-cyclobutyl-3-(3,4-dimethoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",,1
+7136,Courtney Smith,72,Male,"['Stroke', 'Hypertension']",DB08054,"1-(1-methylethyl)-3-quinolin-6-yl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",,0
+7137,Pamela Goodwin,31,Male,"['Heart Disease', 'Cancer', 'Stroke']",DB08055,"N-(2-chlorophenyl)-5-phenylimidazo[1,5-a]pyrazin-8-amine",,1
+7138,Larry Villa,25,Male,"['Heart Disease', 'Asthma', 'Hypertension', 'Cancer']",DB08056,"N-(2,6-dimethylphenyl)-5-phenylimidazo[1,5-a]pyrazin-8-amine",,0
+7139,Mr. James Brown,44,Male,['Allergies'],DB08057,"N-(2-chloro-6-methylphenyl)-8-[(3S)-3-methylpiperazin-1-yl]imidazo[1,5-a]quinoxalin-4-amine",,0
+7140,Lucas Flores,22,Female,['Asthma'],DB08058,"4-[3-(1,4-diazepan-1-ylcarbonyl)-4-fluorobenzyl]phthalazin-1(2H)-one",,0
+7141,Lisa Johnson,85,Female,"['Diabetes', 'Hypertension', 'Asthma', 'Heart Disease', 'Stroke', 'Cancer']",DB08059,Wortmannin,Wartmannin,0
+7142,Edward Fuller,54,Female,"['Arthritis', 'Diabetes', 'Hypertension']",DB08060,4-(2-AMINOPHENYL)-4-OXOBUTANOIC ACID,,0
+7143,Richard Johnson,49,Male,['Cancer'],DB08061,4-[3-(4-CHLOROPHENYL)-1H-PYRAZOL-5-YL]PIPERIDINE,,1
+7144,Brian Gibbs,94,Female,['Arthritis'],DB08062,"3-(4-CHLOROPHENYL)-5-(METHYLTHIO)-4H-1,2,4-TRIAZOLE",,0
+7145,Megan Williams,89,Male,"['Allergies', 'Diabetes', 'Stroke', 'Cancer', 'Heart Disease']",DB08063,"1-BENZYL-3-(4-METHOXYPHENYLAMINO)-4-PHENYLPYRROLE-2,5-DIONE",,0
+7146,Jonathan Howell,90,Male,['Arthritis'],DB08064,N-(3-TERT-BUTYL-1H-PYRAZOL-5-YL)-N'-{4-CHLORO-3-[(PYRIDIN-3-YLOXY)METHYL]PHENYL}UREA,,1
+7147,Miguel Gray,30,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08065,2-(1H-pyrazol-3-yl)-1H-benzimidazole,,1
+7148,Tamara White,82,Male,"['Stroke', 'Hypertension']",DB08066,N-[3-(1H-BENZIMIDAZOL-2-YL)-1H-PYRAZOL-4-YL]BENZAMIDE,,1
+7149,Morgan Mclaughlin,38,Male,"['Stroke', 'Allergies', 'Arthritis', 'Diabetes']",DB08067,4-[(2-{4-[(CYCLOPROPYLCARBAMOYL)AMINO]-1H-PYRAZOL-3-YL}-1H-BENZIMIDAZOL-6-YL)METHYL]MORPHOLIN-4-IUM,,0
+7150,Melissa Jordan,42,Female,"['Allergies', 'Stroke', 'Heart Disease']",DB08068,N-[4-CHLORO-3-(PYRIDIN-3-YLOXYMETHYL)-PHENYL]-3-FLUORO-,,0
+7151,Annette Smith,64,Male,"['Hypertension', 'Cancer', 'Asthma']",DB08069,"4-AMINO-5-(2-METHYLPHENYL)-2,4-DIHYDRO-3H-1,2,4-TRIAZOLE-3-THIONE",,0
+7152,Steven Crawford,71,Female,"['Heart Disease', 'Hypertension']",DB08070,2-[4-(3-METHYL-1H-PYRAZOL-4-YL)PHENYL]ETHANAMINE,,1
+7153,Lindsey Hayes,61,Male,"['Hypertension', 'Cancer', 'Arthritis', 'Stroke', 'Allergies', 'Asthma', 'Heart Disease']",DB08071,"(2S)-1-methyl-2-[(2S,4R)-2-methyl-4-phenylpentyl]piperidine",,0
+7154,Kyle Fields,54,Male,"['Allergies', 'Arthritis', 'Stroke', 'Hypertension', 'Asthma', 'Heart Disease', 'Diabetes', 'Cancer']",DB08072,"4-(2-AMINOETHOXY)-3,5-DICHLORO-N-[3-(1-METHYLETHOXY)PHENYL]BENZAMIDE",,1
+7155,Marissa Grant,69,Female,"['Heart Disease', 'Hypertension', 'Allergies', 'Cancer', 'Diabetes', 'Arthritis']",DB08073,(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE,,1
+7156,Vanessa Lyons,39,Female,['Diabetes'],DB08074,3-(3-Methyl-2-buten-1-yl)-3H-purin-6-amine,,0
+7157,Amber Reed,65,Male,"['Arthritis', 'Diabetes', 'Cancer']",DB08075,"4-(2-amino-1,3-thiazol-4-yl)pyrimidin-2-amine",,0
+7158,Johnathan Mcbride,72,Female,"['Hypertension', 'Allergies']",DB08076,"4-[1-(2,6-dichlorobenzyl)-2-methyl-1H-imidazol-4-yl]pyrimidin-2-amine",,0
+7159,Joseph Ramirez,81,Male,"['Allergies', 'Stroke', 'Cancer', 'Asthma', 'Arthritis', 'Hypertension', 'Heart Disease']",DB08077,"2-[4-({[(3,5-DICHLOROPHENYL)AMINO]CARBONYL}AMINO)PHENOXY]-2-METHYLPROPANOIC ACID",,0
+7160,Andrea Hall,38,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08078,{4-[3-(4-acetyl-3-hydroxy-2-propylphenoxy)propoxy]phenoxy}acetic acid,,1
+7161,Abigail Brown,46,Male,"['Asthma', 'Hypertension', 'Arthritis']",DB08079,AMG-208,"7-methoxy-4-[(6-phenyl[1,2,4]triazolo[4,3-b]pyridazin-3-yl)methoxy]quinoline",0
+7162,Mrs. Lori Jordan,62,Male,"['Asthma', 'Hypertension', 'Stroke', 'Cancer', 'Allergies', 'Heart Disease', 'Diabetes', 'Arthritis']",DB08080,Latrunculin B,(+)-latrunculin B | LAT-B,0
+7163,Diane Duran,67,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08081,3-OXO-OCTANOIC ACID (2-OXO-TETRAHYDRO-FURAN-3-YL)-AMIDE,,0
+7164,Timothy Williams,80,Female,"['Stroke', 'Heart Disease', 'Allergies']",DB08082,N-(2-AMINOETHYL)-P-CHLOROBENZAMIDE,,0
+7165,Joshua Gordon,91,Male,"['Hypertension', 'Cancer', 'Allergies']",DB08083,"2-(1,3-thiazol-4-yl)-1H-benzimidazole-5-sulfonamide",,0
+7166,Diana Davis DVM,96,Male,"['Diabetes', 'Arthritis', 'Asthma', 'Stroke', 'Cancer']",DB08084,IDD594,,0
+7167,Sarah Howard,92,Female,"['Diabetes', 'Allergies']",DB08085,1-(4-HEXYLPHENYL)PROP-2-EN-1-ONE,,1
+7168,Charles Pham,66,Female,"['Asthma', 'Cancer', 'Arthritis', 'Diabetes', 'Hypertension', 'Heart Disease', 'Allergies', 'Stroke']",DB08086,N-[12-(1H-imidazol-1-yl)dodecanoyl]-L-leucine,,1
+7169,Jacob Thompson,33,Male,"['Heart Disease', 'Allergies', 'Stroke']",DB08087,"4-[(7R,7AS)-7-HYDROXY-1,3-DIOXOTETRAHYDRO-1H-PYRROLO[1,2-C]IMIDAZOL-2(3H)-YL]-1-NAPHTHONITRILE",,1
+7170,Dr. Wyatt Anderson,29,Female,"['Heart Disease', 'Cancer', 'Arthritis', 'Stroke', 'Diabetes', 'Hypertension', 'Allergies', 'Asthma']",DB08088,"2-chloro-4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)tetrahydro-1H-pyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-3-methylbenzonitrile",,0
+7171,George Johnson,73,Male,"['Stroke', 'Asthma', 'Heart Disease', 'Hypertension']",DB08089,LGD-2226,"6-(Bis-(2,2,2-trifluoroethyl)amino)-4-trifluoromethyl-1H-quinolin-2-one",0
+7172,Erica Neal,41,Female,"['Hypertension', 'Stroke', 'Cancer', 'Diabetes', 'Asthma']",DB08090,"(3Z,5S,6R,7S,8R,8aR)-3-(octylimino)hexahydro[1,3]oxazolo[3,4-a]pyridine-5,6,7,8-tetrol",,1
+7173,Dawn Mooney,31,Male,['Diabetes'],DB08091,3-FLUORO-5-MORPHOLIN-4-YL-N-[3-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-5-YL]BENZAMIDE,,1
+7174,Eric Reyes,33,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08092,3-fluoro-N-1H-indol-5-yl-5-morpholin-4-ylbenzamide,,1
+7175,Gregory Davis,24,Male,['Asthma'],DB08093,3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE,,0
+7176,Kayla Simon,31,Female,"['Allergies', 'Arthritis', 'Hypertension', 'Asthma', 'Heart Disease', 'Diabetes', 'Stroke', 'Cancer']",DB08094,RO-4584820,,1
+7177,Jessica Olson,61,Male,"['Arthritis', 'Allergies', 'Heart Disease']",DB08095,"3-(2-CHLOROPHENYL)-1-(2-{[(1S)-2-HYDROXY-1,2-DIMETHYLPROPYL]AMINO}PYRIMIDIN-4-YL)-1-(4-METHOXYPHENYL)UREA",,0
+7178,Shawn Hughes,34,Female,"['Arthritis', 'Stroke', 'Hypertension', 'Heart Disease', 'Asthma']",DB08096,"8-(2-CHLOROPHENYLAMINO)-2-(2,6-DIFLUOROPHENYLAMINO)-9-ETHYL-9H-PURINE-1,7-DIIUM",,1
+7179,Holly Cobb,64,Male,['Heart Disease'],DB08097,"2-(2,6-DIFLUOROPHENOXY)-N-(2-FLUOROPHENYL)-9-ISOPROPYL-9H-PURIN-8-AMINE",,1
+7180,Thomas Alvarez,48,Female,"['Heart Disease', 'Asthma', 'Stroke', 'Arthritis', 'Cancer', 'Allergies', 'Hypertension', 'Diabetes']",DB08098,"{[5-(5-nitro-2-furyl)-1,3,4-oxadiazol-2-yl]thio}acetic acid",,1
+7181,Brandon Williams DDS,47,Female,"['Asthma', 'Diabetes']",DB08099,"6-ethyl-5-[(2S)-1-(3-methoxypropyl)-2-phenyl-1,2,3,4-tetrahydroquinolin-7-yl]pyrimidine-2,4-diamine",,0
+7182,Aimee Johnson,100,Female,"['Arthritis', 'Allergies', 'Asthma', 'Heart Disease', 'Cancer', 'Diabetes', 'Hypertension']",DB08100,"2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol",,1
+7183,Austin George,42,Female,"['Asthma', 'Allergies', 'Stroke', 'Hypertension', 'Arthritis']",DB08101,"2,6-dibromo-4-[(E)-2-phenylethenyl]phenol",,0
+7184,Brian Ferguson,99,Male,"['Asthma', 'Diabetes']",DB08102,"3,5-dibromobiphenyl-4-ol",,1
+7185,Angelica Hammond,27,Male,"['Stroke', 'Arthritis', 'Diabetes', 'Cancer']",DB08103,"2,6-dibromo-4-phenoxyphenol",,0
+7186,Greg Byrd,86,Male,"['Diabetes', 'Arthritis', 'Allergies', 'Heart Disease', 'Hypertension', 'Asthma', 'Stroke']",DB08104,"N-(3,5-dibromo-4-hydroxyphenyl)benzamide",,0
+7187,Logan Dean,59,Female,"['Asthma', 'Cancer', 'Allergies', 'Hypertension', 'Heart Disease', 'Diabetes']",DB08105,N-[(6-butoxynaphthalen-2-yl)sulfonyl]-L-glutamic acid,,0
+7188,Kevin Gonzales,45,Female,"['Asthma', 'Diabetes', 'Cancer', 'Arthritis', 'Heart Disease', 'Allergies', 'Hypertension']",DB08106,N-[(6-butoxynaphthalen-2-yl)sulfonyl]-D-glutamic acid,,1
+7189,Robert Rosales,27,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08107,N-{[6-(PENTYLOXY)NAPHTHALEN-2-YL]SULFONYL}-D-GLUTAMIC ACID,,0
+7190,Jennifer Maxwell,47,Male,"['Heart Disease', 'Asthma', 'Allergies', 'Cancer', 'Diabetes', 'Stroke', 'Arthritis', 'Hypertension']",DB08108,N-({6-[(4-CYANOBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,,0
+7191,Crystal Davenport,83,Male,"['Heart Disease', 'Stroke', 'Diabetes', 'Asthma', 'Allergies', 'Hypertension', 'Arthritis']",DB08109,"(1S,4R,7AR)-4-BUTOXY-1-[(1R)-1-FORMYLPROPYL]-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID",,0
+7192,Carmen Ward,54,Male,"['Cancer', 'Diabetes']",DB08110,"(1R,4S,7AS)-1-(1-FORMYLPROP-1-EN-1-YL)-4-METHOXY-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID",,1
+7193,Anthony Young,31,Female,"['Heart Disease', 'Hypertension', 'Stroke', 'Asthma', 'Cancer', 'Diabetes']",DB08111,"4-[(6-phenyl[1,2,4]triazolo[4,3-b]pyridazin-3-yl)methyl]phenol",,1
+7194,Matthew Henson,61,Female,['Arthritis'],DB08112,N-({6-[(4-CYANO-2-FLUOROBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,,0
+7195,Miguel Smith,67,Male,['Allergies'],DB08113,3-pyridin-4-yl-1H-indazole,,0
+7196,Michelle Jennings,30,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08114,"5-benzyl-1,3-thiazol-2-amine",,1
+7197,Kathleen Rivera,76,Female,"['Diabetes', 'Arthritis', 'Hypertension', 'Heart Disease', 'Asthma', 'Cancer', 'Stroke', 'Allergies']",DB08115,2-aminoethyl naphthalen-1-ylacetate,,0
+7198,Blake Long,83,Male,"['Stroke', 'Heart Disease', 'Arthritis', 'Asthma', 'Hypertension', 'Allergies', 'Cancer', 'Diabetes']",DB08116,"(3R)-4-{[(3,4-dihydroxyphenyl)acetyl]oxy}-N-(2-formylindolizin-3-yl)-3-sulfino-D-valine",,0
+7199,Sarah Martinez,82,Female,"['Cancer', 'Asthma']",DB08118,"2-(methylamino)-N-(4-methyl-1,3-thiazol-2-yl)-5-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]benzamide",,1
+7200,Cheryl Velasquez,78,Male,"['Diabetes', 'Asthma', 'Cancer', 'Heart Disease']",DB08119,"1,1,1-TRIFLUORO-3-((N-ACETYL)-L-LEUCYLAMIDO)-4-PHENYL-BUTAN-2-ONE(N-ACETYL-L-LEUCYL-L-PHENYLALANYL TRIFLUOROMETHYL KETONE)",,0
+7201,Charles Ware,22,Female,"['Diabetes', 'Allergies', 'Heart Disease', 'Asthma', 'Stroke', 'Hypertension', 'Arthritis', 'Cancer']",DB08120,"6,8-DIMERCAPTO-OCTANOIC ACID AMIDE",,0
+7202,Barbara Coleman,78,Female,"['Hypertension', 'Arthritis']",DB08121,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid,,0
+7203,Brandi Hubbard,60,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08122,"N-Methyl-4-{[(2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}benzenesulfonamide",,1
+7204,Elizabeth Brown,52,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08123,"N-methyl-{4-[2-(7-oxo-6,7-dihydro-8H-[1,3]thiazolo[5,4-e]indol-8-ylidene)hydrazino]phenyl}methanesulfonamide",,0
+7205,Kenneth Allen,81,Male,['Stroke'],DB08124,"3-{[(2,2-dioxido-1,3-dihydro-2-benzothien-5-yl)amino]methylene}-5-(1,3-oxazol-5-yl)-1,3-dihydro-2H-indol-2-one",,0
+7206,Casey Williamson,61,Male,"['Cancer', 'Diabetes', 'Stroke', 'Asthma', 'Allergies', 'Arthritis', 'Hypertension', 'Heart Disease']",DB08125,"4-{[(2-Oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}-N-(1,3-thiazol-2-yl)benzenesulfonamide",,1
+7207,Christopher Thornton,97,Female,"['Arthritis', 'Asthma', 'Stroke', 'Allergies', 'Diabetes', 'Hypertension', 'Cancer', 'Heart Disease']",DB08126,"3-{[4-([amino(imino)methyl]aminosulfonyl)anilino]methylene}-2-oxo-2,3-dihydro-1H-indole",,1
+7208,Casey Clay,100,Female,"['Heart Disease', 'Diabetes', 'Cancer', 'Allergies', 'Stroke', 'Arthritis', 'Hypertension', 'Asthma']",DB08127,"1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene",,0
+7209,Sandra Harris,35,Female,"['Diabetes', 'Stroke', 'Cancer', 'Heart Disease']",DB08128,"(1S,4R,9S)-5-(trifluoromethyl)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-9-amine",,0
+7210,Kristie Brown,76,Male,"['Hypertension', 'Stroke', 'Allergies', 'Cancer', 'Asthma', 'Diabetes', 'Arthritis']",DB08129,(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethanol,,1
+7211,Rebecca Bernard,38,Male,"['Arthritis', 'Asthma', 'Hypertension', 'Diabetes', 'Stroke', 'Allergies', 'Heart Disease', 'Cancer']",DB08130,"N-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",,0
+7212,Elizabeth Miller,47,Male,"['Diabetes', 'Asthma', 'Arthritis', 'Heart Disease', 'Hypertension']",DB08131,"2-{4-[2-(2-AMINO-4-OXO-4,7-DIHYDRO-3H-PYRROLO[2,3-D]PYRIMIDIN-5-YL)-ETHYL]-BENZOYLAMINO}-3-METHYL-BUTYRIC ACID",,1
+7213,Bradley Ayala,35,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08132,5-hydroxynaphthalene-1-sulfonamide,,1
+7214,Anthony Morales,65,Female,"['Cancer', 'Stroke', 'Arthritis', 'Hypertension', 'Asthma', 'Allergies']",DB08133,N-(4-sulfamoylphenyl)-1H-indazole-3-carboxamide,,1
+7215,Patricia Bell,75,Female,['Arthritis'],DB08134,4-[(6-chloropyrazin-2-yl)amino]benzenesulfonamide,,0
+7216,Kaitlin Hawkins,25,Female,"['Arthritis', 'Stroke', 'Cancer', 'Allergies']",DB08135,N-phenyl-1H-pyrazole-3-carboxamide,,1
+7217,Sylvia Smith,34,Male,"['Diabetes', 'Cancer', 'Arthritis', 'Heart Disease', 'Allergies', 'Hypertension']",DB08136,4-(acetylamino)-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide,,0
+7218,Erica Hall,85,Female,"['Hypertension', 'Diabetes', 'Heart Disease', 'Asthma', 'Arthritis', 'Cancer', 'Stroke']",DB08137,(4E)-N-(4-fluorophenyl)-4-[(phenylcarbonyl)imino]-4H-pyrazole-3-carboxamide,,1
+7219,Steven Thomas,77,Female,"['Hypertension', 'Asthma', 'Diabetes', 'Allergies', 'Arthritis', 'Cancer']",DB08138,"{[(2,6-difluorophenyl)carbonyl]amino}-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide",,1
+7220,Adam Johnson,45,Female,['Asthma'],DB08139,"5-chloro-7-[(1-methylethyl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile",,0
+7221,Tara Adams,47,Male,"['Cancer', 'Heart Disease', 'Stroke', 'Arthritis']",DB08140,"5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE",,1
+7222,Seth Young,64,Female,"['Stroke', 'Diabetes', 'Hypertension']",DB08141,"4-{[(2,6-difluorophenyl)carbonyl]amino}-N-[(3S)-piperidin-3-yl]-1H-pyrazole-3-carboxamide",,0
+7223,James Walker,30,Female,"['Asthma', 'Cancer', 'Diabetes', 'Arthritis', 'Stroke']",DB08142,AT-7519,"4-{[(2,6-dichlorophenyl)carbonyl]amino}-N-piperidin-4-yl-1H-pyrazole-3-carboxamide",1
+7224,Richard Walker,37,Female,"['Asthma', 'Heart Disease', 'Allergies', 'Arthritis']",DB08143,"5-CHLORO-THIOPHENE-2-CARBOXYLIC ACID ((3S,4S)-4-FLUORO- 1-{[2-FLUORO-4-(2-OXO-2H-PYRIDIN-1-YL)-PHENYLCARBAMOYL]-METHYL}-PYRROLIDIN-3-YL)-AMIDE",,1
+7225,Russell Hoover,97,Male,['Hypertension'],DB08144,"6-(2,6-dibromophenyl)pyrido[2,3-d]pyrimidine-2,7-diamine",,0
+7226,Claire Malone,78,Male,"['Stroke', 'Asthma', 'Allergies', 'Cancer', 'Heart Disease', 'Diabetes', 'Arthritis']",DB08145,"6-(2,6-DIMETHOXYPHENYL)PYRIDO[2,3-D]PYRIMIDINE-2,7-DIAMINE",,1
+7227,Pamela Stark,88,Female,"['Asthma', 'Diabetes', 'Hypertension', 'Allergies']",DB08146,"7-(2,5-dihydropyrrol-1-yl)-6-phenyl-pyrido[6,5-d]pyrimidin-2-amine",,0
+7228,Matthew Rodriguez,79,Female,"['Cancer', 'Arthritis', 'Allergies']",DB08147,"4-[3-(dibenzylamino)phenyl]-2,4-dioxobutanoic acid",,0
+7229,Michelle Walker,26,Male,['Cancer'],DB08148,"1-[4-(4-chlorophenyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",,1
+7230,Austin George,96,Female,"['Hypertension', 'Arthritis']",DB08149,"1-[4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",,0
+7231,Jennifer Webb,31,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08150,"4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium",,1
+7232,Mary Chase,82,Male,['Stroke'],DB08151,"(5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-phenyl-1,6-dioxa-2-azaspiro[4.5]dec-2-ene-8,9,10-triol",,1
+7233,Nicole Rhodes,85,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08152,{(2S)-1-[N-(tert-butoxycarbonyl)glycyl]pyrrolidin-2-yl}methyl (3-chlorophenyl)acetate,,1
+7234,Michael Jordan,27,Female,"['Diabetes', 'Arthritis', 'Stroke', 'Asthma', 'Heart Disease', 'Allergies']",DB08153,"(5E)-14-CHLORO-15,17-DIHYDROXY-4,7,8,9,10,11-HEXAHYDRO-2-BENZOXACYCLOPENTADECINE-1,12(3H,13H)-DIONE",,1
+7235,Tonya Mccoy,40,Male,"['Arthritis', 'Diabetes', 'Asthma']",DB08154,3-chloro-5-[2-chloro-5-(1H-indazol-3-ylmethoxy)phenoxy]benzonitrile,,1
+7236,Erin Morgan,71,Male,"['Stroke', 'Allergies', 'Asthma', 'Arthritis']",DB08155,N-{2-[4-(AMINOSULFONYL)PHENYL]ETHYL}ACETAMIDE,,0
+7237,Melissa Green,33,Male,"['Hypertension', 'Diabetes', 'Asthma', 'Heart Disease', 'Stroke', 'Arthritis', 'Cancer']",DB08156,3-[4-(AMINOSULFONYL)PHENYL]PROPANOIC ACID,,1
+7238,Morgan Jones,86,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08157,ETHYL 3-[4-(AMINOSULFONYL)PHENYL]PROPANOATE,,0
+7239,Mark Bailey,48,Male,['Hypertension'],DB08158,"2,4-DINITROPHENYL 2-DEOXY-2-FLUORO-BETA-D-MANNOPYRANOSIDE",,0
+7240,Misty Smith,43,Male,"['Diabetes', 'Asthma', 'Allergies', 'Arthritis', 'Cancer']",DB08159,"4-(5,11-DIOXO-5H-INDENO[1,2-C]ISOQUINOLIN-6(11H)-YL)BUTANOATE",,0
+7241,Mark Davis,70,Female,['Allergies'],DB08160,"(2S)-2-AMINO-4-(METHYLSULFANYL)-1-(1,3-THIAZOL-2-YL)BUTANE-1,1-DIOL",,0
+7242,Jacob Anderson,80,Male,"['Diabetes', 'Asthma', 'Heart Disease', 'Arthritis']",DB08161,(S)-2-(MERCAPTOMETHYL)-5-PHENYLPENTANOIC ACID,,0
+7243,Luis Norton,61,Female,"['Hypertension', 'Allergies', 'Diabetes', 'Stroke', 'Asthma', 'Arthritis', 'Cancer']",DB08162,Fasudil,Fasudil,1
+7244,Wendy Jordan,64,Female,"['Diabetes', 'Hypertension']",DB08163,5'-{[4-(aminooxy)butyl](methyl)amino}-5'-deoxy-8-ethenyladenosine,,0
+7245,Shannon Burke,78,Female,"['Asthma', 'Arthritis', 'Diabetes']",DB08164,"(3R,4R)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-3-AMINE",,0
+7246,Tina Maddox,78,Male,"['Allergies', 'Hypertension', 'Cancer', 'Asthma']",DB08165,indane-5-sulfonamide,,1
+7247,Ryan Jones,30,Male,"['Heart Disease', 'Hypertension', 'Diabetes', 'Cancer', 'Allergies']",DB08166,"(4R)-7-chloro-9-methyl-1-oxo-1,2,4,9-tetrahydrospiro[beta-carboline-3,4'-piperidine]-4-carbonitrile",,1
+7248,Donald Boyle,56,Male,"['Stroke', 'Cancer', 'Allergies', 'Heart Disease', 'Hypertension', 'Asthma']",DB08167,Methylthioninium,Methylene blue cation,1
+7249,Jacob Williams,86,Female,['Stroke'],DB08168,Coumarin 120,7-Amino-4-methylcoumarin,0
+7250,Katrina Nelson,95,Female,"['Heart Disease', 'Allergies', 'Asthma']",DB08169,(2Z)-N-biphenyl-4-yl-2-cyano-3-cyclopropyl-3-hydroxyprop-2-enamide,,0
+7251,Juan Leach,19,Female,"['Hypertension', 'Asthma', 'Heart Disease', 'Stroke', 'Diabetes', 'Allergies']",DB08170,"(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE",,0
+7252,Brad Burns,46,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08171,11-MERCAPTOUNDECANOIC ACID,,1
+7253,Alex Valencia,33,Female,['Asthma'],DB08172,(2Z)-N-(3-chloro-2'-methoxybiphenyl-4-yl)-2-cyano-3-hydroxybut-2-enamide,,0
+7254,Nicholas Taylor,69,Male,"['Allergies', 'Heart Disease', 'Stroke', 'Diabetes']",DB08173,5-CHLORO-N-(2-(4-(2-OXOPYRIDIN-1(2H)-YL)BENZAMIDO)ETHYL)THIOPHENE-2-CARBOXAMIDE,,1
+7255,Paul Perkins,80,Female,"['Asthma', 'Cancer', 'Stroke']",DB08174,"5-CHLORO-N-((1R,2S)-2-(4-(2-OXOPYRIDIN-1(2H)-YL)BENZAMIDO) CYCLOPENTYL)THIOPHENE-2-CARBOXAMIDE",,1
+7256,Kimberly Lam,23,Female,"['Cancer', 'Diabetes', 'Asthma', 'Hypertension', 'Allergies', 'Heart Disease']",DB08175,"(2E,4E)-11-METHOXY-3,7,11-TRIMETHYLDODECA-2,4-DIENOIC ACID",,0
+7257,Mary Marsh,83,Female,"['Diabetes', 'Arthritis']",DB08176,(1Z)-4-(4-FLUOROPHENYL)-2-METHYLIDENEBUTAN-1-IMINE,,0
+7258,Charles Walker,51,Female,"['Cancer', 'Allergies', 'Arthritis']",DB08177,(E)-3-(5((5-(4-CHLOROPHENYL)FURAN-2-YL)METHYLENE)-4-OXO-2-THIOXOTHIAZOLIDIN-3-YL)PROPANOIC ACID,,0
+7259,Tina Miles,71,Female,"['Allergies', 'Arthritis', 'Asthma', 'Heart Disease', 'Hypertension']",DB08178,"4-(4-methoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine",,0
+7260,Julie Black,26,Male,"['Arthritis', 'Hypertension', 'Diabetes', 'Allergies', 'Cancer', 'Heart Disease', 'Stroke', 'Asthma']",DB08179,"methyl 4-(2,3-dihydroxy-5-methylphenoxy)-2-hydroxy-6-methylbenzoate",,1
+7261,Colleen Gay,96,Male,"['Cancer', 'Arthritis', 'Asthma', 'Heart Disease']",DB08180,2-[METHYL-(5-GERANYL-4-METHYL-PENT-3-ENYL)-AMINO]-ETHYL-DIPHOSPHATE,,0
+7262,Jose Hernandez,70,Female,"['Heart Disease', 'Allergies']",DB08181,2-((3'-METHYL-4'-HYDROXYPHENYL)AZO)BENZOIC ACID,,0
+7263,Logan Snyder,23,Male,"['Asthma', 'Stroke', 'Cancer', 'Arthritis', 'Diabetes']",DB08182,"4-(4-propoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine",,0
+7264,Duane Crawford,42,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08184,2-(2-METHYLPHENYL)-1H-INDOLE-5-CARBOXIMIDAMIDE,,0
+7265,Anthony Sanchez,36,Male,"['Diabetes', 'Cancer', 'Hypertension']",DB08185,2-METHYLTHIO-N6-ISOPENTENYL-ADENOSINE-5'-MONOPHOSPHATE,,0
+7266,Ashley Patrick,69,Female,"['Asthma', 'Arthritis', 'Hypertension', 'Allergies', 'Heart Disease', 'Diabetes', 'Cancer']",DB08186,(3E)-4-(1-METHYL-1H-INDOL-3-YL)BUT-3-EN-2-ONE,,0
+7267,Steve Franco,58,Female,"['Arthritis', 'Hypertension', 'Stroke', 'Cancer', 'Heart Disease', 'Diabetes', 'Allergies', 'Asthma']",DB08187,N-Methylphenylalanyl-N-[(trans-4-aminocyclohexyl)methyl]-L-prolinamide,,1
+7268,Tabitha Gamble,89,Female,"['Cancer', 'Heart Disease', 'Allergies', 'Stroke', 'Diabetes', 'Arthritis']",DB08188,Emivirine,"1-(ethoxymethyl)-5-(1-methylethyl)-6-(phenylmethyl)pyrimidine-2,4(1H,3H)-dione | 6-benzyl-1-(ethoxymethyl)-5-(1-methylethyl)uracil | Emivirine",1
+7269,Allison Williams,78,Female,"['Arthritis', 'Heart Disease', 'Hypertension']",DB08190,N-[2-(2-iodo-5-methoxy-1H-indol-3-yl)ethyl]acetamide,,1
+7270,Jerry Mejia,59,Male,['Hypertension'],DB08191,"4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid",,0
+7271,Aimee Woodard,40,Male,"['Heart Disease', 'Diabetes', 'Cancer', 'Stroke', 'Asthma']",DB08192,2-(4-CARCOXY-5-ISOPROPYLTHIAZOLYL)BENZOPIPERIDINE,,0
+7272,Hannah Conway,41,Female,"['Heart Disease', 'Diabetes', 'Allergies', 'Stroke']",DB08193,2-(3-NITROPHENYL)ACETIC ACID,,1
+7273,Sabrina Watson,96,Male,['Asthma'],DB08194,"4-methyl-7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidin-2-amine",,1
+7274,Jennifer Rose,51,Male,"['Diabetes', 'Heart Disease', 'Hypertension', 'Asthma', 'Arthritis', 'Cancer', 'Allergies']",DB08195,(1R)-2-[(CYANOMETHYL)AMINO]-1-({[2-(DIFLUOROMETHOXY)BENZYL]SULFONYL}METHYL)-2-OXOETHYL MORPHOLINE-4-CARBOXYLATE,,1
+7275,Joseph Cohen,53,Female,"['Heart Disease', 'Asthma', 'Diabetes', 'Hypertension', 'Cancer', 'Stroke', 'Arthritis']",DB08196,"2-((3',5'-DIMETHOXY-4'-HYDROXYPHENYL)AZO)BENZOIC ACID",,0
+7276,Gene Wood,77,Female,"['Cancer', 'Diabetes', 'Hypertension', 'Asthma', 'Allergies', 'Arthritis']",DB08197,"(5E,7S)-2-amino-7-(4-fluoro-2-pyridin-3-ylphenyl)-4-methyl-7,8-dihydroquinazolin-5(6H)-one oxime",,1
+7277,Kimberly Barnett,91,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08198,"[(4R)-4-(3-HYDROXYPHENYL)-1,6-DIMETHYL-2-THIOXO-1,2,3,4-TETRAHYDROPYRIMIDIN-5-YL](PHENYL)METHANONE",,0
+7278,Sarah Townsend MD,30,Male,"['Heart Disease', 'Arthritis', 'Stroke', 'Diabetes', 'Allergies']",DB08199,N-[(BENZYLOXY)CARBONYL]-L-CYSTEINYLGLYCINE,,1
+7279,Karen Gibson,47,Male,"['Hypertension', 'Cancer', 'Allergies', 'Diabetes', 'Arthritis', 'Heart Disease', 'Stroke']",DB08200,(1R)-menthyl hexyl phosphonate group,,1
+7280,Nicole Carney,30,Male,"['Arthritis', 'Heart Disease', 'Cancer']",DB08201,(1S)-menthyl hexyl phosphonate group,,1
+7281,Jamie Crawford,22,Male,"['Hypertension', 'Cancer', 'Asthma', 'Allergies', 'Heart Disease', 'Arthritis', 'Stroke', 'Diabetes']",DB08202,4-({[(4-METHYLPIPERAZIN-1-YL)AMINO]CARBONOTHIOYL}AMINO)BENZENESULFONAMIDE,,0
+7282,Meghan Haley,84,Female,['Diabetes'],DB08203,"7-[2-METHOXY-1-(METHOXYMETHYL)ETHYL]-7H-PYRROLO[3,2-F] QUINAZOLINE-1,3-DIAMINE",,1
+7283,Brian Robinson,89,Female,['Diabetes'],DB08204,3-DIPHENOL-6-NITRO-3H-BENZO[DE]ISOCHROMEN-1-ONE,,0
+7284,Alicia Moody,31,Female,"['Allergies', 'Asthma', 'Heart Disease', 'Hypertension']",DB08205,"4-(1,3-BENZOXAZOL-2-YL)-2,6-DIMETHYLPHENOL",,1
+7285,Christine Hensley,21,Female,"['Heart Disease', 'Diabetes', 'Allergies', 'Cancer', 'Stroke', 'Hypertension', 'Arthritis', 'Asthma']",DB08206,"4-(1,3-BENZOXAZOL-2-YL)-2,6-DIBROMOPHENOL",,0
+7286,Kimberly Lopez,31,Female,['Cancer'],DB08207,"2-(3,5-DIMETHYLPHENYL)-1,3-BENZOXAZOLE",,0
+7287,Jennifer Hill,48,Female,"['Diabetes', 'Hypertension', 'Arthritis', 'Heart Disease', 'Allergies']",DB08208,"2-[(4-ETHYNYL-2-FLUOROPHENYL)AMINO]-3,4-DIFLUORO-N-(2-HYDROXYETHOXY)BENZAMIDE",,0
+7288,Vicki Pope,33,Male,"['Heart Disease', 'Cancer', 'Diabetes', 'Allergies', 'Hypertension', 'Arthritis', 'Stroke']",DB08209,Methyl red,2-((4-Dimethylamino)phenylazo)benzoic acid | 2-[(p-Dimethylamino)phenyl]azobenzoic acid | 2-Carboxy-4'-(dimethylamino)azobenzene | 4-Dimethylamino-2'-carboxylazobenzene | 4'-(Dimethylamino)azobenzene-2-carboxylic acid | 4'-Dimethylaminoazobenzene-2-carboxylic acid | C.I. Acid Red 2 | o-((p-(Dimethylamino)phenyl)azo)benzoic acid | o-Methyl red | p-(Dimethylamino)azobenzene-o-carboxylic acid,1
+7289,Mary Payne,90,Male,"['Hypertension', 'Cancer', 'Stroke']",DB08210,"2-AMINO-4-FLUORO-5-[(1-METHYL-1H-IMIDAZOL-2-YL)SULFANYL]-N-(1,3-THIAZOL-2-YL)BENZAMIDE",,0
+7290,Adam Henderson,24,Female,"['Stroke', 'Arthritis', 'Hypertension', 'Diabetes']",DB08211,5-bromo-3-(pyrrolidin-1-ylsulfonyl)-1H-indole-2-carboxamide,,0
+7291,Travis Moore,18,Female,"['Hypertension', 'Cancer', 'Allergies', 'Arthritis', 'Asthma', 'Stroke', 'Heart Disease', 'Diabetes']",DB08212,1-[2-(3-ACETYL-2-HYDROXY-6-METHOXY-PHENYL)-CYCLOPROPYL]-3-(5-CYANO-PYRIDIN-2-YL)-THIOUREA,,0
+7292,Philip Ochoa,62,Male,"['Cancer', 'Allergies', 'Hypertension', 'Stroke', 'Heart Disease', 'Arthritis', 'Asthma', 'Diabetes']",DB08213,"1-METHYL-5-(2-PHENOXYMETHYL-PYRROLIDINE-1-SULFONYL)-1H-INDOLE-2,3-DIONE",,1
+7293,Michael Diaz,36,Male,"['Asthma', 'Arthritis', 'Allergies', 'Hypertension', 'Heart Disease']",DB08214,4-(1H-IMIDAZOL-1-YL)PHENOL,,1
+7294,Jeffrey Garcia,99,Female,"['Heart Disease', 'Cancer', 'Allergies', 'Arthritis', 'Asthma', 'Stroke', 'Diabetes', 'Hypertension']",DB08215,Terbutryn,Terbutryn | Terbutryne,0
+7295,Mary Howard,54,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08216,2-((3'-TERTBUTYL-4'-HYDROXYPHENYL)AZO)BENZOIC ACID,,0
+7296,Christina Murray,79,Female,"['Arthritis', 'Stroke', 'Cancer', 'Asthma', 'Heart Disease']",DB08217,"S-[(1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrol-3-yl)methyl] methanesulfonothioate",,1
+7297,Thomas Lee,76,Female,"['Arthritis', 'Diabetes', 'Stroke', 'Allergies', 'Cancer', 'Hypertension', 'Asthma']",DB08218,"HYDROXY(OXO)(3-{[(2Z)-4-[3-(1H-1,2,4-TRIAZOL-1-YLMETHYL)PHENYL]PYRIMIDIN-2(5H)-YLIDENE]AMINO}PHENYL)AMMONIUM",,0
+7298,Jaime Torres,30,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08219,"4-Methyl-5-[(2Z)-2-{[4-(4-morpholinyl)phenyl]imino}-2,5-dihydro-4-pyrimidinyl]-1,3-thiazol-2-amine",,0
+7299,Michaela Lee,78,Male,"['Allergies', 'Diabetes', 'Stroke', 'Heart Disease']",DB08220,"(8alpha,10alpha,13alpha,17beta)-17-[(4-hydroxyphenyl)carbonyl]androsta-3,5-diene-3-carboxylic acid",,1
+7300,Clinton Swanson,66,Female,['Diabetes'],DB08221,N-{4-METHYL-3-[(3-PYRIMIDIN-4-YLPYRIDIN-2-YL)AMINO]PHENYL}-3-(TRIFLUOROMETHYL)BENZAMIDE,,0
+7301,Stephanie Anderson,46,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08222,METHOXYUNDECYLPHOSPHINIC ACID,,0
+7302,Johnathan Coleman,92,Female,['Heart Disease'],DB08223,"N-{(1S,2R)-1-BENZYL-3-[(CYCLOPROPYLMETHYL)(2-FURYLSULFONYL)AMINO]-2-HYDROXYPROPYL}-N'-METHYLSUCCINAMIDE",,0
+7303,Thomas Campbell,34,Female,['Asthma'],DB08224,"(1S,7S,8S,8AR)-1,2,3,7,8,8A-HEXAHYDRO-7-METHYL-8-[2-[(2R,4R)-TETRAHYDRO-4-HY DROXY-6-OXO-2H-PYRAN-2-YL]ETHYL]-1-NAPHTHALENOL",,1
+7304,Albert Davis,63,Female,"['Arthritis', 'Asthma']",DB08226,Myxopyronin B,,0
+7305,Dr. Jared Barron,19,Male,['Cancer'],DB08227,"1-(1-HYDROXY-2,2,6,6-TETRAMETHYLPIPERIDIN-4-YL)PYRROLIDINE-2,5-DIONE",,0
+7306,Anthony Morris,55,Male,"['Stroke', 'Allergies', 'Hypertension', 'Heart Disease']",DB08228,"5,8-dimethoxy-1,4-dimethylquinolin-2(1H)-one",,1
+7307,Timothy Harris,72,Male,"['Cancer', 'Heart Disease', 'Diabetes', 'Hypertension', 'Allergies', 'Arthritis', 'Stroke', 'Asthma']",DB08229,[N-(3-dibenzylcarbamoyl-oxiranecarbonyl)-hydrazino]-acetic acid,,1
+7308,Lori White,24,Male,"['Hypertension', 'Heart Disease', 'Allergies', 'Cancer', 'Stroke']",DB08230,Tricetin,"3',4',5,5',7-pentahydroxyflavone | 5,7,3',4',5'-Pentahydroxyflavone | Tricetin | Tricetinidin",0
+7309,Rhonda Key,79,Female,['Arthritis'],DB08231,Myristic acid,1-tridecanecarboxylic acid | N-tetradecan-1-oic acid | N-tetradecanoic acid | Tetradecanoic acid,0
+7310,Maria Torres DDS,30,Female,"['Cancer', 'Allergies', 'Asthma']",DB08232,"[5-(5-Amino-1H-pyrrolo[3,2-b]pyridin-2-yl)-6-hydroxy-3'-nitro-3-biphenylyl]acetic acid",,1
+7311,Darius Nelson,77,Female,['Arthritis'],DB08233,6-CYCLOHEXYLMETHYLOXY-2-(4'-HYDROXYANILINO)PURINE,,0
+7312,Joshua Young,81,Male,"['Arthritis', 'Hypertension', 'Diabetes', 'Allergies', 'Stroke', 'Asthma', 'Heart Disease', 'Cancer']",DB08234,"5-[3-(2,5-dimethoxyphenyl)prop-1-yn-1-yl]-6-ethylpyrimidine-2,4-diamine",,1
+7313,Patrick Alvarez,37,Male,"['Arthritis', 'Stroke', 'Hypertension']",DB08235,N-[2-(2-methyl-1H-indol-3-yl)ethyl]thiophene-2-carboxamide,,1
+7314,Patricia Andrews,69,Male,"['Stroke', 'Cancer', 'Diabetes', 'Arthritis', 'Allergies']",DB08236,"(2S)-2-(3-bromophenyl)-3-(5-chloro-2-hydroxyphenyl)-1,3-thiazolidin-4-one",,1
+7315,Michael Brown,37,Female,"['Arthritis', 'Allergies', 'Diabetes', 'Cancer', 'Hypertension', 'Stroke', 'Asthma']",DB08237,2'-deoxy-N-(naphthalen-1-ylmethyl)guanosine 5'-(dihydrogen phosphate),,0
+7316,Michele Rangel,53,Female,"['Heart Disease', 'Asthma', 'Arthritis', 'Hypertension', 'Cancer', 'Diabetes', 'Stroke', 'Allergies']",DB08238,5-aminonaphthalene-2-sulfonic acid,"1-naphthylamine-6-sulfonic acid | 1,6-Cleve's acid | 5-aminonaphthalene-2-sulphonic acid | 5-naphthylamine-2-sulfonic acid | Cleve's β-acid | α-naphthylamine-6-sulfonic acid",1
+7317,Kathryn Ortiz,50,Female,"['Diabetes', 'Arthritis', 'Cancer', 'Allergies', 'Asthma']",DB08239,"(2S)-4-(2,5-DIFLUOROPHENYL)-N-METHYL-2-PHENYL-N-PIPERIDIN-4-YL-2,5-DIHYDRO-1H-PYRROLE-1-CARBOXAMIDE",,0
+7318,Jill Perez,31,Male,"['Cancer', 'Stroke', 'Asthma']",DB08240,N-(4-CHLOROPHENYL)-3-(PHOSPHONOOXY)NAPHTHALENE-2-CARBOXAMIDE,,1
+7319,Christopher Martin,77,Male,"['Asthma', 'Arthritis', 'Hypertension']",DB08241,4-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)--BENZAMIDE,,1
+7320,Jessica Bailey,33,Female,"['Cancer', 'Arthritis', 'Heart Disease', 'Diabetes', 'Allergies', 'Hypertension']",DB08242,"N,4-dimethyl-3-[(1-phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]benzamide",,0
+7321,Ryan Ford,54,Female,"['Hypertension', 'Allergies', 'Diabetes', 'Stroke', 'Arthritis']",DB08244,"(1S)-1-CYCLOPROPYL-2-[(2S)-4-(2,5-DIFLUOROPHENYL)-2-PHENYL-2,5-DIHYDRO-1H-PYRROL-1-YL]-2-OXOETHANAMINE",,1
+7322,Mr. Mark Robinson,42,Female,"['Heart Disease', 'Hypertension', 'Diabetes', 'Stroke', 'Cancer']",DB08245,1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-5-NITRO-1H-INDOLE,,0
+7323,Karen Jordan,54,Male,"['Allergies', 'Cancer', 'Asthma', 'Stroke', 'Diabetes', 'Heart Disease', 'Arthritis', 'Hypertension']",DB08246,"(2S)-4-(2,5-DIFLUOROPHENYL)-N,N-DIMETHYL-2-PHENYL-2,5-DIHYDRO-1H-PYRROLE-1-CARBOXAMIDE",,1
+7324,Colleen Nguyen,33,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08247,6-(CYCLOHEXYLMETHOXY)-8-ISOPROPYL-9H-PURIN-2-AMINE,,1
+7325,Tyler Fowler,19,Female,"['Diabetes', 'Hypertension', 'Arthritis', 'Cancer']",DB08248,3-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)-BENZENESULFONAMIDE,,0
+7326,Cory Fields,60,Male,"['Arthritis', 'Asthma', 'Stroke', 'Cancer', 'Allergies']",DB08249,"3,6,9,12,15-PENTAOXATRICOSAN-1-OL",,1
+7327,Dr. Angela Russo,99,Male,"['Heart Disease', 'Allergies', 'Hypertension', 'Stroke', 'Diabetes', 'Cancer', 'Asthma', 'Arthritis']",DB08250,"(5S)-5-(3-AMINOPROPYL)-3-(2,5-DIFLUOROPHENYL)-N-ETHYL-5-PHENYL-4,5-DIHYDRO-1H-PYRAZOLE-1-CARBOXAMIDE",,0
+7328,Wayne Petersen,87,Female,"['Diabetes', 'Allergies', 'Asthma', 'Heart Disease', 'Arthritis']",DB08251,4-[5-(2-CARBOXY-1-FORMYL-ETHYLCARBAMOYL)-PYRIDIN-3-YL]-BENZOIC ACID,,0
+7329,Adrian Robinson,80,Male,"['Stroke', 'Asthma', 'Heart Disease']",DB08252,2-((4'-HYDROXYNAPHTHYL)-AZO)BENZOIC ACID,,1
+7330,Courtney Jefferson,70,Female,"['Stroke', 'Asthma', 'Allergies']",DB08253,NAM NAPTHYLAMINOALANINE,,0
+7331,Miss Jennifer Miller,42,Male,['Diabetes'],DB08254,2-Naphthalenesulfonic acid,beta-Naphthalenesulfonic acid | beta-Naphthylsulfonic acid | Naphthalene-2-sulfonic acid | β-naphthalenesulfonic acid | β-naphthylsulfonic acid,1
+7332,Donald Jarvis,53,Male,"['Heart Disease', 'Diabetes', 'Arthritis', 'Hypertension', 'Allergies', 'Cancer']",DB08255,"(3AR,5R,6S,7R,7AR)-5-(HYDROXYMETHYL)-2-PROPYL-5,6,7,7A-TETRAHYDRO-3AH-PYRANO[3,2-D][1,3]THIAZOLE-6,7-DIOL",,1
+7333,Julie Case,59,Female,"['Diabetes', 'Heart Disease', 'Cancer', 'Stroke']",DB08256,N-[(CYCLOHEXYLAMINO)CARBONYL]GLYCINE,,1
+7334,Melissa Mcknight,46,Male,"['Heart Disease', 'Diabetes', 'Stroke', 'Asthma', 'Hypertension']",DB08257,4-{[(CYCLOHEXYLAMINO)CARBONYL]AMINO}BUTANOIC ACID,,1
+7335,Dr. Mia Short,56,Male,['Arthritis'],DB08258,6-{[(CYCLOHEXYLAMINO)CARBONYL]AMINO}HEXANOIC ACID,,1
+7336,Shane Boyd,68,Male,"['Hypertension', 'Stroke', 'Cancer']",DB08259,7-{[(CYCLOHEXYLAMINO)CARBONYL]AMINO}HEPTANOIC ACID,,0
+7337,Monica Smith,30,Female,"['Hypertension', 'Asthma']",DB08260,"(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",,1
+7338,Roberta Clark,66,Male,"['Arthritis', 'Hypertension']",DB08261,"2-hydroxy-7-methoxy-5-methyl-naphthalene-1-carboxylic acid meso-2,5-dihydroxy-cyclopent-3-enyl ester",,0
+7339,Kevin Watkins,86,Female,"['Allergies', 'Arthritis', 'Cancer', 'Diabetes', 'Heart Disease']",DB08262,"2,6-dicarboxynaphthalene",,0
+7340,Jackie Price,85,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08263,N-(carboxycarbonyl)-D-phenylalanine,,0
+7341,Sarah Klein,100,Male,"['Heart Disease', 'Asthma', 'Stroke']",DB08264,"(1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene",,0
+7342,Nina Shaffer,25,Male,"['Diabetes', 'Arthritis', 'Stroke', 'Cancer']",DB08265,"2-(TOLUENE-4-SULFONYL)-2H-BENZO[D][1,2,3]DIAZABORININ-1-OL",,0
+7343,Paul Robertson,52,Male,"['Heart Disease', 'Asthma', 'Arthritis', 'Allergies', 'Diabetes']",DB08266,"Methyl [(1E,5R)-5-{3-[(2E,4E)-2,5-dimethyl-2,4-octadienoyl]-2,4-dioxo-3,4-dihydro-2H-pyran-6-yl}hexylidene]carbamate",,1
+7344,James Burns,24,Female,"['Allergies', 'Cancer', 'Stroke']",DB08267,"6-amino-4-(2-phenylethyl)-1,7-dihydro-8H-imidazo[4,5-g]quinazolin-8-one",,0
+7345,Kara Underwood,72,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08268,"6-AMINO-4-[2-(4-METHYLPHENYL)ETHYL]-1,7-DIHYDRO-8H-IMIDAZO[4,5-G]QUINAZOLIN-8-ONE",,0
+7346,Dean Ruiz,97,Male,['Arthritis'],DB08270,"N-(2-AMINOETHYL)-N~2~-{(1S)-1-[4'-(AMINOSULFONYL)BIPHENYL-4-YL]-2,2,2-TRIFLUOROETHYL}-L-LEUCINAMIDE",,1
+7347,Christina Smith,30,Female,"['Arthritis', 'Stroke', 'Asthma', 'Cancer', 'Diabetes', 'Heart Disease']",DB08271,N-ISOBUTYL-N-[4-METHOXYPHENYLSULFONYL]GLYCYL HYDROXAMIC ACID,,1
+7348,Carla Moore,84,Male,"['Hypertension', 'Asthma', 'Diabetes', 'Cancer', 'Arthritis', 'Allergies']",DB08272,(4S)-4-(2-NAPHTHYLMETHYL)-D-GLUTAMIC ACID,,1
+7349,Dennis Lopez,81,Female,"['Arthritis', 'Asthma', 'Allergies', 'Stroke', 'Hypertension', 'Diabetes', 'Heart Disease']",DB08273,4-HYDROXY-5-IODO-3-NITROPHENYLACETYL-EPSILON-AMINOCAPROIC ACID ANION,,0
+7350,Connie Edwards,33,Female,"['Heart Disease', 'Allergies', 'Asthma', 'Stroke', 'Arthritis']",DB08274,"6,7,8,9-TETRAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOHEPTA[B]PYRAN-2-ONE",,0
+7351,Ashley Small,42,Female,"['Hypertension', 'Cancer', 'Arthritis', 'Stroke', 'Asthma', 'Heart Disease']",DB08275,N-DODECANOYL-L-TYROSINE,,0
+7352,Kristine Turner,87,Female,"['Diabetes', 'Heart Disease', 'Cancer', 'Stroke', 'Hypertension', 'Arthritis', 'Asthma', 'Allergies']",DB08276,trifluoro-[hydroxy-[hydroxy-[2-(N-methyl-2-nitro-anilino)ethoxy]phosphoryl]oxy-phosphoryl]oxy-beryllium(1-),N-methyl O-nitrophenyl aminoethyldiphosphate beryllium trifluoride,1
+7353,Gregory Mathews,87,Male,"['Hypertension', 'Arthritis', 'Allergies', 'Asthma', 'Diabetes', 'Stroke', 'Heart Disease']",DB08277,"2-(2-CHLORO-4-FLUOROPHENOXY)-2-METHYL-N-[(1R,2S,3S,5S,7S)-5-(METHYLSULFONYL)-2-ADAMANTYL]PROPANAMIDE",,0
+7354,Kristi Myers,74,Male,['Allergies'],DB08278,"1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone",,1
+7355,Billy Nelson,47,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08279,3-{ISOPROPYL[(TRANS-4-METHYLCYCLOHEXYL)CARBONYL]AMINO}-5-PHENYLTHIOPHENE-2-CARBOXYLIC ACID,,1
+7356,John Ward,49,Female,['Cancer'],DB08280,"(1S,3R,4S,5S,7S)-4-{[2-(4-METHOXYPHENOXY)-2-METHYLPROPANOYL]AMINO}ADAMANTANE-1-CARBOXAMIDE",,0
+7357,Louis Russell,74,Female,['Cancer'],DB08281,"O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-bromophenyl)thiocarbamate",,0
+7358,Joseph Daniels,57,Male,"['Allergies', 'Cancer', 'Hypertension', 'Asthma', 'Arthritis', 'Heart Disease', 'Stroke']",DB08282,"O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-chlorophenyl)thiocarbamate",,0
+7359,Amy Novak,94,Female,"['Allergies', 'Cancer', 'Arthritis', 'Heart Disease', 'Diabetes', 'Hypertension']",DB08283,"(2R,3R,4R,5S)-2-(HYDROXYMETHYL)-1-NONYLPIPERIDINE-3,4,5-TRIOL",,0
+7360,Patricia Hampton,97,Male,"['Allergies', 'Heart Disease']",DB08284,"O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-iodophenyl)thiocarbamate",,1
+7361,Stephanie Dalton,91,Male,"['Allergies', 'Arthritis', 'Diabetes', 'Asthma', 'Stroke', 'Cancer']",DB08285,"(2R)-2-{[4-(benzylamino)-8-(1-methylethyl)pyrazolo[1,5-a][1,3,5]triazin-2-yl]amino}butan-1-ol",,0
+7362,Taylor Dennis,66,Female,"['Stroke', 'Cancer']",DB08286,1-Naphthoxyacetic acid,(1-naphthalenyloxy)acetic acid | (1-naphthyloxy)acetic acid | 1-naphthyloxyacetic acid,0
+7363,Alexa Tate,31,Female,['Stroke'],DB08287,"(1R,2R)-N-(2-Aminoethyl)-2-{[(4-methoxyphenyl)sulfonyl]methyl}cyclohexanecarboxamide",,0
+7364,Jessica Jackson,73,Male,"['Asthma', 'Heart Disease']",DB08288,CYCLOHEXYL-NORSTATINE,,0
+7365,Gary Fleming,66,Female,"['Allergies', 'Stroke', 'Asthma', 'Diabetes']",DB08289,N-(PARA-GLUTARAMIDOPHENYL-ETHYL)-PIPERIDINIUM-N-OXIDE,,0
+7366,Jessica Ward,55,Female,"['Diabetes', 'Heart Disease', 'Hypertension', 'Allergies']",DB08291,N-(3-AMINOPROPYL)-2-NITROBENZENAMINE,,0
+7367,Raymond Johnson MD,69,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08292,"(5Z)-12-CHLORO-13,15-DIHYDROXY-4,7,8,9-TETRAHYDRO-2-BENZOXACYCLOTRIDECINE-1,10(3H,11H)-DIONE",,1
+7368,Heather Oconnor,64,Female,"['Diabetes', 'Heart Disease', 'Allergies', 'Asthma', 'Arthritis', 'Stroke']",DB08293,"(5E)-12-CHLORO-13,15-DIHYDROXY-4,7,8,9-TETRAHYDRO-2-BENZOXACYCLOTRIDECINE-1,10(3H,11H)-DIONE",,1
+7369,David Matthews,66,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08294,2-(4-HYDROXY-3-NITROPHENYL)ACETIC ACID,,1
+7370,Richard Campbell,63,Female,"['Heart Disease', 'Asthma']",DB08295,4-HYDROXY-3-NITROPHENYLACETYL-EPSILON-AMINOCAPROIC ACID ANION,,0
+7371,Tiffany Gentry,49,Male,"['Arthritis', 'Diabetes', 'Heart Disease', 'Hypertension']",DB08296,5-(PARA-NITROPHENYL PHOSPHONATE)-PENTANOIC ACID,,0
+7372,Julia Cooper,33,Female,"['Heart Disease', 'Allergies']",DB08297,ORTHONITROPHENYL-BETA-D-FUCOPYRANOSIDE,,1
+7373,Valerie Patel,52,Female,"['Arthritis', 'Cancer']",DB08299,"4-[8-(3-nitrophenyl)-1,7-naphthyridin-6-yl]benzoic acid",,1
+7374,Patrick Fields,19,Female,"['Asthma', 'Cancer', 'Arthritis', 'Stroke', 'Allergies', 'Diabetes']",DB08300,"1-methyl-3-naphthalen-2-yl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",,1
+7375,Ann Spencer,89,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08301,N-({[4-(AMINOSULFONYL)PHENYL]AMINO}CARBONYL)-4-METHYLBENZENESULFONAMIDE,,0
+7376,Elizabeth Douglas MD,82,Male,"['Stroke', 'Cancer']",DB08302,3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid,,1
+7377,Jose Duran,18,Male,"['Arthritis', 'Hypertension', 'Diabetes', 'Stroke', 'Cancer', 'Asthma', 'Heart Disease']",DB08303,"(3S)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2,4-benzothiadiazine 1,1-dioxide",,0
+7378,Karen Evans,88,Male,"['Cancer', 'Hypertension', 'Stroke', 'Arthritis']",DB08304,"(3R)-3-cyclopentyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",,1
+7379,Kelly Wells,57,Male,"['Hypertension', 'Cancer']",DB08305,"(3R)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",,1
+7380,Lawrence Jackson,27,Female,"['Allergies', 'Stroke', 'Hypertension']",DB08306,3-[(3-Nitrophenyl)sulfamoyl]-2-thiophenecarboxylic acid,,1
+7381,Luke Kelly,82,Male,"['Hypertension', 'Stroke', 'Diabetes', 'Heart Disease', 'Cancer', 'Arthritis']",DB08307,"2-{HYDROXY[2-NITRO-4-(TRIFLUOROMETHYL)PHENYL]METHYLENE}CYCLOHEXANE-1,3-DIONE",,0
+7382,Michael Collins,63,Female,"['Cancer', 'Arthritis', 'Stroke', 'Heart Disease']",DB08308,"SUCCINIC ACID MONO-(13-METHYL-3-OXO-2,3,6,7,8,9,10,11,12,13,14,15,16,17-TETRADECAHYDRO-1H-CYCLOPENTA[A]PHENANTHREN-17-YL) ESTER",,1
+7383,Angela Simpson,42,Female,"['Allergies', 'Heart Disease', 'Arthritis', 'Hypertension', 'Diabetes', 'Asthma', 'Cancer', 'Stroke']",DB08309,3-({2-[(4-{[6-(CYCLOHEXYLMETHOXY)-9H-PURIN-2-YL]AMINO}PHENYL)SULFONYL]ETHYL}AMINO)PROPAN-1-OL,,0
+7384,Kim Curtis,43,Female,"['Stroke', 'Allergies', 'Arthritis', 'Asthma', 'Diabetes', 'Hypertension', 'Cancer', 'Heart Disease']",DB08310,"N-[(2R)-2-{[(2S)-2-(1,3-benzoxazol-2-yl)pyrrolidin-1-yl]carbonyl}hexyl]-N-hydroxyformamide",,1
+7385,Angel Parker,97,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08312,"6-CYCLOHEXYLMETHYLOXY-5-NITROSO-PYRIMIDINE-2,4-DIAMINE",,0
+7386,Edgar Lee,52,Female,"['Cancer', 'Asthma']",DB08313,Nocodazole,Nocodazol | Nocodazole | Nocodazolum | Oncodazole,0
+7387,Rebecca Miller,60,Female,"['Hypertension', 'Allergies', 'Heart Disease', 'Asthma', 'Stroke', 'Diabetes']",DB08314,"(2-AMINO-1,3-OXAZOL-5-YL)-(3-BROMOPHENYL)METHANONE",,0
+7388,Michael Anderson,27,Male,"['Arthritis', 'Heart Disease', 'Asthma', 'Stroke', 'Allergies', 'Hypertension']",DB08315,"2-AMINO-N,N-BIS(PHENYLMETHYL)-1,3-OXAZOLE-5-CARBOXAMIDE",,1
+7389,Alexis Patton,40,Female,"['Hypertension', 'Cancer', 'Heart Disease', 'Asthma', 'Diabetes', 'Allergies', 'Arthritis']",DB08316,"4-amino-7,7-dimethyl-7,8-dihydroquinazolin-5(6H)-one",,0
+7390,Gerald Taylor,100,Female,"['Heart Disease', 'Hypertension', 'Allergies', 'Cancer', 'Diabetes']",DB08317,"5-methyl-6-phenylquinazoline-2,4-diamine",,0
+7391,Jeffrey Evans,56,Male,"['Asthma', 'Cancer', 'Arthritis', 'Hypertension']",DB08318,"6-(2-phenoxyethoxy)-1,3,5-triazine-2,4-diamine",,0
+7392,Stephen Brown,38,Male,"['Allergies', 'Asthma', 'Cancer']",DB08319,"2'-HYDROXY-1,1'-BIPHENYL-2-SULFINIC ACID",,1
+7393,Elizabeth Moore,74,Male,"['Hypertension', 'Asthma', 'Arthritis']",DB08320,"DIETHYL (1R,2S,3R,4S)-5,6-BIS(4-HYDROXYPHENYL)-7-OXABICYCLO[2.2.1]HEPT-5-ENE-2,3-DICARBOXYLATE",,1
+7394,Lucas Owens,56,Male,"['Allergies', 'Heart Disease', 'Stroke', 'Arthritis', 'Asthma', 'Hypertension']",DB08321,"(1S,2S,3R,6R)-4-(hydroxymethyl)-6-(octylamino)cyclohex-4-ene-1,2,3-triol",,0
+7395,Peter Freeman,71,Male,"['Allergies', 'Stroke', 'Cancer', 'Hypertension']",DB08322,"2-DEOXY-3,4-BIS-O-[3-(4-HYDROXYPHENYL)PROPANOYL]-L-THREO-PENTARIC ACID",,0
+7396,Julie Freeman,88,Female,"['Hypertension', 'Cancer', 'Heart Disease', 'Diabetes']",DB08323,3-OXO-N-[(3S)-2-OXOPYRROLIDIN-3-YL]DODECANAMIDE,,1
+7397,Samuel Parker,29,Male,"['Cancer', 'Diabetes']",DB08324,N-3-OXO-DODECANOYL-L-HOMOSERINE LACTONE,,0
+7398,Craig Navarro MD,70,Female,['Allergies'],DB08325,2-({6-[(3-Chlorophenyl)amino]-9-isopropyl-9H-purin-2-yl}amino)ethanol,2-(2-Hydroxyethylamino)-6-(3-chloroanilino)-9-isopropylpurine,0
+7399,Lisa Jackson,94,Female,"['Diabetes', 'Arthritis', 'Stroke', 'Hypertension', 'Heart Disease', 'Asthma', 'Allergies', 'Cancer']",DB08326,"2-(6-HYDROXY-1,3-BENZOTHIAZOL-2-YL)-1,3-THIAZOL-4(5H)-ONE",,1
+7400,Jackie Schroeder,42,Female,['Diabetes'],DB08327,Homogentisic acid,"2,5-Dihydroxyphenylacetic acid | Homogentisate acid | Homogentisic acid | Homogentisinic acid",0
+7401,Jason Scott,38,Male,"['Allergies', 'Hypertension', 'Stroke', 'Diabetes', 'Arthritis', 'Cancer', 'Asthma', 'Heart Disease']",DB08328,PANTOTHENYL-AMINOETHANOL-11-PIVALIC ACID,,0
+7402,Robert Sanchez,54,Male,"['Hypertension', 'Cancer']",DB08329,Sulthiame,Sulthiame | Sultiame | Sultiamo | Sultiamum,0
+7403,Elizabeth Nelson,54,Male,"['Cancer', 'Hypertension', 'Diabetes', 'Allergies', 'Stroke']",DB08330,METHYL (2Z)-3-METHOXY-2-{2-[(E)-2-PHENYLVINYL]PHENYL}ACRYLATE,,1
+7404,Joshua Torres,69,Male,"['Diabetes', 'Arthritis', 'Hypertension', 'Allergies', 'Asthma', 'Stroke', 'Cancer']",DB08331,"N-1H-imidazol-2-yl-N'-[4-(1H-imidazol-2-ylamino)phenyl]benzene-1,4-diamine",,0
+7405,Jonathan Smith,88,Female,"['Hypertension', 'Diabetes', 'Arthritis', 'Heart Disease', 'Cancer', 'Asthma', 'Stroke']",DB08332,9-(2-carboxyethyl)-10-methylanthracene endoperoxide,[2'-CARBOXYLETHYL]-10-METHYL-ANTHRACENE ENDOPEROXIDE,0
+7406,Robert Carr,75,Male,"['Allergies', 'Stroke', 'Hypertension', 'Asthma', 'Diabetes', 'Arthritis', 'Heart Disease', 'Cancer']",DB08333,4-HYDROXYBENZALDEHYDE O-(CYCLOHEXYLCARBONYL)OXIME,,1
+7407,Jennifer Kelly,55,Male,"['Diabetes', 'Asthma', 'Cancer', 'Stroke', 'Allergies', 'Hypertension']",DB08334,3-FLUORO-4-HYDROXYBENZALDEHYDE O-(CYCLOHEXYLCARBONYL)OXIME,,1
+7408,Nicole Mathis,64,Male,"['Arthritis', 'Asthma', 'Hypertension', 'Diabetes', 'Stroke', 'Heart Disease', 'Allergies']",DB08335,"4-HYDROXYBENZALDEHYDE O-(3,3-DIMETHYLBUTANOYL)OXIME",,0
+7409,Kelly Monroe,56,Male,"['Allergies', 'Arthritis', 'Stroke', 'Diabetes', 'Hypertension', 'Asthma', 'Heart Disease']",DB08336,"2-Methyl-2-propanyl [(1R)-2-methyl-1-(1,3,4-oxadiazol-2-yl)propyl]carbamate",,0
+7410,Michael Green,56,Male,"['Arthritis', 'Cancer', 'Heart Disease', 'Allergies', 'Hypertension']",DB08337,"2-Methyl-2-propanyl [(1S)-2-methyl-1-(1,3,4-oxadiazol-2-yl)propyl]carbamate",,1
+7411,Larry Salinas,68,Female,"['Diabetes', 'Arthritis', 'Cancer', 'Allergies', 'Heart Disease', 'Stroke', 'Asthma']",DB08338,"19-(cyclopropylamino)-4,6,7,15-tetrahydro-5H-16,1-(azenometheno)-10,14-(metheno)pyrazolo[4,3-o][1,3,9]triazacyclohexadecin-8(9H)-one",,0
+7412,Emily Calhoun,95,Male,"['Diabetes', 'Allergies', 'Stroke', 'Heart Disease', 'Arthritis']",DB08339,PD-166326,,1
+7413,Todd Boyer,86,Female,"['Stroke', 'Allergies', 'Arthritis', 'Heart Disease', 'Asthma', 'Hypertension', 'Diabetes']",DB08340,"N,N'-DIPHENYLPYRAZOLO[1,5-A][1,3,5]TRIAZINE-2,4-DIAMINE",,1
+7414,Paul Washington,54,Female,"['Stroke', 'Allergies', 'Heart Disease', 'Hypertension', 'Diabetes']",DB08341,"4-{[4-{[(1R,2R)-2-(dimethylamino)cyclopentyl]amino}-5-(trifluoromethyl)pyrimidin-2-yl]amino}-N-methylbenzenesulfonamide",,1
+7415,Karen Collins,47,Female,"['Cancer', 'Diabetes', 'Stroke', 'Hypertension']",DB08342,S-palmitoyl-L-cysteine,S-Palmitoyl cysteine,0
+7416,Adam Turner,37,Male,['Allergies'],DB08344,4-chloro-N-(3-methoxypropyl)-N-[(3S)-1-(2-phenylethyl)piperidin-3-yl]benzamide,,1
+7417,Deanna Nelson,45,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08345,"4-(2-(1H-IMIDAZOL-4-YL)ETHYLAMINO)-2-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",,0
+7418,Jared Dillon,79,Female,['Allergies'],DB08346,"(5Z)-13-CHLORO-14,16-DIHYDROXY-3,4,7,8,9,10-HEXAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,11(12H)-DIONE",,1
+7419,Charles Torres,98,Male,"['Hypertension', 'Arthritis', 'Asthma']",DB08347,4-{[(2S)-3-(tert-butylamino)-2-hydroxypropyl]oxy}-3H-indole-2-carbonitrile,,1
+7420,Valerie Green,35,Male,"['Stroke', 'Hypertension', 'Heart Disease', 'Allergies']",DB08348,"N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE",,0
+7421,Zachary Ho,61,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08349,"N-cyclopropyl-3-{[1-(2,4-difluorophenyl)-7-methyl-6-oxo-6,7-dihydro-1H-pyrazolo[3,4-b]pyridin-4-yl]amino}-4-methylbenzamide",,1
+7422,Paul Torres,64,Female,"['Asthma', 'Cancer', 'Stroke', 'Heart Disease', 'Hypertension', 'Arthritis', 'Allergies']",DB08350,"5-[3-(2-METHOXYPHENYL)-1H-PYRROLO[2,3-B]PYRIDIN-5-YL]-N,N-DIMETHYLPYRIDINE-3-CARBOXAMIDE",,0
+7423,John Gregory,100,Male,"['Heart Disease', 'Diabetes', 'Cancer', 'Hypertension', 'Asthma', 'Stroke', 'Allergies']",DB08351,N-cyclopropyl-4-methyl-3-{2-[(2-morpholin-4-ylethyl)amino]quinazolin-6-yl}benzamide,,1
+7424,Whitney Graves,42,Male,"['Asthma', 'Hypertension', 'Heart Disease', 'Arthritis', 'Allergies', 'Cancer', 'Stroke', 'Diabetes']",DB08352,"6-[4-(2-fluorophenyl)-1,3-oxazol-5-yl]-N-(1-methylethyl)-1,3-benzothiazol-2-amine",,1
+7425,Brandon Thomas,45,Female,"['Arthritis', 'Heart Disease', 'Cancer', 'Diabetes']",DB08353,"2-(CYCLOHEXYLMETHYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",,0
+7426,Gloria Leach,83,Male,"['Heart Disease', 'Diabetes', 'Asthma', 'Stroke']",DB08354,"2-(4-CHLOROBENZYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",,1
+7427,Molly Guzman,58,Male,"['Cancer', 'Diabetes', 'Asthma', 'Heart Disease', 'Arthritis', 'Allergies', 'Hypertension', 'Stroke']",DB08355,"1-methyl-8-(phenylamino)-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxylic acid",,0
+7428,Mark Francis,90,Male,['Cancer'],DB08356,"4-[4-(4-methoxyphenyl)-5-methyl-1H-pyrazol-3-yl]benzene-1,3-diol",,0
+7429,John Compton,40,Female,"['Arthritis', 'Cancer']",DB08357,Diethylene glycol diethyl ether,1-ethoxy-2-(2-ethoxyethoxy)ethane | 1-Ethoxy-2-(beta-ethoxyethoxy)ethane | Diethyl carbitol | Diethyldiethylene glycol | Diethylene glycol diethyl ether | Ethyl diglyme,1
+7430,Andres Mccann,23,Female,"['Diabetes', 'Hypertension']",DB08358,"2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE",,0
+7431,George Alexander,42,Female,"['Stroke', 'Arthritis', 'Allergies', 'Asthma', 'Cancer', 'Hypertension', 'Diabetes']",DB08359,2-PHENYLAMINO-4-METHYL-5-ACETYL THIAZOLE,,1
+7432,Mr. Scott Jones PhD,84,Female,"['Arthritis', 'Heart Disease', 'Asthma', 'Allergies']",DB08360,"2-(4-ETHYLPIPERAZIN-1-YL)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",,1
+7433,Johnathan Roth,59,Male,['Heart Disease'],DB08361,"2-{[(1R,2S)-2-aminocyclohexyl]amino}-4-[(3-methylphenyl)amino]pyrimidine-5-carboxamide",,1
+7434,Curtis Martin,27,Male,"['Arthritis', 'Diabetes', 'Asthma']",DB08362,"N-(3-(8-CYANO-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZIN-2-YLAMINO)PHENYL)ACETAMIDE",,1
+7435,Melissa Smith,93,Male,"['Hypertension', 'Arthritis', 'Heart Disease', 'Allergies', 'Asthma', 'Stroke', 'Cancer']",DB08363,1-(9-ethyl-9H-carbazol-3-yl)-N-methylmethanamine,,1
+7436,Anthony Knight,51,Male,"['Asthma', 'Heart Disease', 'Arthritis', 'Allergies', 'Diabetes', 'Cancer', 'Stroke']",DB08364,1-{[(1E)-(3-HYDROXY-2-METHYL-5-{[(TRIHYDROXY-LAMBDA^5^-PHOSPHANYL)OXY]METHYL}PYRIDIN-4-YL)METHYLIDENE]AMINO}UNDECAN-2-ONE,,0
+7437,Nathan Griffin,79,Female,"['Stroke', 'Hypertension', 'Arthritis', 'Asthma', 'Allergies']",DB08365,"8-bromo-4-(2-chlorophenyl)-N-(2-hydroxyethyl)-6-methyl-1,3-dioxo-1,2,3,6-tetrahydropyrrolo[3,4-e]indole-7-carboxamide",,1
+7438,Michael Nelson,41,Male,"['Heart Disease', 'Stroke', 'Diabetes', 'Arthritis']",DB08366,"3-({3-[(1S,4aS,6S,7S,9S,9aR)-1,6-dimethyl-2-oxodecahydro-6,9-epoxy-4a,7-methanobenzo[7]annulen-1-yl]propanoyl}amino)-2,4-dihydroxybenzoic acid",,0
+7439,Sarah Turner,94,Female,"['Heart Disease', 'Diabetes', 'Asthma', 'Stroke', 'Allergies']",DB08367,(R)-2-(FORMYLOXY)-3-(PHOSPHONOOXY)PROPYL PENTANOATE,,0
+7440,Gina Perkins,21,Male,['Hypertension'],DB08368,"OCTANE-1,3,5,7-TETRACARBOXYLIC ACID",,0
+7441,Christy Mccoy,36,Male,"['Arthritis', 'Diabetes', 'Allergies', 'Heart Disease', 'Cancer', 'Stroke', 'Hypertension', 'Asthma']",DB08369,1-(biphenyl-4-ylmethyl)-1H-imidazole,,0
+7442,Norma Smith,30,Male,"['Cancer', 'Arthritis', 'Hypertension', 'Allergies', 'Stroke', 'Heart Disease', 'Diabetes', 'Asthma']",DB08370,S-(4-BROMOBENZYL)CYSTEINE,,0
+7443,Samuel Mccullough,33,Female,"['Diabetes', 'Allergies', 'Asthma', 'Hypertension', 'Arthritis']",DB08371,p-Benzoyl-L-phenylalanine,4-Benzoyl-L-phenylalanine | Para-(benzoyl)-phenylalanine,1
+7444,Cheryl Heath,26,Male,"['Arthritis', 'Heart Disease']",DB08372,1-[2-(4-ETHOXY-3-FLUOROPYRIDIN-2-YL)ETHYL]-3-(5-METHYLPYRIDIN-2-YL)THIOUREA,,0
+7445,Ryan Reed,94,Male,"['Arthritis', 'Diabetes', 'Cancer', 'Hypertension']",DB08373,"4,4'-BIS([H]METHYLSULFONYL)-2,2',5,5'-TETRACHLOROBIPHENYL",,0
+7446,Jason Wilson,67,Male,"['Allergies', 'Cancer', 'Heart Disease']",DB08374,Phenylalanylmethylchloride,(3S)-3-Amino-1-chloro-4-phenyl-2-butanone | L-Phenylalanine chloromethyl ketone,1
+7447,Matthew Smith,34,Male,"['Heart Disease', 'Asthma']",DB08375,"(2R)-2-[(1R)-1-[[(2Z)-2-(2-Amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-2-oxoethyl]-5-methylidene-2H-1,3-thiazine-4-carboxylic acid",Pcnotaxime group,1
+7448,Susan Duncan,28,Female,"['Arthritis', 'Allergies']",DB08376,"(2R)-3-(phosphonooxy)propane-1,2-diyl diheptanoate",,1
+7449,Cindy Paul DDS,28,Female,"['Heart Disease', 'Arthritis', 'Asthma', 'Cancer', 'Allergies', 'Hypertension']",DB08377,N-[4-(4-nitrophenylphospho)butanoyl]-D-alanine,N-[4-(4-nitrophenylphospho)butyryl]-D-alanine | p-nitrophenyl phosphonobutanoyl D-alanine,0
+7450,Dominique Ford,97,Male,"['Stroke', 'Hypertension', 'Asthma', 'Cancer', 'Arthritis', 'Heart Disease', 'Diabetes']",DB08378,"4-[4-(2,5-DIOXO-PYRROLIDIN-1-YL)-PHENYLAMINO]-4-HYDROXY-BUTYRIC ACID",,0
+7451,Lisa Baker,85,Male,['Allergies'],DB08379,6-(4-chloro-2-fluoro-3-phenoxybenzyl)pyridazin-3(2H)-one,,0
+7452,Christine Morales,56,Male,"['Stroke', 'Allergies', 'Heart Disease', 'Arthritis']",DB08382,Gosogliptin,"2-(4-{(3S,5S)-5-[(3,3-difluoropyrrolidin-1-yl)carbonyl]pyrrolidin-3-yl}piperazin-1-yl)pyrimidine | Gosogliptin",1
+7453,Nathan Hamilton,83,Male,['Arthritis'],DB08383,"4,5-bis(4-methoxyphenyl)-2-thiophen-2-yl-1H-imidazole",,0
+7454,Adam Roberts,80,Male,"['Cancer', 'Allergies', 'Heart Disease', 'Hypertension', 'Asthma']",DB08384,2-({4-[4-(pyridin-4-ylmethyl)-1H-pyrazol-3-yl]phenoxy}methyl)quinoline,,1
+7455,Amanda Warren,48,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08385,4-(quinolin-3-ylmethyl)piperidine-1-carboxylic acid,,1
+7456,John Moody,53,Male,"['Asthma', 'Allergies', 'Heart Disease']",DB08386,2-{[4-(4-pyridin-4-yl-1H-pyrazol-3-yl)phenoxy]methyl}quinoline,,0
+7457,Lisa Wyatt,89,Male,"['Asthma', 'Stroke', 'Hypertension', 'Heart Disease']",DB08387,Mardepodect,2-[4-(1-Methyl-4-pyridin-4-yl-lH-pyrazol-3-yl)-phenoxymethyl]-quinoline succinic acid | Mardepodect,0
+7458,Crystal Jones,19,Female,['Arthritis'],DB08388,"5-(2-ETHOXYETHYL)-5-[4-(4-FLUOROPHENOXY)PHENOXY]PYRIMIDINE-2,4,6(1H,3H,5H)-TRIONE",,0
+7459,Kim Bailey,81,Male,['Diabetes'],DB08389,"6,7-DIMETHOXY-4-[(3R)-3-(2-NAPHTHYLOXY)PYRROLIDIN-1-YL]QUINAZOLINE",,0
+7460,Mark Cooper,67,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08390,"(6S)-6-CYCLOPENTYL-6-[2-(3-FLUORO-4-ISOPROPOXYPHENYL)ETHYL]-4-HYDROXY-5,6-DIHYDRO-2H-PYRAN-2-ONE",,1
+7461,Ashley Russell,84,Female,"['Heart Disease', 'Stroke', 'Allergies', 'Diabetes', 'Arthritis', 'Cancer', 'Asthma', 'Hypertension']",DB08391,PQ-10,,0
+7462,Julie Johnson,34,Female,"['Stroke', 'Asthma', 'Allergies', 'Cancer', 'Hypertension', 'Heart Disease']",DB08392,"2-[5,6-BIS-(4-METHOXY-PHENYL)-FURO[2,3-D]PYRIMIDIN-4-YLAMINO]-ETHANOL",,0
+7463,Sandra Gibbs,89,Male,"['Diabetes', 'Arthritis', 'Stroke', 'Hypertension', 'Asthma']",DB08393,"2-[(5,6-DIPHENYLFURO[2,3-D]PYRIMIDIN-4-YL)AMINO]ETHANOL",,0
+7464,Jessica Dunn,46,Male,"['Asthma', 'Allergies', 'Heart Disease', 'Cancer', 'Hypertension']",DB08394,PARA-NITROPHENYLPHOSPHONOBUTANOYL-GLYCINE,,0
+7465,Steven Mcclure,98,Female,"['Diabetes', 'Asthma', 'Allergies', 'Cancer', 'Stroke', 'Hypertension']",DB08395,2-(ETHOXYMETHYL)-4-(4-FLUOROPHENYL)-3-[2-(2-HYDROXYPHENOXY)PYRIMIDIN-4-YL]ISOXAZOL-5(2H)-ONE,,0
+7466,Sara Hughes,63,Female,"['Asthma', 'Stroke']",DB08396,"4-{[(Z)-(5-oxo-2-phenyl-1,3-oxazol-4(5H)-ylidene)methyl]amino}butanoic acid",,0
+7467,Paul Elliott,62,Male,['Allergies'],DB08397,6-(DIFLUORO-PHOSPHONO-METHYL)-NAPHTHALENE-2-CARBOXYLIC ACID,,1
+7468,Heather Bowman,37,Female,['Stroke'],DB08398,"2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine","2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine | PhIP",1
+7469,Jamie Brown,78,Male,"['Arthritis', 'Allergies', 'Asthma', 'Diabetes', 'Stroke', 'Hypertension', 'Heart Disease']",DB08399,Piceatannol,"3-hydroxyresveratol | 3,3',4,5'-Tetrahydroxystilbene | 3,3',4'5-Tetrahydroxystilbene | 3,5,3',4'-tetrahydroxystilbene | 4-[(E)-2-(3,5-dihydroxyphenyl)vinyl]benzene-1,2-diol | Piceatannol",1
+7470,Patrick Reid,55,Female,"['Diabetes', 'Cancer', 'Hypertension', 'Asthma']",DB08400,4-(3-{[5-(trifluoromethyl)pyridin-2-yl]oxy}benzyl)piperidine-1-carboxylic acid,,0
+7471,James Williams,29,Male,"['Heart Disease', 'Arthritis', 'Diabetes', 'Hypertension', 'Cancer', 'Allergies']",DB08401,(2E)-2-({(2S)-2-CARBOXY-2-[(PHENOXYACETYL)AMINO]ETHOXY}IMINO)PENTANEDIOIC ACID,,0
+7472,Brandon Smith,84,Female,"['Cancer', 'Asthma', 'Arthritis', 'Stroke', 'Hypertension', 'Diabetes', 'Allergies', 'Heart Disease']",DB08402,"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID",,1
+7473,Tami Watson,37,Female,"['Arthritis', 'Heart Disease', 'Asthma', 'Diabetes']",DB08403,METHYLAMINO-PHENYLALANYL-LEUCYL-HYDROXAMIC ACID,,1
+7474,Laura Smith,61,Female,"['Heart Disease', 'Allergies', 'Stroke', 'Asthma', 'Cancer', 'Arthritis', 'Hypertension', 'Diabetes']",DB08404,"S-(2-{[N-(2-HYDROXY-4-{[HYDROXY(OXIDO)PHOSPHINO]OXY}-3,3-DIMETHYLBUTANOYL)-BETA-ALANYL]AMINO}ETHYL) HEXANETHIOATE",,1
+7475,Jeffrey Dunn,43,Female,"['Asthma', 'Arthritis', 'Allergies', 'Stroke', 'Diabetes']",DB08405,"S-(2-{[N-(2-HYDROXY-4-{[HYDROXY(OXIDO)PHOSPHINO]OXY}-3,3-DIMETHYLBUTANOYL)-BETA-ALANYL]AMINO}ETHYL) HEPTANETHIOATE",,0
+7476,Jill Martin,62,Female,"['Arthritis', 'Asthma', 'Allergies', 'Cancer', 'Hypertension', 'Heart Disease', 'Diabetes', 'Stroke']",DB08406,"[N-(2,4-DIAMINOPTERIDIN-6-YL)-METHYL]-DIBENZ[B,F]AZEPINE",,1
+7477,Victoria Curtis,77,Female,"['Allergies', 'Heart Disease', 'Hypertension', 'Diabetes', 'Stroke', 'Arthritis', 'Cancer', 'Asthma']",DB08407,Platensimycin,(−)-platensimycin,0
+7478,Andrea Randolph,90,Female,"['Cancer', 'Asthma', 'Arthritis', 'Allergies', 'Diabetes', 'Stroke']",DB08408,"(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)butyl 2,2-dimethylpropanoate",,1
+7479,Susan Sanchez,39,Male,['Heart Disease'],DB08409,4-NITRO-BENZYLPHOSPHONOBUTANOYL-GLYCINE,,1
+7480,Rebecca Hayes,37,Male,['Heart Disease'],DB08410,PARA-NITROBENZYL GLUTARYL GLYCINIC ACID,,1
+7481,Roger Underwood,60,Female,"['Stroke', 'Heart Disease', 'Hypertension', 'Arthritis', 'Allergies', 'Cancer', 'Asthma', 'Diabetes']",DB08411,N-[4-(4-nitrophenylphospho)butanoyl]-L-alanine,N-[4-(4-nitrophenylphospho)butyryl]-L-alanine | p-nitrophenyl phosphonobutanoyl L-alanine,0
+7482,Patricia Bailey,41,Male,['Cancer'],DB08412,6-{4-[HYDROXY-(4-NITRO-PHENOXY)-PHOSPHORYL]-BUTYRYLAMINO}-HEXANOIC ACID,,1
+7483,Nicholas Lee,53,Male,"['Stroke', 'Asthma', 'Arthritis', 'Hypertension', 'Cancer', 'Heart Disease']",DB08413,METHYL-PHOSPHONIC ACID MONO-(4-NITRO-PHENYL) ESTER,,0
+7484,Gregory Wang,65,Male,"['Allergies', 'Heart Disease', 'Asthma', 'Diabetes']",DB08414,PNU-142721,,1
+7485,Kristina Benjamin,35,Male,"['Stroke', 'Asthma', 'Allergies', 'Diabetes', 'Heart Disease', 'Cancer', 'Hypertension', 'Arthritis']",DB08416,"(9BETA,13ALPHA,14BETA,17ALPHA)-2-METHOXYESTRA-1,3,5(10)-TRIENE-3,17-DIYL DISULFAMATE",,0
+7486,Emily Cantu,44,Male,"['Arthritis', 'Allergies', 'Hypertension', 'Stroke', 'Asthma', 'Heart Disease']",DB08418,"(4aS,4bR,10bS,12aS)-12a-methyl-1,3-dioxo-2-(pyridin-3-ylmethyl)-1,2,3,4,4a,4b,5,6,10b,11,12,12a-dodecahydronaphtho[2,1-f]isoquinolin-8-yl sulfamate",,0
+7487,Jacqueline Gonzalez,94,Male,"['Arthritis', 'Heart Disease', 'Allergies']",DB08419,(1S)-1-(PHENOXYMETHYL)PROPYL METHYLPHOSPHONOCHLORIDOATE,,0
+7488,Scott Brown,49,Female,"['Hypertension', 'Diabetes']",DB08420,1-{[1-(2-AMINO-3-PHENYL-PROPIONYL)-PYRROLIDINE-2-CARBONYL]-AMINO}-2-(3-CYANO-PHENYL)-ETHANEBORONIC ACID,,1
+7489,Evelyn Wheeler,25,Male,"['Arthritis', 'Hypertension', 'Diabetes', 'Allergies', 'Stroke', 'Heart Disease', 'Asthma']",DB08421,PIPERIDINE-2-CARBOXYLIC ACID TERT-BUTYLAMIDE,,0
+7490,Bianca Hansen,77,Male,"['Arthritis', 'Asthma', 'Hypertension', 'Diabetes', 'Cancer']",DB08422,[PHENYLALANINYL-PROLINYL]-[2-(PYRIDIN-4-YLAMINO)-ETHYL]-AMINE,,0
+7491,Jessica Richmond,44,Female,"['Heart Disease', 'Diabetes', 'Stroke', 'Arthritis']",DB08423,[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL][3-(PIPERIDIN-4-YLOXY)PHENYL]METHANONE,,0
+7492,Haley Jones,88,Female,"['Diabetes', 'Cancer', 'Hypertension', 'Heart Disease', 'Stroke', 'Arthritis']",DB08424,"[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3-DIHYDROXYPROPYL]OXY}PHENYL)METHANONE",,1
+7493,Gary Rivera,32,Male,"['Arthritis', 'Allergies', 'Stroke', 'Asthma', 'Hypertension', 'Cancer', 'Diabetes', 'Heart Disease']",DB08426,"THIENO[3,2-B]PYRIDINE-2-SULFONIC ACID [2-OXO-1-(1H-PYRROLO[2,3-C]PYRIDIN-2-YLMETHYL)-PYRROLIDIN-3-YL]-AMIDE",,1
+7494,Karen Riggs,48,Male,"['Cancer', 'Diabetes', 'Allergies']",DB08427,Prephenic acid,"(1s,4s)-prephenic acid | cis-1-Carboxy-4-hydroxy-alpha-oxo-2,5-cyclohexadiene-1-propanoic acid | cis-prephenic acid",0
+7495,Mark Smith,97,Female,"['Cancer', 'Heart Disease', 'Arthritis', 'Asthma']",DB08428,3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL,,0
+7496,Lisa Robinson,32,Male,"['Arthritis', 'Cancer', 'Allergies', 'Stroke', 'Heart Disease', 'Asthma']",DB08429,N-({(2S)-1-[(3R)-3-amino-4-(3-chlorophenyl)butanoyl]pyrrolidin-2-yl}methyl)-3-(methylsulfonyl)benzamide,,1
+7497,John Hartman,94,Male,['Arthritis'],DB08430,PARA-NITROPHENYL 1-THIO-BETA-D-GLUCOPYRANOSIDE,,0
+7498,Kayla Hall,100,Male,['Diabetes'],DB08431,"[(3R,4S)-4-HYDROXY-3-METHYL-2-OXOHEXYL]PHOSPHONIC ACID",,0
+7499,Donna Arnold,91,Female,['Asthma'],DB08432,THYMIDINE-5'-THIOPHOSPHATE,,1
+7500,Laura Campbell,86,Female,"['Hypertension', 'Allergies']",DB08433,phenyl ethenesulfonate,,0
+7501,Marcus Pearson,95,Male,"['Heart Disease', 'Stroke', 'Cancer', 'Allergies', 'Asthma', 'Diabetes', 'Hypertension']",DB08434,2-METHYLCARBAMOYL-3-(4-PHOSPHONOOXY-PHENYL)-CYCLOPROPANECARBOXYLIC ACID,,0
+7502,Stephanie Pope,60,Female,"['Hypertension', 'Cancer', 'Asthma', 'Arthritis', 'Diabetes', 'Stroke', 'Heart Disease', 'Allergies']",DB08435,"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid",,0
+7503,Brandon Clark,18,Female,"['Cancer', 'Asthma', 'Diabetes', 'Allergies', 'Hypertension', 'Stroke', 'Arthritis']",DB08436,"8-BENZO[1,3]DIOXOL-,5-YLMETHYL-9-BUTYL-9H-",,1
+7504,David Griffith,75,Female,"['Allergies', 'Asthma']",DB08437,Puromycin,puromicina | Puromycin,0
+7505,Sarah Randall,20,Male,"['Cancer', 'Diabetes', 'Allergies', 'Stroke']",DB08438,"(2E,4R,5S)-2,3,4,5-TETRAHYDROXY-6-(PALMITOYLOXY)HEX-2-ENOIC ACID",,0
+7506,Adam Buchanan,47,Male,"['Hypertension', 'Arthritis', 'Asthma']",DB08439,Parecoxib,N-((p-(5-methyl-3-phenyl-4-isoxazolyl)phenyl)sulfonyl)propionamide | Parecoxib | Parécoxib | Parecoxibum,1
+7507,Kenneth Washington,19,Female,"['Hypertension', 'Heart Disease']",DB08440,"N-1,10-phenanthrolin-5-ylacetamide",,1
+7508,Matthew Campos,63,Female,"['Diabetes', 'Asthma', 'Hypertension', 'Arthritis', 'Cancer']",DB08441,"6-BROMO-13-THIA-2,4,8,12,19-PENTAAZATRICYCLO[12.3.1.1~3,7~]NONADECA-1(18),3(19),4,6,14,16-HEXAENE 13,13-DIOXIDE",,0
+7509,Nicholas Gregory,45,Female,['Heart Disease'],DB08442,"4-{[(2R)-2-(2-methylphenyl)pyrrolidin-1-yl]carbonyl}benzene-1,3-diol",,0
+7510,Ashley Robinson,46,Female,['Heart Disease'],DB08443,"2-(1H-pyrrol-1-ylcarbonyl)benzene-1,3,5-triol",,1
+7511,Dr. Elizabeth Ortiz MD,81,Female,"['Hypertension', 'Allergies', 'Cancer']",DB08444,"3-[2-bromo-4-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-methylbenzonitrile",,0
+7512,Brandy Washington,57,Female,"['Arthritis', 'Cancer', 'Allergies']",DB08445,"(3R,4S)-1-[6-(6-METHOXYPYRIDIN-3-YL)PYRIMIDIN-4-YL]-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE",,1
+7513,Fernando Young,39,Female,"['Asthma', 'Cancer', 'Stroke']",DB08446,"3-[6-bromo-2-fluoro-3-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-chlorobenzonitrile",,1
+7514,Ashley Cox,49,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08447,3-{3-[(DIMETHYLAMINO)METHYL]-1H-INDOL-7-YL}PROPAN-1-OL,,1
+7515,Anna Lee,75,Female,"['Cancer', 'Arthritis']",DB08448,"(4aS)-5-[(2,4-diaminopteridin-6-yl)methyl]-4a,5-dihydro-2H-dibenzo[b,f]azepin-8-ol",,0
+7516,Kathryn Fox,74,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08449,"2-(3-((4,5,7-trifluorobenzo[d]thiazol-2-yl)methyl)-1H-pyrrolo[2,3-b]pyridin-1-yl)acetic acid",,1
+7517,David Camacho,86,Male,"['Asthma', 'Allergies', 'Stroke', 'Arthritis', 'Hypertension', 'Cancer']",DB08450,N-1H-indazol-5-yl-2-(6-methylpyridin-2-yl)quinazolin-4-amine,,0
+7518,Amanda Ferguson,100,Female,"['Hypertension', 'Allergies', 'Heart Disease', 'Asthma', 'Stroke', 'Diabetes']",DB08451,N-(QUINOLIN-8-YL)METHANESULFONAMIDE,,1
+7519,Matthew Pearson,33,Male,"['Heart Disease', 'Diabetes', 'Allergies', 'Stroke']",DB08453,2-Nonyl-4-quinolinol 1-oxide,,1
+7520,Tonya Chen DDS,59,Male,"['Stroke', 'Diabetes', 'Asthma']",DB08454,N-(5-METHYL-1H-PYRAZOL-3-YL)-2-PHENYLQUINAZOLIN-4-AMINE,,0
+7521,Jimmy Pace,48,Male,['Cancer'],DB08455,Ro 12-7310,"(2E,4E,6E,8E)-9-(4-Hydroxy-2,3,6-trimethylphenyl)-3,7-dimethyl-2,4,6,8-nonatetraenoic acid",1
+7522,James Adkins,46,Male,"['Cancer', 'Heart Disease', 'Asthma', 'Allergies', 'Hypertension']",DB08456,"S-[(1-Hydroxy-2,2,5,5-tetramethyl-4-phenyl-2,5-dihydro-1H-pyrrol-3-yl)methyl] methanesulfonothioate",,0
+7523,Matthew Stephenson,41,Male,"['Diabetes', 'Heart Disease']",DB08457,"4-(3,5-DIMETHYLPHENOXY)-5-(FURAN-2-YLMETHYLSULFANYLMETHYL)-3-IODO-6-METHYLPYRIDIN-2(1H)-ONE",,1
+7524,Karen Blackwell,48,Female,"['Cancer', 'Hypertension', 'Allergies', 'Stroke', 'Heart Disease', 'Asthma']",DB08458,(4-BROMOPHENYL)[4-({(2E)-4-[CYCLOPROPYL(METHYL)AMINO]BUT-2-ENYL}OXY)PHENYL]METHANONE,,1
+7525,Jamie Scott DDS,18,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08459,"3-chloro-5-[2-chloro-5-(1H-pyrazolo[3,4-b]pyridin-3-ylmethoxy)phenoxy]benzonitrile",,0
+7526,Amber Briggs,26,Female,"['Arthritis', 'Allergies', 'Asthma', 'Stroke', 'Hypertension']",DB08460,MK-4965,,1
+7527,Laura Murillo,32,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08461,"3-[(4-AMINO-1-TERT-BUTYL-1H-PYRAZOLO[3,4-D]PYRIMIDIN-3-YL)METHYL]PHENOL",,0
+7528,Shawn Hale,97,Male,"['Stroke', 'Heart Disease', 'Arthritis', 'Cancer']",DB08462,N-(4-PHENYLAMINO-QUINAZOLIN-6-YL)-ACRYLAMIDE,,0
+7529,Patrick Johnston,68,Male,"['Stroke', 'Cancer', 'Arthritis', 'Diabetes', 'Asthma']",DB08463,(2R)-2-({9-(1-methylethyl)-6-[(4-pyridin-2-ylbenzyl)amino]-9H-purin-2-yl}amino)butan-1-ol,,1
+7530,William Price,75,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08464,"METHYL 3-CHLORO-2-{3-[(2,5-DIHYDROXY-4-METHOXYPHENYL)AMINO]-3-OXOPROPYL}-4,6-DIHYDROXYBENZOATE",,0
+7531,Jordan Mitchell MD,99,Male,"['Cancer', 'Asthma']",DB08465,"2-(3-AMINO-2,5,6-TRIMETHOXYPHENYL)ETHYL 5-CHLORO-2,4-DIHYDROXYBENZOATE",,1
+7532,Hannah Day,76,Male,"['Cancer', 'Asthma', 'Diabetes', 'Stroke', 'Allergies', 'Hypertension']",DB08466,"5-[2-(4-hydroxyphenyl)ethyl]benzene-1,3-diol",,1
+7533,Clifford Smith,18,Male,"['Arthritis', 'Cancer', 'Diabetes', 'Heart Disease']",DB08467,"6-(2,3,4,5,6,7-HEXAHYDRO-2,4,4-TRIMETHYL-1-METYLENEINDEN-2-YL)-3-METHYLHEXA-2,4-DIENOIC ACID",,1
+7534,Elizabeth Roberts,29,Male,"['Allergies', 'Diabetes', 'Cancer', 'Stroke', 'Heart Disease']",DB08469,"tert-butyl 4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl)piperidine-1-carboxylate",,1
+7535,Joshua Potts,57,Male,"['Hypertension', 'Asthma', 'Stroke', 'Allergies']",DB08470,"3-(4-fluorophenyl)-5-phenyl-4H-1,2,4-triazole",,1
+7536,Deborah Jones,22,Male,['Asthma'],DB08471,"1-(thiophen-2-ylacetyl)-4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl)piperidine",,0
+7537,Robert Bryan,58,Female,"['Arthritis', 'Diabetes', 'Stroke']",DB08472,(R)-Fluoxetine,"(+)-fluoxetine | (R)-(+)-fluoxetine | (R)-N-methyl-3-(4-trifluoromethylphenoxy)-3-phenylpropylamine | (R)-N-methyl-3-(4-trifluoromethylphenyloxy)-3-(phenyl)propylamine | (R)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine | (R)-N-methyl-γ-(4-trifluoromethylphenoxy)-3-phenylpropylamine | (R)-Prozac",1
+7538,Lawrence Mckee,88,Female,"['Asthma', 'Hypertension', 'Arthritis', 'Stroke', 'Heart Disease']",DB08473,Dichlororibofuranosylbenzimidazole,"5,6-dichloro-1-beta-D-ribofuranosyl-1H-benzimidazole",0
+7539,Cory Smith,38,Female,['Diabetes'],DB08474,3-(CARBOXYAMIDE(2-CARBOXYAMIDE-2-TERTBUTYLETHYL))PENTAN,,0
+7540,Robert Fleming,85,Male,"['Asthma', 'Hypertension', 'Allergies']",DB08475,"[(4R)-2,2-dimethyl-1,3-dioxolan-4-yl]methyl hydrogen hex-5-enylphosphonate",,0
+7541,Robert Brown,32,Male,"['Stroke', 'Cancer', 'Heart Disease']",DB08476,3-AMINO-AZACYCLOTRIDECAN-2-ONE,,0
+7542,Cameron Smith,62,Male,['Stroke'],DB08478,N-[2-Chloro-5-(trifluoromethyl)phenyl]imidodicarbonimidic diamide,2-[2-Chloro-5-(trifluoromethyl)phenyl]-1-(diaminomethylene)guanidine,0
+7543,Daniel Moreno,71,Male,"['Allergies', 'Diabetes', 'Cancer']",DB08479,"N-(3,5-dimethoxyphenyl)imidodicarbonimidic diamide",,1
+7544,Samantha Reyes,60,Female,"['Cancer', 'Stroke', 'Hypertension', 'Heart Disease', 'Allergies', 'Arthritis', 'Diabetes']",DB08480,4-HYDROXY-N-PROPARGYL-1(R)-AMINOINDAN,,0
+7545,Amber Shields,87,Female,"['Stroke', 'Arthritis', 'Hypertension']",DB08481,4-Methyl-N-[5-(5-methyl-furan-2-ylmethylene)-4-oxo-thiazolidin-2-ylidene]-benzenesulfonamide,,0
+7546,Stephanie Reed,29,Male,"['Diabetes', 'Arthritis', 'Asthma', 'Hypertension']",DB08482,[[1-[N-HYDROXY-ACETAMIDYL]-3-METHYL-BUTYL]-CARBONYL-LEUCINYL]-ALANINE ETHYL ESTER,,1
+7547,Paul Roach,88,Female,"['Stroke', 'Arthritis', 'Heart Disease', 'Diabetes']",DB08484,4-AMINO-N-[(2-SULFANYLETHYL)CARBAMOYL]BENZENESULFONAMIDE,,1
+7548,Natalie Price,31,Male,"['Cancer', 'Heart Disease']",DB08485,"(1S,4S,5S)-1,4,5-TRIHYDROXY-3-[3-(PHENYLTHIO)PHENYL]CYCLOHEX-2-ENE-1-CARBOXYLIC ACID",,1
+7549,Peter Santana,83,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08486,Efaproxiral,Efaproxiral,0
+7550,Tracy Pierce,81,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08487,3-({4-[(6-CHLORO-1-BENZOTHIEN-2-YL)SULFONYL]-2-OXOPIPERAZIN-1-YL}METHYL)BENZENECARBOXIMIDAMIDE,,0
+7551,William Curry,67,Female,"['Heart Disease', 'Arthritis']",DB08488,"4-{[(E)-2-(5-CHLOROTHIEN-2-YL)VINYL]SULFONYL}-1-(1H-PYRROLO[3,2-C]PYRIDIN-2-YLMETHYL)PIPERAZIN-2-ONE",,0
+7552,Gerald Rodriguez,90,Female,"['Asthma', 'Allergies', 'Cancer', 'Arthritis', 'Heart Disease', 'Stroke', 'Diabetes']",DB08489,"N4-HYDROXY-2-ISOBUTYL-N1-(9-OXO-1,8-DIAZA-TRICYCLO[10.6.1.013,18]NONADECA-12(19),13,15,17-TETRAEN-10-YL)-SUCCINAMIDE",,1
+7553,Angela Jones,83,Male,['Arthritis'],DB08490,CTS-1027,"2H-PYRAN-4-CARBOXAMIDE, 4-(((4-(4-CHLOROPHENOXY)PHENYL)SULFONYL)METHYL)TETRAHYDRO-N-HYDROXY- | 4-(((4-(4-CHLOROPHENOXY)PHENYL)SULFONYL)-METHYL) TETRAHYDRO-N-HYDROXY-2H-PYRAN-4-CARBOXAMIDE | 4-(4-(4-CHLORO-PHENOXY)-BENZENESULFONYLMETHYL )-TETRAHYDRO-PYRAN-4-CARBOXYLIC ACID HYDROXYAMIDE | 4-(4-(4-CHLORO-PHENOXY)-BENZENESULFONYLMETHYL)-TETRAHYDRO-PYRAN-4-CARBOXYLIC ACID HYDROXYAMIDE | 4-[[[4-(4-Chlorophenoxy)phenyl]sulfonyl]-methyl] tetrahydro-N-hydroxy-2H-pyran-4-carboxamide",0
+7554,Brandy Moore,34,Male,"['Hypertension', 'Diabetes', 'Stroke', 'Allergies', 'Arthritis', 'Heart Disease', 'Asthma']",DB08491,N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE,,1
+7555,Kathryn Andrews,66,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08492,(2E)-3-(2-OCT-1-YN-1-YLPHENYL)ACRYLIC ACID,,1
+7556,Francisco Holder,76,Male,"['Cancer', 'Diabetes']",DB08493,"5-METHYL-3-(9-OXO-1,8-DIAZA-TRICYCLO[10.6.1.013,18]NONADECA-12(19),13,15,17-TETRAEN-10-YLCARBAMOYL)-HEXANOIC ACID",,0
+7557,Christine Hickman,93,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08494,"S-{2-[(2-chloro-4-sulfamoylphenyl)amino]-2-oxoethyl} 6-methyl-3,4-dihydroquinoline-1(2H)-carbothioate",,0
+7558,Matthew Kramer,31,Male,"['Cancer', 'Asthma', 'Diabetes', 'Hypertension', 'Arthritis', 'Allergies']",DB08495,4-({4-[(6-CHLORO-1-BENZOTHIEN-2-YL)SULFONYL]-2-OXOPIPERAZIN-1-YL}METHYL)BENZENECARBOXIMIDAMIDE,,0
+7559,Jeffrey Harris,27,Male,"['Stroke', 'Asthma']",DB08496,(R)-warfarin,"(+)-warfarin | (R)-4-Hydroxy-3-(3-oxo-1-phenylbutyl)-2-benzopyrone | (R)-4-Hydroxy-3-(3-oxo-1-phenylbutyl)-2H-1-benzopyran-2-one | 4-hydroxy-3-[(1R)-3-oxo-1-phenylbutyl]-2H-chromen-2-one | R-warfarin | R,R-Warfarin alcohol",0
+7560,Joe Hardin,76,Female,"['Heart Disease', 'Allergies']",DB08497,"(1S)-2-oxo-1-phenyl-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",,1
+7561,Briana Ortega,64,Female,"['Allergies', 'Asthma', 'Stroke', 'Hypertension', 'Arthritis']",DB08498,"(1S)-1-(3-chlorophenyl)-2-oxo-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",,0
+7562,Sandra Perry,46,Female,"['Heart Disease', 'Arthritis', 'Allergies', 'Diabetes', 'Asthma', 'Stroke']",DB08499,"N-[3-(2-fluoroethoxy)phenyl]-N'-(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-6-yl)butanediamide",,0
+7563,Kristen Mcdaniel,89,Male,"['Cancer', 'Asthma']",DB08500,"(3S,5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-(2-naphthyl)-1,6-dioxa-2-azaspiro[4.5]decane-8,9,10-triol",,0
+7564,Brenda Mills,51,Male,"['Arthritis', 'Diabetes', 'Heart Disease', 'Cancer', 'Hypertension']",DB08501,"DIETHYL PROPANE-1,3-DIYLBISCARBAMATE",,0
+7565,Tiffany Reese,42,Male,"['Asthma', 'Heart Disease', 'Arthritis']",DB08502,Capravirine,Capravirina | Capravirine | Capravirinum,0
+7566,Rebecca Willis,76,Male,"['Diabetes', 'Arthritis', 'Cancer', 'Asthma', 'Allergies', 'Hypertension', 'Heart Disease']",DB08503,"(3S,5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-(4-methylphenyl)-1,6-dioxa-2-azaspiro[4.5]decane-8,9,10-triol",,0
+7567,Joseph Parrish,22,Male,"['Stroke', 'Cancer', 'Diabetes', 'Asthma', 'Allergies', 'Hypertension', 'Arthritis', 'Heart Disease']",DB08504,"6-(4-{(1S,2S)-2-AMINO-1-[(DIMETHYLAMINO)CARBONYL]-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-3-OXOPROPYL}PHENYL)-1H-[1,2,4]TRIAZOLO[1,5-A]PYRIDIN-4-IUM",,1
+7568,Todd Randolph,80,Female,"['Diabetes', 'Cancer', 'Stroke']",DB08505,methyl 4-bromo-N-[8-(hydroxyamino)-8-oxooctanoyl]-L-phenylalaninate,,1
+7569,Janice Pace,53,Male,"['Arthritis', 'Asthma', 'Hypertension', 'Allergies']",DB08506,N-{(2S)-3-[(1R)-1-aminoethyl](hydroxy)phosphoryl-2-benzylpropanoyl}-L-phenylalanine,,1
+7570,Caleb Simmons,36,Male,"['Arthritis', 'Hypertension', 'Heart Disease', 'Cancer', 'Stroke']",DB08507,N-[[2-METHYL-4-HYDROXYCARBAMOYL]BUT-4-YL-N]-BENZYL-P-[PHENYL]-P-[METHYL]PHOSPHINAMID,,0
+7571,Stephanie Hopkins,33,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08508,N-BENZOYL-D-ALANINE,,0
+7572,Melissa Jones,31,Male,"['Allergies', 'Heart Disease', 'Asthma', 'Hypertension', 'Arthritis', 'Diabetes']",DB08509,1-[6-(2-CHLORO-4-METHYXYPHENOXY)-HEXYL]-IMIDAZOLE,,1
+7573,Jason Caldwell,62,Male,"['Heart Disease', 'Allergies', 'Arthritis', 'Diabetes']",DB08510,5-ALPHA-PREGNANE-3-BETA-OL-HEMISUCCINATE,,1
+7574,Tanner Johnson,45,Male,"['Arthritis', 'Stroke', 'Cancer']",DB08511,"6-amino-2-methyl-1,7-dihydro-8H-imidazo[4,5-g]quinazolin-8-one",,1
+7575,Charles Anderson,71,Male,"['Diabetes', 'Allergies', 'Cancer', 'Arthritis', 'Heart Disease', 'Stroke']",DB08512,"6-amino-2-[(1-naphthylmethyl)amino]-3,7-dihydro-8H-imidazo[4,5-g]quinazolin-8-one",,0
+7576,Kimberly Diaz,24,Male,"['Diabetes', 'Cancer', 'Asthma', 'Stroke', 'Heart Disease', 'Arthritis', 'Hypertension']",DB08513,[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID,,1
+7577,Patrick Steele,93,Male,['Hypertension'],DB08514,"6-amino-2-[(thiophen-2-ylmethyl)amino]-1,7-dihydro-8H-imidazo[4,5-g]quinazolin-8-one",,0
+7578,James Brown,39,Female,"['Allergies', 'Hypertension', 'Diabetes', 'Heart Disease']",DB08515,"(3AR,6R,6AS)-6-((S)-((S)-CYCLOHEX-2-ENYL)(HYDROXY)METHYL)-6A-METHYL-4-OXO-HEXAHYDRO-2H-FURO[3,2-C]PYRROLE-6-CARBALDEHYDE",,1
+7579,Erika Hodges,63,Male,"['Arthritis', 'Cancer', 'Hypertension']",DB08516,(S)-(+)-2-[4-(FLUOROBENZYLOXY-BENZYLAMINO)PROPIONAMIDE],,1
+7580,Penny Carr,72,Female,"['Asthma', 'Heart Disease']",DB08517,Sakuranetin,"(2S)-sakuranetin | (S)-(−)-4',5-dihydroxy-7-methoxyflavanone | 4',5-dihydroxy-7-methoxyflavanone | 5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-chroman-4-one | 5,4'-Dihydroxy-7-methoxyflavanone | Naringenin 7-methyl ether",1
+7581,Brian Wiley,91,Male,"['Hypertension', 'Cancer', 'Stroke', 'Diabetes', 'Arthritis']",DB08519,"N~4~-(3-methyl-1H-indazol-6-yl)-N~2~-(3,4,5-trimethoxyphenyl)pyrimidine-2,4-diamine",,0
+7582,Kimberly Elliott,49,Female,"['Cancer', 'Hypertension', 'Heart Disease', 'Stroke']",DB08520,"(21S)-1AZA-4,4-DIMETHYL-6,19-DIOXA-2,3,7,20-TETRAOXOBICYCLO[19.4.0] PENTACOSANE",,1
+7583,Margaret Gordon,98,Male,"['Cancer', 'Diabetes', 'Stroke', 'Heart Disease', 'Hypertension', 'Allergies', 'Asthma', 'Arthritis']",DB08521,4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine,,0
+7584,Rachel Stephenson,28,Female,"['Cancer', 'Diabetes', 'Heart Disease', 'Asthma', 'Arthritis', 'Allergies', 'Stroke', 'Hypertension']",DB08522,4-(4-FLUOROPHENYL)-1-CYCLOROPROPYLMETHYL-5-(4-PYRIDYL)-IMIDAZOLE,,1
+7585,Cassandra Jackson,73,Female,"['Cancer', 'Diabetes', 'Hypertension', 'Allergies', 'Stroke', 'Heart Disease', 'Asthma']",DB08523,[HYDROXY(3-PHENYLPROPYL)AMINO]METHANOL,,0
+7586,Nicole Davis,61,Male,"['Cancer', 'Diabetes', 'Asthma']",DB08524,2-(3-BENZOYLPHENOXY)ETHYL(HYDROXY)FORMAMIDE,,0
+7587,Mary Barnes,60,Male,"['Allergies', 'Asthma', 'Heart Disease', 'Diabetes', 'Arthritis', 'Hypertension', 'Stroke', 'Cancer']",DB08525,HYDROXY[3-(6-METHYLPYRIDIN-2-YL)PROPYL]FORMAMIDE,,0
+7588,Benjamin Sherman,94,Female,"['Heart Disease', 'Asthma']",DB08526,CARBOBENZYLOXY-(L)-LEUCINYL-(L)LEUCINYL METHOXYMETHYLKETONE,,1
+7589,Terry Graves,63,Male,"['Stroke', 'Heart Disease', 'Allergies', 'Hypertension', 'Cancer', 'Arthritis']",DB08527,"1-[4-(AMINOSULFONYL)PHENYL]-1,6-DIHYDROPYRAZOLO[3,4-E]INDAZOLE-3-CARBOXAMIDE",,0
+7590,Jeffrey Oneal,69,Female,"['Diabetes', 'Hypertension', 'Allergies', 'Arthritis', 'Cancer', 'Asthma']",DB08528,"2-AMINO-6-(3,5-DIMETHYLPHENYL)SULFONYLBENZONITRILE",,0
+7591,Christine Tran,40,Female,"['Heart Disease', 'Cancer', 'Allergies', 'Asthma', 'Diabetes', 'Arthritis', 'Hypertension', 'Stroke']",DB08529,"(6E,11E)-HEPTADECA-6,11-DIENE-9,9-DIYLBIS(PHOSPHONIC ACID)",,0
+7592,Monique Sloan,34,Female,"['Cancer', 'Heart Disease', 'Diabetes', 'Arthritis']",DB08530,"7-BENZYL-1,3-DIMETHYL-8-PIPERAZIN-1-YL-3,7-DIHYDRO-PURINE-2,6-DIONE",,1
+7593,Wendy Sims,96,Female,"['Cancer', 'Arthritis', 'Diabetes', 'Allergies', 'Hypertension', 'Heart Disease', 'Asthma']",DB08531,"5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",,1
+7594,Michael Jones,32,Male,"['Hypertension', 'Diabetes', 'Heart Disease', 'Cancer', 'Stroke', 'Arthritis']",DB08532,"6-(2-fluorophenyl)-N-(pyridin-3-ylmethyl)imidazo[1,2-a]pyrazin-8-amine",,0
+7595,Dominique Riley,93,Female,"['Arthritis', 'Hypertension', 'Cancer', 'Asthma', 'Diabetes', 'Stroke']",DB08533,"3-methyl-N-(pyridin-4-ylmethyl)imidazo[1,2-a]pyrazin-8-amine",,0
+7596,Eric Mullins,72,Male,"['Stroke', 'Asthma', 'Heart Disease', 'Diabetes', 'Cancer', 'Arthritis', 'Hypertension', 'Allergies']",DB08534,"5-(2-fluorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",,1
+7597,Lauren Franklin,42,Male,"['Allergies', 'Arthritis', 'Asthma', 'Hypertension', 'Cancer']",DB08535,"3-bromo-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",,0
+7598,Richard Mcdaniel,92,Male,"['Cancer', 'Stroke', 'Diabetes', 'Arthritis', 'Asthma', 'Hypertension', 'Allergies', 'Heart Disease']",DB08536,"3-bromo-5-phenyl-N-(pyrimidin-5-ylmethyl)pyrazolo[1,5-a]pyridin-7-amine",,0
+7599,Patrick Sweeney,91,Female,"['Arthritis', 'Diabetes', 'Cancer', 'Allergies', 'Heart Disease']",DB08537,"3-bromo-6-phenyl-N-(pyrimidin-5-ylmethyl)imidazo[1,2-a]pyridin-8-amine",,1
+7600,Kyle Dean,34,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08538,"N-((2-aminopyrimidin-5-yl)methyl)-5-(2,6-difluorophenyl)-3-ethylpyrazolo[1,5-a]pyrimidin-7-amine",,0
+7601,William Hall,97,Female,"['Hypertension', 'Heart Disease']",DB08539,"3-cyclopropyl-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",,0
+7602,Zachary Butler,57,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08540,"2-[4-(2H-1,4-BENZOTHIAZINE-3-YL)-PIPERAZINE-1-LY]-1,3-THIAZOLE-4-CARBOXYLIC ACID ETHYLESTER",,0
+7603,Jill Robertson,30,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08541,"[(3S)-9-hydroxy-1-methyl-10-oxo-4,10-dihydro-3H-benzo[g]isochromen-3-yl]acetic acid",,1
+7604,Deborah Watkins,30,Male,"['Arthritis', 'Asthma']",DB08542,"3,4-dihydroxy-9,10-secoandrosta-1(10),2,4-triene-9,17-dione",,0
+7605,Jason Lamb,50,Male,"['Cancer', 'Stroke', 'Heart Disease', 'Diabetes', 'Allergies']",DB08543,1-[2-HYDROXY-3-(4-CYCLOHEXYL-PHENOXY)-PROPYL]-4-(2-PYRIDYL)-PIPERAZINE,,0
+7606,Lawrence Bowen,87,Male,"['Diabetes', 'Heart Disease', 'Arthritis', 'Allergies', 'Asthma', 'Cancer', 'Hypertension']",DB08544,(S)-Fluoxetine,"(−)-fluoxetine | (S)-(−)-fluoxetine | (S)-N-methyl-3-(4-trifluoromethylphenoxy)-3-phenylpropylamine | (S)-N-methyl-3-(4-trifluoromethylphenyloxy)-3-(phenyl)propylamine | (S)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine | (S)-N-methyl-γ-(4-trifluoromethylphenoxy)-3-phenylpropylamine | (S)-Prozac",1
+7607,Anthony Cruz,88,Male,"['Hypertension', 'Heart Disease']",DB08545,(1S)-1-Phenylethyl (4-acetamidobenzyl)phosphonate,,1
+7608,Thomas Mendoza,44,Female,"['Asthma', 'Arthritis', 'Stroke', 'Cancer', 'Hypertension', 'Diabetes', 'Heart Disease']",DB08546,"4-[(3AS,4R,7R,8AS,8BR)-2-(1,3-BENZODIOXOL-5-YLMETHYL)-7-HYDROXY-1,3-DIOXODECAHYDROPYRROLO[3,4-A]PYRROLIZIN-4-YL]BENZENECARBOXIMIDAMIDE",,0
+7609,Katherine Sanchez,95,Male,"['Allergies', 'Asthma', 'Cancer', 'Heart Disease', 'Hypertension']",DB08547,PROGESTERONE-11-ALPHA-OL-HEMISUCCINATE,,0
+7610,Kyle Rubio,66,Male,"['Allergies', 'Hypertension', 'Heart Disease', 'Arthritis', 'Diabetes']",DB08548,"[(4S)-2,2-dimethyl-1,3-dioxolan-4-yl]methyl hydrogen hex-5-enylphosphonate",,1
+7611,Gina Delgado,76,Male,"['Arthritis', 'Cancer', 'Asthma', 'Stroke']",DB08549,"(3R)-METHYLCARBAMOYL-7-SULFOAMINO-3,4-DIHYDRO-1H-ISOQUINOLINE-2-CARBOXYLIC ACID BENZYL ESTER",,0
+7612,Alexandria White,81,Male,"['Cancer', 'Heart Disease', 'Hypertension', 'Stroke', 'Allergies', 'Asthma', 'Arthritis']",DB08550,"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",,1
+7613,Trevor Williams,75,Female,"['Arthritis', 'Allergies']",DB08551,3-{(R)-(Dihydroxyboryl)[(2-thienylacetyl)amino]methyl}benzoic acid,,1
+7614,Steven Mckee,38,Male,"['Cancer', 'Hypertension', 'Arthritis', 'Allergies', 'Diabetes', 'Asthma', 'Heart Disease']",DB08552,(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid,,1
+7615,Matthew Livingston,49,Male,"['Asthma', 'Cancer', 'Heart Disease', 'Allergies']",DB08553,"(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",,0
+7616,Connor Davis,46,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08554,N-(3-carboxypropanoyl)-L-norvaline,,1
+7617,Elizabeth Hill,40,Female,"['Cancer', 'Stroke', 'Diabetes']",DB08555,"1-(3-bromophenyl)-7-chloro-6-methoxy-3,4-dihydroisoquinoline",,0
+7618,Cheryl Chavez,59,Male,"['Allergies', 'Stroke', 'Diabetes', 'Cancer', 'Hypertension']",DB08556,"5'-ACETYL-4-{[(2,4-DIMETHYLPHENYL)SULFONYL]AMINO}-2,2'-BITHIOPHENE-5-CARBOXYLIC ACID",,1
+7619,Mallory Campos,100,Male,"['Heart Disease', 'Allergies', 'Cancer', 'Hypertension']",DB08557,"2-[(2-methoxyethyl)amino]-4-(4-oxo-1,2,3,4-tetrahydro-9H-carbazol-9-yl)benzamide",,1
+7620,Kyle Moore,82,Female,['Hypertension'],DB08558,"2-HYDROXYMETHYL-6-OCTYLSULFANYL-TETRAHYDRO-PYRAN-3,4,5-TRIOL",,0
+7621,Kevin Castro,77,Female,"['Arthritis', 'Diabetes', 'Asthma', 'Hypertension', 'Stroke', 'Heart Disease', 'Allergies']",DB08559,"N-[(2S,4S,6R)-2-(dihydroxymethyl)-4-hydroxy-3,3-dimethyl-7-oxo-4lambda~4~-thia-1-azabicyclo[3.2.0]hept-6-yl]-2-phenylacetamide",,1
+7622,Kristen Erickson,52,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08560,3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE,,0
+7623,Edgar Perry,21,Female,"['Hypertension', 'Stroke']",DB08561,"BENZYL 6-BENZYL-5,7-DIOXO-6,7-DIHYDRO-5H-[1,3]THIAZOLO[3,2-C]PYRIMIDINE-2-CARBOXYLATE",,1
+7624,Megan Owens,98,Male,"['Stroke', 'Diabetes', 'Allergies', 'Heart Disease', 'Cancer', 'Arthritis']",DB08562,4-(4-STYRYL-PHENYLCARBAMOYL)-BUTYRIC ACID,,1
+7625,Thomas Porter,67,Male,"['Stroke', 'Allergies', 'Hypertension', 'Arthritis', 'Heart Disease']",DB08564,(2E)-N-{4-[(3-bromophenyl)amino]quinazolin-6-yl}-4-(dimethylamino)but-2-enamide,,0
+7626,Andrea Johnston,50,Male,"['Allergies', 'Asthma']",DB08565,L-1-naphthyl-2-acetamido-ethane boronic acid,,1
+7627,Richard Jackson,69,Female,"['Diabetes', 'Heart Disease', 'Hypertension', 'Allergies', 'Arthritis', 'Cancer', 'Stroke']",DB08566,D-1-naphthyl-2-acetamido-ethane boronic acid,,0
+7628,Sarah Williams,35,Male,"['Stroke', 'Diabetes']",DB08568,A-674563,(alphaS)-alpha-(((5-(3-Methyl-1H-indazol-5-yl)-3-pyridinyl)oxy)methyl)benzeneethanamine,0
+7629,Neil Nelson,93,Male,"['Diabetes', 'Heart Disease', 'Asthma', 'Cancer', 'Stroke']",DB08569,"3-PYRIDIN-4-YL-2,4-DIHYDRO-INDENO[1,2-.C.] PYRAZOLE",,1
+7630,Alexander Cooke,68,Female,"['Cancer', 'Allergies', 'Arthritis', 'Asthma', 'Stroke', 'Heart Disease', 'Hypertension']",DB08570,4-(ACETYLAMINO)-3-HYDROXY-5-NITROBENZOIC ACID,,0
+7631,Danielle Brown,19,Male,"['Heart Disease', 'Stroke', 'Cancer', 'Arthritis', 'Allergies']",DB08571,4-(ACETYLAMINO)-5-AMINO-3-HYDROXYBENZOIC ACID,,1
+7632,Maria Hanna,29,Male,"['Arthritis', 'Asthma', 'Cancer', 'Stroke']",DB08572,4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE,,1
+7633,Sara Moreno,59,Female,"['Hypertension', 'Diabetes', 'Asthma', 'Heart Disease', 'Allergies']",DB08573,3-[(4-CHLOROANILINO)SULFONYL]THIOPHENE-2-CARBOXYLIC ACID,,1
+7634,Walter Kidd,21,Male,"['Cancer', 'Stroke', 'Arthritis', 'Hypertension']",DB08574,"(5R)-2-sulfanyl-5-[4-(trifluoromethyl)benzyl]-1,3-thiazol-4(5H)-one",,1
+7635,Terri Quinn,51,Male,['Cancer'],DB08575,"2-[(1S)-1-BENZYL-2-SULFANYLETHYL]-1H-IMIDAZO[4,5-C]PYRIDIN-5-IUM",,1
+7636,Dr. Stephanie Dorsey,89,Male,"['Asthma', 'Cancer', 'Arthritis', 'Diabetes', 'Heart Disease', 'Hypertension']",DB08576,"1-(5-TERT-BUTYL-1,3,4-OXADIAZOL-2-YL)-2-(METHYLAMINO)ETHANONE",,0
+7637,Adam Hernandez,63,Male,"['Diabetes', 'Hypertension', 'Heart Disease']",DB08577,3-[(3-(2-CARBOXYETHYL)-4-METHYLPYRROL-2-YL)METHYLENE]-2-INDOLINONE,,1
+7638,Amy Fisher,21,Female,"['Diabetes', 'Hypertension', 'Heart Disease', 'Stroke', 'Arthritis', 'Asthma', 'Allergies', 'Cancer']",DB08578,4-[(5-bromopyridin-2-yl)amino]-4-oxobutanoic acid,,0
+7639,Linda Wolfe,18,Female,"['Heart Disease', 'Hypertension']",DB08579,"4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}aniline",,0
+7640,Miranda Hart,38,Female,"['Arthritis', 'Diabetes', 'Heart Disease']",DB08580,4-bromo-2-{[(2R)-2-(2-chlorobenzyl)pyrrolidin-1-yl]carbonyl}aniline,,0
+7641,Tony Macdonald,33,Female,"['Heart Disease', 'Allergies', 'Cancer', 'Stroke', 'Diabetes', 'Arthritis', 'Hypertension']",DB08581,"4-[(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)amino]-4-oxobutanoic acid",,0
+7642,Brandy Joseph,87,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08582,"N-(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)-4-morpholin-4-yl-4-oxobutanamide",,0
+7643,Tamara Mccarthy,48,Male,"['Hypertension', 'Heart Disease', 'Allergies', 'Asthma', 'Arthritis', 'Cancer', 'Diabetes']",DB08583,"2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide",,1
+7644,Katrina Keller,49,Male,"['Allergies', 'Heart Disease', 'Stroke', 'Hypertension', 'Diabetes']",DB08585,"S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] hexanethioate",,0
+7645,Austin Norman,65,Male,['Heart Disease'],DB08586,"S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] octanethioate",,0
+7646,Jamie Snyder,72,Female,"['Asthma', 'Allergies', 'Heart Disease', 'Cancer', 'Stroke', 'Diabetes']",DB08587,Sinapic acid,"(E)-3-(4-Hydroxy-3,5-dimethoxyphenyl)-2-propenoic acid | Sinapinate | Sinapinic acid | trans-sinapic acid",1
+7647,Ryan Rivera,87,Male,"['Diabetes', 'Cancer']",DB08588,2-({2-[(3R)-3-AMINOPIPERIDIN-1-YL]-4-OXOQUINAZOLIN-3(4H)-YL}METHYL)BENZONITRILE,,1
+7648,Robert Poole,37,Male,"['Hypertension', 'Asthma', 'Heart Disease']",DB08589,SYRINGATE,,1
+7649,Casey Price,64,Male,"['Stroke', 'Diabetes', 'Heart Disease', 'Asthma']",DB08590,1-(3-HYDROXYPROPYL)-2-[(3-NITROBENZOYL)AMINO]-1H-BENZIMIDAZOL-5-YL PIVALATE,,0
+7650,George Smith,34,Female,"['Hypertension', 'Stroke', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes', 'Cancer']",DB08591,"5-(4-METHOXYBIPHENYL-3-YL)-1,2,5-THIADIAZOLIDIN-3-ONE 1,1-DIOXIDE",,0
+7651,Harold Russo,87,Female,"['Hypertension', 'Arthritis', 'Diabetes', 'Stroke', 'Allergies']",DB08593,"1,2,5-THIADIAZOLIDIN-3-ONE-1,1-DIOXIDE",,0
+7652,Mrs. Karen Campbell,90,Female,"['Arthritis', 'Asthma', 'Allergies', 'Cancer']",DB08594,TERT-BUTYL 2-CYANO-2-METHYLHYDRAZINECARBOXYLATE,,1
+7653,Michelle Jones,36,Male,['Allergies'],DB08595,"4-[(1S,2R,5S)-4,4,8-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",,0
+7654,Jeremy Richards,82,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08596,5'-deoxy-5'-piperidin-1-ylthymidine,,1
+7655,Alexis Rodriguez,74,Female,"['Cancer', 'Heart Disease', 'Allergies', 'Stroke', 'Diabetes', 'Hypertension', 'Arthritis']",DB08597,Dorsomorphin,,1
+7656,Stephen Tucker,47,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08598,R-82913,,0
+7657,Peggy Foster,97,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08599,N-[(4-methoxyphenyl)sulfonyl]-D-alanine,,0
+7658,Justin Lane,18,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08600,Tivirapine,Tivirapine,0
+7659,Lori Fletcher,73,Female,"['Cancer', 'Asthma', 'Diabetes', 'Hypertension', 'Heart Disease', 'Stroke', 'Arthritis']",DB08601,Tributyltin,Tri-n-butylstannane hydride | Tri-n-butyltin hydride | Tributylstannane | Tributylstannanyl | Tributyltin hydride,0
+7660,Sheri Young,46,Male,"['Arthritis', 'Diabetes', 'Allergies', 'Asthma', 'Hypertension', 'Heart Disease', 'Stroke']",DB08602,"3-(2,6-difluorophenyl)-2-(methylthio)quinazolin-4(3H)-one",,1
+7661,Kimberly Anderson,22,Female,"['Stroke', 'Allergies', 'Asthma', 'Hypertension', 'Heart Disease', 'Diabetes', 'Cancer']",DB08603,N-[(1S)-5-amino-1-(chloroacetyl)pentyl]-4-methylbenzenesulfonamide,,0
+7662,Darrell Vasquez,86,Female,"['Arthritis', 'Stroke', 'Diabetes']",DB08604,Triclosan,"2,4,4'-Trichloro-2'-hydroxydiphenyl ether | 5-Chloro-2-(2,4-dichloro-phenoxy)-phenol | Triclosán | Triclosan | Triclosanum",0
+7663,Jose Brown,90,Male,"['Arthritis', 'Stroke', 'Diabetes', 'Cancer', 'Hypertension', 'Allergies']",DB08605,"6-METHYL-2(PROPANE-1-SULFONYL)-2H-THIENO[3,2-D][1,2,3]DIAZABORININ-1-OL",,0
+7664,Nicholas Aguilar,18,Female,['Heart Disease'],DB08606,"(3R,4S)-1-[(4-AMINO-5H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)METHYL]-4-[(METHYLSULFANYL)METHYL]PYRROLIDIN-3-OL",,0
+7665,Claire Oconnell,27,Female,['Allergies'],DB08607,"(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE",,0
+7666,Gavin Wright,75,Female,"['Stroke', 'Hypertension']",DB08608,"4-({(2R,5S)-2,5-DIMETHYL-4-[(2R)-3,3,3-TRIFLUORO-2-HYDROXY-2-METHYLPROPANOYL]PIPERAZIN-1-YL}CARBONYL)BENZONITRILE",,0
+7667,Ryan Rhodes,42,Female,['Allergies'],DB08609,"(2R)-N-{4-[Ethyl(phenyl)sulfamoyl]-2-methylphenyl}-3,3,3-trifluoro-2-hydroxy-2-methylpropanamide",,1
+7668,Alicia Berry,92,Female,"['Allergies', 'Diabetes', 'Arthritis', 'Cancer', 'Asthma', 'Stroke', 'Hypertension']",DB08610,N-(2-AMINOETHYL)-2-{3-CHLORO-4-[(4-ISOPROPYLBENZYL)OXY]PHENYL} ACETAMIDE,,1
+7669,April Buchanan,89,Female,"['Cancer', 'Hypertension', 'Heart Disease']",DB08611,"2-[(2',3',4'-TRIFLUOROBIPHENYL-2-YL)OXY]ETHANOL",,1
+7670,Jimmy Smith,65,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08612,"1,1,1-TRIFLUORO-3-(OCTYLTHIO)ACETONE",,0
+7671,Robert Jones,99,Male,"['Asthma', 'Stroke', 'Heart Disease']",DB08613,"2,2,2-TRIFLUORO-1-{5-[(3-PHENYL-5,6-DIHYDROIMIDAZO[1,2-A]PYRAZIN-7(8H)-YL)CARBONYL]THIOPHEN-2-YL}ETHANE-1,1-DIOL",,0
+7672,Kelly Richardson,84,Male,"['Diabetes', 'Stroke', 'Heart Disease', 'Arthritis', 'Allergies']",DB08614,"3-[[(METHYLAMINO)SULFONYL]AMINO]-2-OXO-6-PHENYL-N-[3,3,3-TRIFLUORO-1-(1-METHYLETHYL)-2-OXOPHENYL]-1(2H)-PYRIDINE ACETAMIDE",,1
+7673,Michael Huynh,47,Male,"['Asthma', 'Allergies', 'Cancer', 'Hypertension', 'Stroke', 'Diabetes', 'Arthritis']",DB08615,"2-[4-(DIMETHYLAMINO)PHENYL]-6-HYDROXY-3-METHYL-1,3-BENZOTHIAZOL-3-IUM",,1
+7674,Jason Wilson,85,Female,"['Heart Disease', 'Hypertension']",DB08617,"4-(2,2,2-TRIFLUOROETHYL)-L-PHENYLALANINE",,1
+7675,Travis Allen,36,Female,"['Hypertension', 'Heart Disease', 'Cancer', 'Stroke', 'Allergies', 'Diabetes']",DB08618,3-(HYDROXY-PHENYL-PHOSPHINOYLOXY)-8-METHYL-8-AZA-BICYCLO[3.2.1]OCTANE-2-CARBOXYLIC ACID METHYL ESTER,,0
+7676,Jesse Richardson,53,Male,"['Asthma', 'Hypertension', 'Cancer', 'Diabetes']",DB08619,Testosterone succinate,Testosterone 17-hemisuccinate | Testosterone hemisuccinate | Testosterone-17-succinate,1
+7677,Kimberly Fernandez,43,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08620,Thiacloprid,(Z)-thiacloprid,0
+7678,Robert Ball,58,Female,"['Asthma', 'Cancer']",DB08621,Thiamphenicol,,1
+7679,Chelsea Wong,99,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08622,"4-(4-CHLORO-PHENYL)-1-{3-[2-(4-FLUORO-PHENYL)-[1,3]DITHIOLAN-2-YL]-PROPYL}-PIPERIDIN-4-OL",,1
+7680,Cory Dunn,49,Female,['Hypertension'],DB08623,"2-[CARBOXY-(2-THIOPHEN-2-YL-ACETYLAMINO)-METHYL]-5-METHYLENE-5,6-DIHYDRO-2H-[1,3]THIAZINE-4-CARBOXYLIC ACID",,1
+7681,Alan Martinez,41,Female,"['Cancer', 'Stroke', 'Allergies']",DB08624,"1-[(4S)-4-amino-5-(1,3-benzothiazol-2-yl)-5-oxopentyl]guanidine",,0
+7682,Amy Cross,81,Female,"['Diabetes', 'Hypertension', 'Asthma']",DB08626,Thiorphan,,1
+7683,Joseph Sweeney,23,Male,"['Stroke', 'Cancer', 'Diabetes', 'Arthritis', 'Allergies', 'Asthma']",DB08627,"(5R)-4-HYDROXY-3,5-DIMETHYL-5-[(1E,3E)-2-METHYLPENTA-1,3-DIENYL]THIOPHEN-2(5H)-ONE",,0
+7684,Catherine Cole,95,Male,['Cancer'],DB08628,"(5R)-5-[(1E)-BUTA-1,3-DIENYL]-4-HYDROXY-3,5-DIMETHYLTHIOPHEN-2(5H)-ONE",,1
+7685,Carlos Sanchez,59,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08629,"N1-(2-AMINO-4-METHYLPENTYL)OCTAHYDRO-PYRROLO[1,2-A] PYRIMIDINE",,0
+7686,John Pugh,18,Male,"['Heart Disease', 'Hypertension', 'Allergies', 'Asthma', 'Diabetes', 'Arthritis', 'Stroke', 'Cancer']",DB08631,"N-(4-CHLOROPHENYL)-1,2,3,4-TETRAHYDROISOQUINOLINE-7-SULFONAMIDE",,0
+7687,Angelica Hicks,71,Male,"['Hypertension', 'Heart Disease', 'Arthritis', 'Allergies']",DB08632,Trimesic acid,"1,3,5-Tricarboxybenzene | 5-carboxyisophthalic acid | Benzene-1,3,5-tricarboxylic acid | Trimesinic acid | Trimesitinic acid",0
+7688,Patrick Manning,87,Male,"['Asthma', 'Heart Disease', 'Allergies', 'Arthritis']",DB08633,TNP-470,O-(chloroacetylcarbamoyl)fumagillol | O-chloroacetylcarbamoylfumagillol,1
+7689,Anne Jones,70,Male,"['Arthritis', 'Heart Disease', 'Hypertension', 'Diabetes', 'Stroke', 'Allergies', 'Asthma']",DB08634,6-BENZYL-1-BENZYLOXYMETHYL-5-ISOPROPYL URACIL,,0
+7690,Rebecca Sexton,31,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08635,N-(TRANS-4'-NITRO-4-STILBENYL)-N-METHYL-5-AMINO-PENTANOIC ACID,,0
+7691,Albert Lozano,64,Male,"['Allergies', 'Asthma', 'Stroke', 'Arthritis']",DB08636,2-Hydroxybenzalpyruvate,(3E)-4-(2-Hydroxyphenyl)-2-oxobut-3-enoate | (3E)-4-(2-hydroxyphenyl)-2-oxobut-3-enoic acid | 4-(2-Hydroxyphenyl)-2-oxo-3-butenoic acid | ortho-Hydroxybenzalpyruvate,0
+7692,Christopher Turner,75,Female,"['Stroke', 'Asthma', 'Allergies', 'Arthritis', 'Heart Disease']",DB08637,4-(2-METHOXYPHENYL)-2-OXOBUT-3-ENOIC ACID,,1
+7693,Bruce Baker,27,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08638,1-hydroperoxy-L-tryptophan,,1
+7694,Linda Beck,72,Female,"['Allergies', 'Heart Disease', 'Diabetes', 'Asthma', 'Stroke', 'Arthritis', 'Hypertension']",DB08639,Dapivirine,Dapivirine,0
+7695,Michael Wilson,61,Male,"['Cancer', 'Heart Disease', 'Asthma']",DB08640,"(2S,3S)-3-FORMYL-2-({[(4-METHYLPHENYL)SULFONYL]AMINO}METHYL)PENTANOIC ACID",,0
+7696,John Perez,19,Male,"['Heart Disease', 'Asthma']",DB08641,"(2S,3S)-3-FORMYL-2-({[(4-NITROPHENYL)SULFONYL]AMINO}METHYL)PENTANOIC ACID",,1
+7697,Kaitlyn Morrison,28,Female,['Allergies'],DB08642,"(2R,6S)-6-{[methyl(3,4,5-trimethoxyphenyl)amino]methyl}-1,2,5,6,7,8-hexahydroquinazoline-2,4-diamine",,0
+7698,Nicolas Reynolds,97,Female,['Allergies'],DB08643,2-(2-{2-[(BIPHENYL-4-YLMETHYL)-AMINO]-3-MERCAPTO-PENTANOYLAMINO}-ACETYLAMINO)-3-METHYL-BUTYRIC ACID METHYL ESTER,,0
+7699,Ethan Sims,48,Male,['Arthritis'],DB08644,{1-[2-(1-FORMYL-PROPYL)-3-METHANESULFONYLAMINO-PYRROLIDINE-1-CARBONYL]-2-METHYL-PROPYL}-CARBAMIC ACID TERT-BUTYL ESTER,,1
+7700,Jeanette Roberts,63,Female,"['Allergies', 'Diabetes', 'Arthritis', 'Asthma']",DB08645,"6-CHLORO-3-(DICHLOROMETHYL)-3,4-DIHYDRO-2H-1,2,4-BENZOTHIADIAZINE-7-SULFONAMIDE 1,1-DIOXIDE",,0
+7701,Kristin Anderson,82,Female,"['Arthritis', 'Diabetes']",DB08646,TRW3-(2-AMINO-3-HYDROXY-PROPYL)-6-(N'-CYCLOHEXYL-HYDRAZINO)OCTAHYDRO-INDOL-7-OL,,0
+7702,Elaine Calderon,54,Male,"['Heart Disease', 'Allergies', 'Cancer', 'Asthma', 'Hypertension', 'Diabetes', 'Arthritis']",DB08647,Trazeolide,,0
+7703,Angela Orozco,86,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08648,"8-Hydroxy-2-oxa-bicyclo[3.3.1]non-6-ene-3,5-dicarboxylic acid",,1
+7704,Tammy Thompson,42,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08649,(1S)-1-AMINO-2-(1H-INDOL-3-YL)ETHANOL,,0
+7705,Robert Burns,54,Female,"['Hypertension', 'Cancer']",DB08651,3'-THIO-THYMIDINE-5'-PHOSPHATE,,0
+7706,Daniel Mccoy,51,Male,"['Allergies', 'Diabetes', 'Asthma', 'Cancer', 'Hypertension']",DB08652,Indoleacetamide,1H-indole-3-acetamide | 3-indoleacetamide | Indole-3-acetamide,1
+7707,Shirley Brown,74,Male,['Arthritis'],DB08653,Tryptamine,1H-indole-3-ethanamine | 2-(3-indolyl)ethylamine | 3-(2-Aminoethyl)indole | Tryptamine,1
+7708,Kim Sanders,78,Male,"['Stroke', 'Hypertension', 'Heart Disease', 'Asthma', 'Allergies', 'Arthritis']",DB08654,"TRANS-(1S,2S)-2-AMINO-1,2,3,4-TETRAHYDRONAPHTHALEN-1-OL",,0
+7709,Melinda Rivers,99,Male,"['Hypertension', 'Cancer']",DB08655,"9-ACETYL-2,3,4,9-TETRAHYDRO-1H-CARBAZOL-1-ONE",,0
+7710,Kyle Jones,65,Female,"['Hypertension', 'Diabetes', 'Allergies']",DB08656,5-amino-2-methyl-N-[(1R)-1-naphthalen-1-ylethyl]benzamide,,1
+7711,Amy Norris,58,Female,['Cancer'],DB08657,2-(4-(2-((3-(5-(PYRIDIN-2-YLTHIO)THIAZOL-2-YL)UREIDO)METHYL)-1H-IMIDAZOL-4-YL)PHENOXY)ACETIC ACID,,0
+7712,Curtis Montoya,20,Male,"['Allergies', 'Heart Disease', 'Cancer', 'Hypertension', 'Diabetes', 'Stroke']",DB08658,Ethyl hydrogen diethylamidophosphate,,1
+7713,Sonya Smith,51,Male,"['Arthritis', 'Heart Disease', 'Diabetes', 'Allergies']",DB08659,2-(hydrazinocarbonyl)-3-phenyl-1H-indole-5-sulfonamide,,1
+7714,John Jones,69,Male,"['Arthritis', 'Allergies', 'Stroke']",DB08660,Quinalizarin,"1,2,5,8-tetrahydroxyanthracene-9,10-dione | 1,4,5,6-tetrahydroxyanthraquinone | Alizarinbordeaux | Alizarine Bordeaux B",1
+7715,Tammy Gonzalez,28,Male,"['Hypertension', 'Heart Disease', 'Stroke']",DB08661,"1-(2,5-dideoxy-5-pyrrolidin-1-yl-beta-L-erythro-pentofuranosyl)-5-methylpyrimidine-2,4(1H,3H)-dione",,0
+7716,Wendy Martinez,69,Male,"['Heart Disease', 'Allergies']",DB08662,3-[1-(4-BROMO-PHENYL)-2-METHYL-PROPYL]-4-HYDROXY-CHROMEN-2-ONE,,1
+7717,Carolyn Lee,20,Male,"['Asthma', 'Stroke', 'Cancer', 'Diabetes', 'Heart Disease', 'Allergies', 'Hypertension', 'Arthritis']",DB08663,4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE,,0
+7718,Lauren Rodriguez,45,Female,"['Stroke', 'Hypertension', 'Arthritis', 'Asthma']",DB08664,({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester,tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate,1
+7719,Kristen Anderson,90,Female,"['Arthritis', 'Hypertension', 'Stroke', 'Asthma', 'Diabetes', 'Heart Disease', 'Allergies']",DB08665,"6,11-DIHYDRO-11-ETHYL-6-METHYL-9-NITRO-5H-PYRIDO[2,3-B][1,5]BENZODIAZEPIN-5-ONE",,1
+7720,Jo Murray,44,Male,"['Diabetes', 'Asthma', 'Arthritis', 'Heart Disease', 'Allergies', 'Stroke', 'Hypertension']",DB08666,5-imino-4-(3-trifluoromethyl-phenylazo)-5H-pyrazol-3-ylamine,,0
+7721,Kelly Christian,85,Female,"['Heart Disease', 'Arthritis', 'Asthma', 'Diabetes', 'Cancer', 'Hypertension']",DB08667,4-(4-fluoro-phenylazo)-5-imino-5H-pyrazol-3-ylamine,,1
+7722,Julie Tucker,98,Female,"['Arthritis', 'Cancer', 'Stroke', 'Hypertension', 'Asthma']",DB08668,3-(5-Amino-3-imino-3H-pyrazol-4-ylazo)-benzoic acid,,0
+7723,Martin Rodriguez,45,Female,"['Cancer', 'Stroke', 'Diabetes', 'Heart Disease']",DB08669,"METHYL N-[(2S,3R)-3-AMINO-2-HYDROXY-3-(4-METHYLPHENYL)PROPANOYL]-D-ALANYL-D-LEUCINATE",,1
+7724,Thomas Cox,31,Female,"['Allergies', 'Diabetes', 'Asthma']",DB08670,"METHYL N-[(2S,3R)-3-AMINO-2-HYDROXY-3-(4-ISOPROPYLPHENYL)PROPANOYL]-D-ALANYL-D-LEUCINATE",,1
+7725,Thomas Wright,79,Male,"['Allergies', 'Cancer', 'Stroke', 'Diabetes', 'Arthritis', 'Hypertension', 'Asthma']",DB08671,5-Imino-4-(2-trifluoromethyl-phenylazo)-5H-pyrazol-3-ylamine,,0
+7726,Larry Carlson,95,Female,"['Allergies', 'Stroke', 'Hypertension']",DB08672,4-[(3R)-3-{[2-(4-FLUOROPHENYL)-2-OXOETHYL]AMINO}BUTYL]BENZAMIDE,,1
+7727,Chris Ramsey,69,Female,"['Heart Disease', 'Asthma', 'Hypertension']",DB08673,"4-[(5-ISOPROPYL-1,3-THIAZOL-2-YL)AMINO]BENZENESULFONAMIDE",,0
+7728,Robert Johnson,48,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08674,"(20S)-19,20,21,22-TETRAHYDRO-19-OXO-5H-18,20-ETHANO-12,14-ETHENO-6,10-METHENO-18H-BENZ[D]IMIDAZO[4,3-K][1,6,9,12]OXATRIAZA-CYCLOOCTADECOSINE-9-CARBONITRILE",,0
+7729,Michael Davis,100,Male,"['Allergies', 'Stroke', 'Asthma', 'Cancer']",DB08675,"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E)-1-Octen-1-yl]-2,3-diazabicyclo[2.2.1]hept-2-en-5-yl}-5-heptenoic acid",,1
+7730,Sharon Williams,70,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08676,"(20S)-19,20,22,23-TETRAHYDRO-19-OXO-5H,21H-18,20-ETHANO-12,14-ETHENO-6,10-METHENOBENZ[D]IMIDAZO[4,3-L][1,6,9,13]OXATRIAZACYCLONOADECOSINE-9-CARBONITRILE",,0
+7731,Michelle Romero,22,Male,"['Diabetes', 'Hypertension', 'Cancer', 'Stroke', 'Allergies', 'Heart Disease']",DB08677,N-(5-Isopropyl-thiazol-2-YL)-2-pyridin-3-YL-acetamide,,1
+7732,Vincent Jordan,83,Female,['Asthma'],DB08678,(4-ETHYLPHENYL)SULFAMIC ACID,,1
+7733,Leah Ferrell,32,Male,"['Asthma', 'Hypertension', 'Stroke', 'Arthritis']",DB08680,N-{3-[(E)-(tert-butoxyimino)methyl]-4-chlorophenyl}-2-methylfuran-3-carbimidothioic acid,,1
+7734,Desiree Roberts,40,Female,['Stroke'],DB08681,1-METHYL ETHYL 2-CHLORO-5-[[[(1-METHYLETHOXY)THIOOXO]METHYL]AMINO]-BENZOATE,,1
+7735,William Foster,26,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08682,"1-METHYL ETHYL 1-CHLORO-5-[[(5,6DIHYDRO-2-METHYL-1,4-OXATHIIN-3-YL)CARBONYL]AMINO]BENZOATE",,1
+7736,Cheryl Dominguez,47,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08683,"REL-(9R,12S)-9,10,11,12-TETRAHYDRO-9,12-EPOXY-1H-DIINDOLO[1,2,3-FG:3',2',1'-KL]PYRROLO[3,4-I][1,6]BENZODIAZOCINE-1,3(2H)-DIONE",,0
+7737,Diana Black,68,Female,"['Stroke', 'Allergies', 'Cancer']",DB08684,O-Decyl Hydrogen Thiocarbonate,,1
+7738,Debbie Blankenship,21,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08685,"1-(1,4-dimethyl-1,2,3,4-tetrahydroquinoxalin-6-yl)methanamine",,0
+7739,Joel Bryant,30,Male,"['Asthma', 'Allergies', 'Heart Disease', 'Diabetes', 'Hypertension', 'Arthritis']",DB08686,"5,6,7,8,9,10-HEXAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOOCTA[B]PYRAN-2-ONE",,0
+7740,Daniel Pearson,24,Male,['Cancer'],DB08687,FG-2216,(((1-Chloro-4-hydroxyisoquinolin-3-yl)carbonyl)amino)acetic acid | 1-Chloro-N- (hydroxyformylmethyl-4-hydroxyisoquinoline-3-carboxamide | 1-Chloro-N-(hydroxyformylmethyl-4-hydroxyisoquinoline-3-carboxamide,0
+7741,Kelsey Wilson,82,Female,"['Heart Disease', 'Cancer', 'Allergies', 'Hypertension', 'Asthma']",DB08688,2-Undecanone,2-hendecanone | Methyl nonyl ketone | Rue ketone | Undecan-2-one,0
+7742,Andrew Mcclure MD,76,Male,"['Allergies', 'Diabetes', 'Asthma', 'Arthritis']",DB08689,Ubiquinone Q1,Coenzyme Q1 | Coenzyme Q5 | CoQ1 | Ubiquinone 5 | Ubiquinone-1,0
+7743,Paul Dillon,81,Male,"['Stroke', 'Hypertension', 'Cancer', 'Allergies', 'Diabetes']",DB08690,Ubiquinone Q2,Coenzyme Q2 | Ubiquinone 10 | Ubiquinone-2,1
+7744,Maureen Holt,42,Female,"['Diabetes', 'Cancer', 'Heart Disease', 'Hypertension', 'Allergies', 'Stroke', 'Arthritis']",DB08691,"ethyl 3-[(E)-2-amino-1-cyanoethenyl]-6,7-dichloro-1-methyl-1H-indole-2-carboxylate",,0
+7745,Christopher Davis,40,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08692,D-1-(4-chlorophenyl)-2-(acetamido)ethane boronic acid,,0
+7746,Brianna Moore,78,Female,"['Diabetes', 'Stroke', 'Hypertension']",DB08693,L-1-(4-chlorophenyl)-2-(acetamido)ethane boronic acid,,1
+7747,Tricia Lawson,80,Female,"['Diabetes', 'Stroke', 'Allergies', 'Asthma', 'Cancer', 'Arthritis']",DB08694,Variolin B,,1
+7748,Emily Williams,97,Male,"['Cancer', 'Hypertension', 'Allergies', 'Arthritis', 'Stroke', 'Heart Disease', 'Asthma']",DB08695,3-(4-nitrophenyl)-1H-pyrazole,,1
+7749,Anthony Kerr,23,Male,"['Arthritis', 'Cancer', 'Allergies', 'Asthma', 'Heart Disease', 'Diabetes', 'Hypertension', 'Stroke']",DB08697,"4-(2-aminoethoxy)-N-(3-chloro-5-piperidin-1-ylphenyl)-3,5-dimethylbenzamide",,0
+7750,Nichole Boone,40,Male,"['Asthma', 'Stroke', 'Cancer', 'Allergies', 'Arthritis', 'Heart Disease', 'Hypertension', 'Diabetes']",DB08698,"1-[(3S)-5-PHENYL-3-THIOPHEN-2-YL-3H-1,4-BENZODIAZEPIN-2-YL]AZETIDIN-3-OL",,0
+7751,Courtney Ferguson,95,Male,"['Asthma', 'Arthritis', 'Stroke', 'Cancer', 'Hypertension', 'Heart Disease']",DB08699,"1-tert-butyl-3-(3-methylbenzyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",,0
+7752,Blake Carr,24,Female,"['Allergies', 'Hypertension', 'Diabetes', 'Arthritis', 'Asthma', 'Heart Disease', 'Cancer', 'Stroke']",DB08701,"2-(3-BROMOPHENYL)-6-[(2-HYDROXYETHYL)AMINO]-1H-BENZO[DE]ISOQUINOLINE-1,3(2H)-DIONE",,1
+7753,William Avila,92,Female,"['Hypertension', 'Cancer', 'Arthritis', 'Diabetes']",DB08702,"2,5-DIPHENYLFURAN-3,4-DICARBOXYLIC ACID",,0
+7754,Jacob Molina,89,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08703,"12-(2-hydroxyethyl)-2-(1-methylethoxy)-13,14-dihydronaphtho[2,1-a]pyrrolo[3,4-c]carbazol-5(12H)-one",,1
+7755,Timothy Vaughn,66,Female,"['Asthma', 'Stroke']",DB08704,"[[(3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-(pentanoylamino)oxan-2-ylidene]amino] N-phenylcarbamate",,1
+7756,Deborah Hernandez,32,Male,"['Stroke', 'Hypertension']",DB08705,"6-(5-BROMO-2-HYDROXYPHENYL)-2-OXO-4-PHENYL-1,2-DIHYDROPYRIDINE-3-CARBONITRILE",,0
+7757,Derek Goodman,51,Male,"['Asthma', 'Heart Disease', 'Hypertension', 'Arthritis', 'Diabetes', 'Allergies', 'Stroke']",DB08706,"(2S)-({(5Z)-5-[(5-Ethyl-2-furyl)methylene]-4-oxo-4,5-dihydro-1,3-thiazol-2-yl}amino)(4-fluorophenyl)acetic acid",,0
+7758,Robert Rodriguez,32,Male,"['Allergies', 'Stroke', 'Heart Disease', 'Arthritis', 'Cancer', 'Diabetes', 'Hypertension', 'Asthma']",DB08707,"4-[3-(4-chlorophenyl)-2,1-benzisoxazol-5-yl]pyrimidin-2-amine",,0
+7759,Rose Glover,98,Female,['Asthma'],DB08708,"N-cyclohexyl-3-[3-(trifluoromethyl)phenyl][1,2,4]triazolo[4,3-b]pyridazin-6-amine",,0
+7760,Traci Hodge,97,Female,"['Diabetes', 'Cancer', 'Stroke', 'Arthritis']",DB08709,"2,3-diphenyl-1H-indole-7-carboxylic acid",,1
+7761,Eileen Payne,40,Male,"['Diabetes', 'Arthritis', 'Cancer', 'Asthma']",DB08710,"(5Z)-5-[(5-ethylfuran-2-yl)methylidene]-2-[[(S)-(4-fluorophenyl)-(2H-tetrazol-5-yl)methyl]amino]-1,3-thiazol-4-one",,0
+7762,Morgan Stewart,46,Female,"['Allergies', 'Cancer', 'Stroke', 'Diabetes', 'Hypertension', 'Asthma']",DB08711,Methyl vanillate,"4-hydroxy-3-methoxy methyl benzoate | 4-hydroxy-3-methoxybenzoic acid methyl ester | Methyl 3-methoxy-4-hydroxybenzoate | Methyl 4-hydroxy-3-methoxybenzoate | Vanillic acid, methyl ester",0
+7763,Carrie Warren,46,Female,"['Cancer', 'Allergies', 'Hypertension', 'Diabetes']",DB08712,11-[(MERCAPTOCARBONYL)OXY]UNDECANOIC ACID,,0
+7764,Rachael Boyd,61,Male,"['Heart Disease', 'Allergies']",DB08713,"2,6-DIMETHYL-1-(3-[3-METHYL-5-ISOXAZOLYL]-PROPANYL)-4-[2N-METHYL-2H-TETRAZOL-5-YL]-PHENOL",,0
+7765,Mary Guzman,100,Male,"['Heart Disease', 'Diabetes', 'Asthma', 'Cancer', 'Hypertension', 'Arthritis']",DB08714,"2,6-DIMETHYL-1-(3-[3-METHYL-5-ISOXAZOLYL]-PROPANYL)-4-[4-METHYL-2H-TETRAZOL-2-YL]-PHENOL",,0
+7766,Richard Williams,38,Female,['Cancer'],DB08715,"2,6-DIMETHYL-1-(3-[3-METHYL-5-ISOXAZOLYL]-PROPANYL)-4-[2-METHYL-4-ISOXAZOLYL]-PHENOL",,0
+7767,John Taylor,79,Male,['Hypertension'],DB08717,"[(2S)-4-methyl-3-oxo-2,3,4,5-tetrahydro-1H-1,4-benzodiazepin-2-yl]acetic acid",,1
+7768,Justin Smith,21,Male,"['Stroke', 'Diabetes', 'Asthma']",DB08718,"4-(3-ethylthiophen-2-yl)benzene-1,2-diol",,1
+7769,Tiffany Oconnor,86,Male,['Cancer'],DB08719,"5-(5-(6-CHLORO-4-(4,5-DIHYDRO-2-OXAZOLYL)PHENOXY)PENTYL)-3-METHYL ISOXAZOLE",,1
+7770,Tyler Berg,53,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08720,"5-(5-(4-(4,5-dihydro-2-oxazoly)phenoxy)pentyl)-3-methyl osoxazole",,0
+7771,Timothy Wang,84,Male,"['Diabetes', 'Hypertension', 'Allergies', 'Heart Disease', 'Asthma', 'Stroke']",DB08721,"5-(5-(2,6-dichloro-4-(4,5-dihydro-2-oxazolyl)phenoxy)pentyl)-3-(hydroxyethyl oxymethyleneoxymethyl) isoxazole",,0
+7772,Dr. Tracy Young,84,Male,"['Hypertension', 'Arthritis', 'Asthma', 'Allergies', 'Diabetes', 'Stroke', 'Heart Disease', 'Cancer']",DB08722,5-(7-(6-chloro-4-(5-hydro-4-methyl-2-oxazolyl)phenoxy)heptyl)-3-methyl isoxazole,,1
+7773,Kenneth Johnson,77,Male,"['Heart Disease', 'Allergies', 'Asthma']",DB08723,WIN-54954,,1
+7774,Kevin Martinez,92,Male,"['Diabetes', 'Stroke', 'Asthma', 'Heart Disease']",DB08724,5-(5-(4-(5-hydro-4-methyl-2-oxazolyl)phenoxy)pentyl)-3-methyl isoxazole,,1
+7775,Allison Mueller,33,Male,"['Allergies', 'Hypertension']",DB08725,"(S)-5-(7-(4-(4-Ethyl-4,5-dihydro-2-oxazolyl)phenoxy)heptyl)-3-methylisoxazole",,0
+7776,Joseph Mcintosh,57,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08726,"5-(7-(4-(4,5-dihydro-2-oxazolyl)phenoxy)heptyl)-3-methyl isoxazole",,1
+7777,Edward Sampson,60,Female,"['Heart Disease', 'Diabetes', 'Arthritis', 'Cancer', 'Allergies']",DB08727,"3-Methyl-5-(7-{4-[(4R)-4-methyl-4,5-dihydro-1,3-oxazol-2-yl]phenoxy}heptyl)-1,2-oxazole",,0
+7778,Nathan Garcia,25,Female,"['Heart Disease', 'Allergies', 'Diabetes', 'Arthritis', 'Asthma', 'Stroke', 'Cancer', 'Hypertension']",DB08728,"5-(3-(2,6-dichloro-4-(4,5-dihydro-2-oxazolyl)phenoxy)propyl)-3-methyl isoxazole",,1
+7779,Kimberly Watts,40,Female,"['Asthma', 'Cancer', 'Heart Disease', 'Stroke', 'Diabetes', 'Arthritis', 'Allergies']",DB08729,"5-ethoxy-4-(1-methyl-7-oxo-3-propyl-6,7-dihydro-1H-pyrazolo[4,3-d]pyrimidin-5-yl)thiophene-2-sulfonamide",,1
+7780,Timothy Hill,88,Male,"['Asthma', 'Heart Disease', 'Cancer', 'Hypertension', 'Diabetes', 'Arthritis']",DB08730,3-FLUORO-5-MORPHOLIN-4-YL-N-[1-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-6-YL]BENZAMIDE,,1
+7781,Michael Robinson,55,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08731,"2-[(1R)-2-carboxy-1-(naphthalen-1-ylmethyl)ethyl]-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",,0
+7782,Frank Burns,21,Male,"['Heart Disease', 'Arthritis', 'Stroke', 'Cancer', 'Asthma', 'Allergies']",DB08732,NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE,,1
+7783,Jason Williams,80,Male,"['Asthma', 'Heart Disease', 'Hypertension', 'Allergies', 'Arthritis', 'Cancer']",DB08733,"(2R,3R)-N^1^-[(1S)-2,2-DIMETHYL-1-(METHYLCARBAMOYL)PROPYL]-N^4^-HYDROXY-2-(2-METHYLPROPYL)-3-{[(1,3-THIAZOL-2-YLCARBONYL)AMINO]METHYL}BUTANEDIAMIDE",,0
+7784,Ryan Clark,50,Male,['Stroke'],DB08734,"6,6-DIMETHYL-1-[3-(2,4,5-TRICHLOROPHENOXY)PROPOXY]-1,6-DIHYDRO-1,3,5-TRIAZINE-2,4-DIAMINE",,1
+7785,Michael Curry,88,Male,"['Asthma', 'Diabetes', 'Heart Disease', 'Hypertension', 'Arthritis', 'Cancer', 'Stroke', 'Allergies']",DB08735,"R,S-Warfarin alcohol",,0
+7786,Kimberly Parker,54,Male,"['Asthma', 'Cancer', 'Diabetes', 'Allergies', 'Arthritis', 'Stroke', 'Heart Disease']",DB08736,"S,R-Warfarin alcohol",,0
+7787,Melanie Castillo,56,Male,"['Arthritis', 'Allergies', 'Cancer']",DB08737,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-9-OL",,0
+7788,Duane Garner,98,Male,"['Hypertension', 'Stroke', 'Heart Disease', 'Asthma', 'Arthritis', 'Allergies']",DB08738,1-{3-oxo-3-[(2S)-2-(pyrrolidin-1-ylcarbonyl)pyrrolidin-1-yl]propyl}-3-phenylquinoxalin-2(1H)-one,,1
+7789,Rebecca Anderson,77,Male,"['Arthritis', 'Asthma', 'Allergies', 'Heart Disease', 'Stroke', 'Cancer', 'Diabetes']",DB08739,"2-{3-[(2S)-4,4-difluoro-2-(pyrrolidin-1-ylcarbonyl)pyrrolidin-1-yl]-3-oxopropyl}-isoindole-1,3(2H)-dione",,0
+7790,Larry Gallagher,60,Male,"['Asthma', 'Hypertension', 'Allergies', 'Cancer', 'Heart Disease', 'Arthritis']",DB08740,"CYCLOHEXYLMETHYL-2,3-DIHYDROXY-5-METHYL-HEXYLAMIDE",,0
+7791,Isaac Graves,23,Male,"['Heart Disease', 'Cancer', 'Arthritis']",DB08741,"5-[[(2R)-2-cyclopropyl-7,8-dimethoxy-2H-chromen-5-yl]methyl]pyrimidine-2,4-diamine",,0
+7792,Beverly Dixon,85,Female,"['Asthma', 'Allergies', 'Heart Disease', 'Cancer', 'Stroke']",DB08742,"1,3-CYCLOHEXANEDIOL, 4-METHYLENE-5-[(2E)-[(1S,3AS,7AS)-OCTAHYDRO-1-(5-HYDROXY-5-METHYL-1,3-HEXADIYNYL)-7A-METHYL-4H-INDEN-4-YLIDENE]ETHYLIDENE]-, (1R,3S,5Z)",,1
+7793,Ms. Lisa Jones,52,Female,"['Asthma', 'Hypertension', 'Diabetes', 'Heart Disease', 'Cancer']",DB08743,"2-({8-[(3R)-3-AMINOPIPERIDIN-1-YL]-1,3-DIMETHYL-2,6-DIOXO-1,2,3,6-TETRAHYDRO-7H-PURIN-7-YL}METHYL)BENZONITRILE",,1
+7794,Jenna Goodman MD,66,Female,"['Heart Disease', 'Asthma', 'Arthritis', 'Cancer', 'Stroke', 'Diabetes', 'Allergies']",DB08744,Casimiroin,"6-Methoxy-9-methyl-(1,3)dioxolo(4,5-h)quinolin-8(9H)-one",0
+7795,Jared Snyder,72,Female,"['Asthma', 'Arthritis', 'Heart Disease', 'Diabetes', 'Hypertension', 'Stroke', 'Cancer']",DB08745,4-[[(1E)-2-(4-CHLOROPHENYL)ETHENYL]SULFONYL]-1-[[1-(4-PYRIDINYL)-4-PIPERIDINYL]METHYL]PIPERAZINONE,,0
+7796,Elizabeth Anderson,54,Female,['Hypertension'],DB08746,1-[[(1E)-2-(4-CHLOROPHENYL)ETHENYL]SULFONYL]-4-[[1-(4-PYRIDINYL)-4-PIPERIDINYL]METHYL]PIPERAZINE,,1
+7797,Chad Holmes,95,Female,"['Diabetes', 'Hypertension', 'Stroke']",DB08747,"(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",,0
+7798,Jessica Anderson,63,Female,"['Heart Disease', 'Hypertension', 'Cancer', 'Asthma', 'Diabetes', 'Arthritis', 'Allergies', 'Stroke']",DB08748,4-(Dimethylamino)benzoic acid,"N,N-Dimethyl-4-aminobenzoic acid | N,N-Dimethyl-p-aminobenzoic acid | p-Dimethylamino benzoic acid | p-N,N-(Dimethylamino)benzoic acid",0
+7799,Samantha Shannon,93,Female,"['Cancer', 'Allergies', 'Arthritis', 'Diabetes', 'Asthma']",DB08749,3-(2-AMINO-6-BENZOYLQUINAZOLIN-3(4H)-YL)-N-CYCLOHEXYL-N-METHYLPROPANAMIDE,,1
+7800,Melissa Love,38,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Arthritis', 'Allergies']",DB08750,"1-[4-(AMINOMETHYL)BENZOYL]-5'-FLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLIN]-4'-AMINE",,0
+7801,Adam Holder,40,Male,"['Arthritis', 'Cancer', 'Diabetes', 'Asthma', 'Hypertension', 'Stroke', 'Heart Disease', 'Allergies']",DB08751,"N,N'-DIMETHYL-N-(ACETYL)-N'-(7-NITROBENZ-2-OXA-1,3-DIAZOL-4-YL)ETHYLENEDIAMINE",,0
+7802,Melinda Walker,50,Female,"['Diabetes', 'Asthma']",DB08752,N-[(1S)-2-[(4-cyano-1-methylpiperidin-4-yl)amino]-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide,,0
+7803,Shane Myers,65,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08753,"4-{(1E)-3-OXO-3-[(2-PHENYLETHYL)AMINO]PROP-1-EN-1-YL}-1,2-PHENYLENE DIACETATE",,1
+7804,Stephanie Rivera,28,Female,['Hypertension'],DB08754,N-Caffeoyltyramine,N-Caffeoyltyramine | N-trans-Caffeoyltyramine | trans-N-Caffeoyltyramine | Typheramide,0
+7805,Richard Graves,84,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08755,N-[(1S)-2-{[(1R)-2-(benzyloxy)-1-cyano-1-methylethyl]amino}-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide,,0
+7806,Kevin Lewis,25,Male,"['Stroke', 'Allergies', 'Asthma', 'Arthritis', 'Heart Disease', 'Hypertension', 'Cancer']",DB08756,Y-27632,(R)-(+)-trans-N-(4-pyridyl)-4-(1-aminoethyl)-cyclohexanecarboxamide | 4-[(1R)-1-aminoethyl]-N-(pyridin-4-yl)cyclohexane-1-carboxamide,1
+7807,Richard Smith,40,Female,"['Allergies', 'Stroke', 'Diabetes']",DB08757,5-(2-chlorophenyl)furan-2-carbohydrazide,,1
+7808,Sara Wilson,100,Female,"['Allergies', 'Asthma']",DB08758,"IMIDAZO[2,1-A]ISOQUINOLINE-2-CARBOHYDRAZIDE",,0
+7809,Thomas Johnson,21,Female,"['Heart Disease', 'Asthma']",DB08759,"[(3R,4S,5S,7R)-4,8-DIHYDROXY-3,5,7-TRIMETHYL-2-OXOOCTYL]PHOSPHONIC ACID",,0
+7810,Jeffrey Moran,85,Female,['Diabetes'],DB08760,(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid,,1
+7811,Cynthia Shelton,58,Female,"['Cancer', 'Diabetes', 'Hypertension']",DB08761,"(3S,6S)-3,6-bis(4-hydroxybenzyl)piperazine-2,5-dione",,0
+7812,Gregory Webster,85,Male,"['Asthma', 'Cancer', 'Hypertension', 'Diabetes']",DB08762,O-(((1R)-((N-PHENYLMETHOXYCARBONYL-L-ALANYL)AMINO)ETHYL)HYDROXYPHOSPHONO)-L-BENZYLACETIC ACID,,1
+7813,Penny Thomas,47,Male,['Heart Disease'],DB08763,[N-(BENZYLOXYCARBONYL)AMINO](4-AMIDINOPHENYL)METHANE-PHOSPHONATE,,1
+7814,Jacqueline Chavez,52,Female,"['Diabetes', 'Allergies', 'Stroke', 'Hypertension', 'Asthma', 'Cancer', 'Heart Disease']",DB08765,"6-HYDROXY-1,3-BENZOTHIAZOLE-2-SULFONAMIDE",,1
+7815,Danielle Hall,52,Male,"['Hypertension', 'Stroke', 'Arthritis', 'Allergies', 'Cancer']",DB08766,Zofenoprilat,Zofenoprilat,0
+7816,Donald Mills,66,Female,['Stroke'],DB08767,2-(4-METHOXYPHENYL)ACETAMIDE,,1
+7817,Kathleen Matthews,35,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma']",DB08768,N(6)-dimethylallyladenine,IPADE | Isopentenyl adenine | Isopentenyladenine | N(6)-(delta(2)-Isopentenyl)adenine | N6-(3-methylbut-2-enyl)adenine | N6-(delta2-Isopentenyl)-adenine | N6-dimethylallyladenine | N6-isopentenyladenine,0
+7818,Elizabeth Harris,98,Female,"['Stroke', 'Allergies', 'Asthma']",DB08770,"4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol",,1
+7819,Shelley Spencer,81,Male,"['Cancer', 'Hypertension', 'Allergies', 'Asthma', 'Heart Disease']",DB08771,"(5R)-2-[(2-Fluorophenyl)amino]-5-isopropyl-1,3-thiazol-4(5H)-one",,1
+7820,Ian Randolph,22,Female,"['Arthritis', 'Asthma', 'Diabetes', 'Cancer']",DB08772,Zopolrestat,Zopolrestat | Zopolrestatum,0
+7821,James Vasquez,73,Male,"['Heart Disease', 'Asthma', 'Cancer', 'Arthritis', 'Hypertension', 'Diabetes']",DB08773,2-(4-hydroxyphenyl)benzo[b]thiophen-6-ol,2-(4-hydroxyphenyl)benzo(b)thiophene-6-ol | Raloxifene core,1
+7822,Jared Bauer,89,Female,['Hypertension'],DB08774,"1-[(2S)-4-(5-phenyl-1H-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",,0
+7823,Michael Bailey,80,Female,"['Allergies', 'Cancer', 'Stroke']",DB08775,Benzoyl-tyrosine-alanine-fluoro-methyl ketone,,1
+7824,Steven Riley,29,Male,"['Cancer', 'Heart Disease', 'Allergies']",DB08776,"N-(4-OXO-5,6,7,8-TETRAHYDRO-4H-[1,3]THIAZOLO[5,4-C]AZEPIN-2-YL)ACETAMIDE",,1
+7825,Shannon Barnett,39,Male,"['Stroke', 'Heart Disease']",DB08777,"5,6,7,8-TETRAHYDRO[1]BENZOTHIENO[2,3-D]PYRIMIDIN-4(3H)-ONE",,0
+7826,Robert Rivas,26,Female,"['Stroke', 'Asthma']",DB08778,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",,1
+7827,Kevin Wilson,32,Male,"['Arthritis', 'Diabetes', 'Heart Disease', 'Asthma', 'Stroke', 'Allergies', 'Hypertension']",DB08779,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1H-imidazol-4-ol,,0
+7828,Julie Duke,36,Female,"['Diabetes', 'Allergies', 'Stroke', 'Hypertension', 'Cancer', 'Asthma', 'Heart Disease', 'Arthritis']",DB08780,6-MORPHOLIN-4-YL-9H-PURINE,,0
+7829,Travis James,94,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08781,"1-[(2S)-4-(5-BROMO-1H-PYRAZOLO[3,4-B]PYRIDIN-4-YL)MORPHOLIN-2-YL]METHANAMINE",,1
+7830,Gregory Clark,28,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08782,4-(2-AMINOETHYL)BENZENESULFONAMIDE,,0
+7831,Virginia Kennedy,83,Female,['Heart Disease'],DB08783,(4-{(2S)-2-[(tert-butoxycarbonyl)amino]-3-methoxy-3-oxopropyl}phenyl)methaneseleninic acid,,1
+7832,Kimberly Campos,49,Female,['Stroke'],DB08784,2-(4-CHLORO-PHENYLAMINO)-NICOTINIC ACID,,1
+7833,David Lee,78,Female,"['Allergies', 'Stroke', 'Diabetes']",DB08785,4-Methylcoumarin,4-Methyl-2H-1-benzopyran-2-one,1
+7834,Robert Shah,18,Male,"['Arthritis', 'Heart Disease', 'Hypertension', 'Cancer', 'Asthma', 'Stroke', 'Diabetes']",DB08786,4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine,,1
+7835,Mary Robinson,28,Male,"['Cancer', 'Arthritis', 'Heart Disease', 'Allergies', 'Stroke', 'Diabetes', 'Asthma', 'Hypertension']",DB08787,"4-(2,4-dichlorophenyl)-5-phenyldiazenyl-pyrimidin-2-amine",,1
+7836,Lindsey Andersen,100,Female,"['Cancer', 'Diabetes', 'Stroke']",DB08788,"3,6-DIAMINO-5-CYANO-4-(4-ETHOXYPHENYL)THIENO[2,3-B]PYRIDINE-2-CARBOXAMIDE",,0
+7837,Krystal Sutton,51,Female,"['Diabetes', 'Stroke', 'Hypertension', 'Heart Disease', 'Arthritis', 'Cancer', 'Asthma', 'Allergies']",DB08789,"2-AMINO-4-(2,4-DICHLOROPHENYL)-N-ETHYLTHIENO[2,3-D]PYRIMIDINE-6-CARBOXAMIDE",,1
+7838,Jessica Baker,63,Female,['Stroke'],DB08790,1-PHENYL-1H-PYRAZOLE-4-CARBOXYLIC ACID,,0
+7839,Heidi Dawson,75,Male,['Diabetes'],DB08791,"1-[(2-NITROPHENYL)SULFONYL]-1H-PYRROLO[3,2-B]PYRIDINE-6-CARBOXAMIDE",,0
+7840,Fred Wilson,18,Male,"['Asthma', 'Cancer']",DB08792,Diloxanide,Diloxanide,0
+7841,Christopher Lopez,54,Male,['Heart Disease'],DB08794,Ethyl biscoumacetate,Ethyl bis(4-hydroxy-2-oxo-2h-1-benzopyran-3-yl)acetate | Ethyl biscoumacetate | Ethyldicoumarol,0
+7842,Tony Rice,31,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08795,Azidocillin,"(2S,5R,6R)-6-{[(2R)-2-azido-2-phenylacetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid | Azidocilina | Azidocillin | Azidocilline | Azidocillinum | D-(−)-(α-azidobenzyl)penicillin",0
+7843,James Gregory,55,Female,"['Heart Disease', 'Stroke', 'Diabetes', 'Cancer', 'Hypertension', 'Asthma', 'Arthritis']",DB08796,Pipazethate,Pipazetate | Pipazetato | Pipazetatum | Pipazethate,1
+7844,Michael Martin,89,Female,['Stroke'],DB08797,Salicylamide,2-Carbamoylphenol | 2-Carboxamidophenol | 2-Hydroxybenzamide | o-hydroxybenzamide | OHB | Salicilamida | Salicylamide | Salicylamidum | Salicylic Acid amide,0
+7845,Lisa Mills,64,Male,['Arthritis'],DB08798,Sulfamoxole,"2-(p-Aminobenzenesulfonamido)-4,5-dimethyloxazole | 2-(p-Aminobenzolsulfonamido)-4,5-dimethyloxazol | 4-Amino-N-(4,5-dimethyl-2-oxazolyl)benzenesulfonamide | 4,5-Dimethyl-2-sulfanilamidooxazole | N(sup 1)-(4,5-Dimethyl-2-oxazolyl)sulfanilamide | N1-(4,5-Dimethyl-2-oxazolyl)sulfanilamide | Oxasulfa | p-Aminobenzenesulfonyl-2-amino-4,5-dimethyloxazole | Sulfadimethyloxazole | Sulfamoxol | Sulfamoxole | Sulfamoxolum | Sulphamoxole",0
+7846,Laurie Davis,44,Male,"['Allergies', 'Hypertension', 'Asthma', 'Stroke', 'Cancer']",DB08799,Antazoline,"2-(N-Benzylanilinomethyl)-2-imidazoline | 2-(N-Phenyl-N-benzylaminomethyl)imidazoline | 4,5-Dihydro-N-phenyl-N-phenylmethyl-1H-imidazole-2-methanamine | Antazolina | Antazoline | Antazolinum",1
+7847,Johnathan Benson,27,Male,"['Asthma', 'Arthritis', 'Cancer', 'Heart Disease']",DB08800,Chloropyramine,Chloropyramine | Chloropyraminum | Chlorpyramine | Cloropiramina | Halopyramine,1
+7848,Timothy Bullock,26,Male,"['Cancer', 'Stroke', 'Asthma', 'Heart Disease']",DB08801,Dimetindene,Dimethindene | Dimetindene | Dimetindeno,1
+7849,Kathleen Gray,65,Female,['Stroke'],DB08802,Isothipendyl,Isothipendyl | Isothipendylum | Isotipendilo,0
+7850,Katie Martinez,89,Male,['Stroke'],DB08803,Tymazoline,Tymazoline,0
+7851,Brittany Campbell,26,Female,"['Allergies', 'Asthma', 'Hypertension']",DB08804,Nandrolone decanoate,19-nortestosterone decanoate | Nandrolone 17β-decanoate | Nandrolone decanoate,0
+7852,Timothy Smith,63,Male,"['Heart Disease', 'Hypertension']",DB08805,Metiamide,Methiamide | Metiamida | Metiamide | Metiamidum,1
+7853,Richard Smith,77,Male,"['Cancer', 'Heart Disease', 'Asthma']",DB08806,Roxatidine acetate,Pifatidine,0
+7854,George Ward,29,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08807,Bopindolol,Bopindolol | Bopindololum,1
+7855,Jeffrey Watson,61,Male,"['Cancer', 'Allergies', 'Heart Disease', 'Stroke', 'Hypertension', 'Diabetes']",DB08808,Bupranolol,Bupranolol | Bupranololum,1
+7856,Mrs. Pamela Rivera,99,Male,"['Heart Disease', 'Hypertension']",DB08809,Dichloroacetic acid,DCA | Dichloracetic acid | Dichloroacetate,0
+7857,Christopher Mathews,18,Male,"['Arthritis', 'Heart Disease', 'Allergies']",DB08810,Cinitapride,4-Amino-N-(1-(3-cyclohexen-1-ylmethyl)-4-piperidyl)-2-ethoxy-5-nitrobenzamide | Cinitaprida | Cinitapride | Cinitapridum,0
+7858,Barbara Collins DDS,91,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08811,Tofisopam,Tofisopam | Tofisopamum,0
+7859,Kevin Hoffman,36,Female,"['Stroke', 'Hypertension', 'Diabetes', 'Heart Disease', 'Cancer', 'Arthritis', 'Asthma', 'Allergies']",DB08813,Nadroparin,Nadroparina | Nadroparine,0
+7860,Lisa Guzman,65,Male,"['Cancer', 'Allergies']",DB08814,Triflusal,Triflusal | Triflusalum,1
+7861,Tara Valdez,80,Male,"['Allergies', 'Hypertension']",DB08815,Lurasidone,Lurasidona | Lurasidone | Lurasidonum,0
+7862,Karen Baird,44,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08816,Ticagrelor,"(1S,2S,3R,5S)-3-(7-((1R,2S)-2-(3,4-Difluorophenyl)cyclopropylamino)-5-(propylthio)-3H-(1,2,3)triazolo(4,5-d)pyrimidin-3-yl)-5-(2-hydroxyethoxy)cyclopentane-1,2-diol | Ticagrelor",0
+7863,Timothy Melendez,49,Female,"['Asthma', 'Hypertension', 'Arthritis']",DB08818,Hyaluronic acid,Hyaluronan | Hyaluronate,0
+7864,Henry Olson,70,Female,"['Hypertension', 'Allergies', 'Arthritis', 'Asthma', 'Cancer', 'Stroke', 'Diabetes']",DB08819,Tafluprost,Tafluprost,0
+7865,Morgan Steele,35,Female,"['Heart Disease', 'Hypertension', 'Diabetes', 'Cancer', 'Allergies']",DB08820,Ivacaftor,"Ivacaftor | Ivacaftorum | N-(2,4-di-tert-butyl-5-hydroxyphenyl)-4-oxo-1,4-dihydroquinoline-3-carboxamide",0
+7866,Nicole Olson,90,Female,"['Heart Disease', 'Cancer']",DB08822,Azilsartan medoxomil,Azilsartan | Azilsartan medoxomil | Azilsartan médoxomil | Azilsartán medoxomilo | Azilsartanum medoxomilum,0
+7867,Joshua Richard,44,Male,['Hypertension'],DB08823,Spinosad,Spinosad,1
+7868,Thomas Eaton,84,Male,"['Diabetes', 'Heart Disease', 'Arthritis', 'Stroke', 'Asthma', 'Cancer', 'Allergies']",DB08824,Ioflupane I-123,123I-FP-CIT | 123I-Ioflupane | Iodine ioflupane (123I) | Ioflupane ((123)I) | Ioflupane (123I) | Ioflupane I 123 | Ioflupane I(123) | Ioflupano (123I) | Ioflupanum (123I),1
+7869,Emily Manning,50,Male,"['Asthma', 'Allergies', 'Stroke', 'Arthritis']",DB08826,Deferiprone,"1,2-Dimethyl-3-hydroxypyrid-4-one | 3-Hydroxy-1,2-dimethyl-4(1H)-pyridone | Deferiprona | Deferiprone | Défériprone | Deferipronum",1
+7870,Cynthia Anderson,38,Male,"['Allergies', 'Stroke', 'Heart Disease', 'Hypertension', 'Diabetes', 'Cancer', 'Arthritis']",DB08827,Lomitapide,Lomitapida | Lomitapide | Lomitapidum,0
+7871,Tracy Patel,18,Female,"['Asthma', 'Heart Disease', 'Stroke', 'Hypertension', 'Arthritis', 'Diabetes', 'Allergies']",DB08828,Vismodegib,"2-chloro-N-(4-chloro-3-pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide | Benzamide, 2-chloro-N-(4-chloro-3-(2-pyridinyl)phenyl)-4-(methylsulfonyl)- | Vismodegib | Vismodégib | Vismodegibum",0
+7872,Sara Ramirez,40,Male,"['Heart Disease', 'Allergies', 'Cancer', 'Diabetes', 'Hypertension']",DB08830,Dehydroascorbic acid,"dehydro-L-ascorbic acid | DHAA | L-dehydroascorbate | L-dehydroascorbic acid | L-threo-2,3-hexodiulosonic acid, γ-lactone | L-threo-hexo-2,3-diulosono-1,4-lactone | Oxidized ascorbic acid | Oxidized vitamin C",1
+7873,Rebecca Cox,49,Male,['Arthritis'],DB08831,2-deoxyglucose,2-Deoxy-D-arabino-hexose | 2-deoxy-D-glucose | 2-DG | D-arabino-2-desoxyhexose,1
+7874,Thomas Frazier,29,Male,"['Hypertension', 'Asthma', 'Diabetes', 'Arthritis', 'Stroke']",DB08833,Taurochenodeoxycholic acid,Chenodeoxycholoyltaurine | Taurine chenodeoxycholate | Taurochenodeoxycholate | Taurochenodeoxycholic acid,1
+7875,Katherine Taylor,35,Female,"['Diabetes', 'Arthritis', 'Allergies']",DB08834,Tauroursodeoxycholic acid,Tauroursodeoxycholate | Tauroursodesoxycholic acid | Taurursodiol | TUDCA | Ursodeoxycholyltaurine | Ursodoxicoltaurine,0
+7876,Nicole Hooper,22,Male,"['Asthma', 'Hypertension', 'Cancer', 'Diabetes', 'Arthritis', 'Heart Disease', 'Allergies', 'Stroke']",DB08835,Spaglumic acid,N-Acetyl-L-β-aspartyl-L-glutamic acid | Spaglumic acid,1
+7877,Traci Rose,22,Male,"['Heart Disease', 'Arthritis', 'Diabetes', 'Stroke', 'Hypertension', 'Allergies', 'Cancer', 'Asthma']",DB08836,Temocapril,Temocapril | Temocaprilum,0
+7878,Mary Taylor,92,Male,"['Asthma', 'Hypertension', 'Allergies', 'Stroke', 'Diabetes', 'Cancer', 'Heart Disease', 'Arthritis']",DB08837,Tetraethylammonium,,1
+7879,Joseph Marks,84,Male,['Asthma'],DB08838,Agmatine,(4-aminobutyl) guanidine | (4-aminobutyl)guanidine | 1-amino-4-guanidobutane | N-(4-aminobutyl)guanidine,1
+7880,Lisa Taylor MD,56,Male,"['Heart Disease', 'Allergies', 'Diabetes', 'Arthritis', 'Stroke', 'Hypertension', 'Asthma']",DB08839,Serotonin,3-(2-Aminoethyl)-1H-indol-5-ol | 5-HT | 5-Hydroxytryptamine | Enteramine | sérotonine | thrombocytin | thrombotonin,1
+7881,Kristine Howard,54,Male,"['Hypertension', 'Arthritis']",DB08840,N-methylnicotinamide,3-(Methylcarbamoyl)pyridine | 3-(N-Methylcarbamoyl)pyridine | N-Methyl nicotineamide | N-Methyl-3-pyridinecarboxamide | N-methylpyridine-3-carboxamide | Nicotinic acid methylamide | Nicotinyl methylamide,0
+7882,Catherine Howell,32,Male,"['Diabetes', 'Cancer']",DB08841,Tyramine,,1
+7883,Richard Garza,31,Female,"['Stroke', 'Allergies', 'Arthritis', 'Heart Disease', 'Diabetes', 'Asthma', 'Cancer']",DB08842,Acetylcarnitine,acetyl-L-carnitine | O-acetyl-L-carnitine  | O-Acetylcarnitine,0
+7884,Christopher Mclaughlin,51,Male,['Hypertension'],DB08843,GS 0573,"9-(2-phosphonylmethoxyethyl)-2,6-diaminopurine",1
+7885,David Ballard,41,Female,"['Stroke', 'Allergies', 'Asthma', 'Arthritis', 'Hypertension']",DB08844,Uric acid,"2,6,8-trihydroxypurine | 2,6,8-trioxopurine | 2,6,8-trioxypurine | 7,9-dihydro-1H-purine-2,6,8(3H)-trione | Lithic acid | Purine-2,6,8(1H,3H,9H)-trione | Urate | Uricum acidum",0
+7886,Carlos Arnold,80,Male,"['Arthritis', 'Heart Disease', 'Allergies', 'Stroke', 'Hypertension', 'Asthma', 'Cancer', 'Diabetes']",DB08845,Oxogluric acid,2-Ketoglutaric acid | 2-oxoglutaric acid | 2-oxopentanedioic acid | alpha-Ketoglutaric acid | Ketoglutaric acid | Oxoglurate | α-Ketoglutarate,0
+7887,Alexander Ortiz,74,Male,"['Hypertension', 'Arthritis', 'Asthma', 'Allergies', 'Cancer', 'Heart Disease']",DB08846,Ellagic acid,"2,3,7,8-tetrahydroxychromeno[5,4,3-cde]chromene-5,10-dione | ácido elágico | Ellagic acid",0
+7888,Jennifer Mcdonald,89,Male,"['Cancer', 'Hypertension', 'Heart Disease', 'Diabetes']",DB08847,Hydroxyproline,trans-4-Hydroxy-L-proline | trans-L-Hydroxyproline,1
+7889,Patricia Terrell,29,Male,"['Stroke', 'Heart Disease', 'Cancer']",DB08848,Guvacine,,0
+7890,Denise Wang,98,Female,['Arthritis'],DB08849,Nipecotic acid,,0
+7891,Elizabeth Hernandez,58,Female,"['Hypertension', 'Cancer']",DB08855,Leukotriene C4,"(R-(R*,S*-(E,E,Z,Z)))-N-(S-(1-(4-Carboxy-1-hydroxybutyl)-2,4,6,9-pentadecatetraenyl)-N-L-gamma-glutamyl-L-cysteinyl)glycine | L-γ-glutamyl-S-[(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl]-L-cysteinylglycine | LTC (sub 4) | LTC4",0
+7892,Keith White,44,Female,"['Stroke', 'Heart Disease', 'Hypertension', 'Asthma', 'Allergies', 'Arthritis']",DB08856,DADLE,"[D-Ala2, D-Leu5]-Enkephalin | H-Tyr-D-Ala-Gly-Phe-D-Leu | L-Tyrosyl-D-alanylglycyl-L-phenylalanyl-D-leucine",1
+7893,Brenda Ray,25,Male,"['Allergies', 'Asthma', 'Arthritis', 'Cancer', 'Diabetes']",DB08857,Bamet-UD2,,1
+7894,Zachary Bryant,83,Female,"['Arthritis', 'Hypertension']",DB08858,cis-Diamminechlorocholylglycinateplatinum(II),,0
+7895,Evan Carter,51,Female,"['Diabetes', 'Hypertension', 'Asthma', 'Heart Disease', 'Cancer', 'Stroke', 'Allergies', 'Arthritis']",DB08860,Pitavastatin,Pitavastatia | Pitavastatin | Pitavastatina | Pitavastatine | Pitavastatinum,0
+7896,Jonathan Martinez,93,Female,"['Heart Disease', 'Asthma', 'Diabetes', 'Hypertension']",DB08861,DPDPE,"(D-Pen2,D-Pen5)-Enkephalin | [D-Pen2-D-Pen5]-enkephaline | 2,5-Pen-enkephalin | cyclo-[D-Pen2,5]-enkephalin | D-penicillamine-(2,5)-enkephalin | L-tyrosyl-3-mercapto-D-valylglycyl-L-phenylalanyl-3-mercapto-D-valine, cyclic (2-5)-disulfide",1
+7897,Russell Smith,54,Female,"['Heart Disease', 'Allergies', 'Cancer', 'Asthma', 'Stroke', 'Arthritis', 'Hypertension']",DB08862,Cholecystokinin,CCK-PZ | Human CCK-33 | Human cholecystokinin-33 | Pancreozymin,0
+7898,Patricia Russell,89,Male,"['Cancer', 'Allergies', 'Arthritis', 'Stroke', 'Asthma', 'Heart Disease', 'Diabetes', 'Hypertension']",DB08864,Rilpivirine,"4-{[4-({4-[(E)-2-cyanovinyl]-2,6-dimethylphenyl}amino)pyrimidin-2-yl]amino}benzonitrile | Rilpivirina | Rilpivirine",0
+7899,Joseph Tucker,94,Female,"['Hypertension', 'Cancer', 'Heart Disease']",DB08865,Crizotinib,(R)-crizotinib | Crizotinib | Crizotinibum,1
+7900,Nicole Stevens,67,Female,"['Hypertension', 'Allergies', 'Heart Disease', 'Arthritis', 'Asthma', 'Diabetes', 'Stroke']",DB08867,Ulipristal,Ulipristal,0
+7901,Linda Adams,39,Female,"['Hypertension', 'Arthritis', 'Heart Disease', 'Diabetes', 'Cancer', 'Stroke', 'Allergies', 'Asthma']",DB08868,Fingolimod,Fingolimod | Fingolimodum,0
+7902,Michelle Howard,22,Female,['Asthma'],DB08869,Tesamorelin,GHRH(1-44) | N-[(3E)-1-oxo-3-hexenyl]Somatoliberin (human pancreatic islet) | Tesamorelin,0
+7903,Annette Jones,57,Male,['Asthma'],DB08870,Brentuximab vedotin,"Brentuximab | Brentuximab vedotin | Brentuximab vedotin brentuximab | Brentuximab vedotina | cAC10-vcMMAE | Moab, chimeric, SGN-30, to CD30 antigen | Monoclonal antibody SGN-30",1
+7904,Amy Williams,63,Female,"['Heart Disease', 'Stroke']",DB08871,Eribulin,Eribulin | Eribulina,0
+7905,Kristina Kane,63,Female,"['Hypertension', 'Allergies', 'Diabetes', 'Heart Disease', 'Stroke', 'Arthritis', 'Asthma', 'Cancer']",DB08872,Gabapentin enacarbil,Gabapentin enacarbil | Gabapentina enacarbilo | Gabapentine enacarbil | Gabapentinum enacarbilum,0
+7906,Deborah White,69,Female,"['Hypertension', 'Diabetes']",DB08873,Boceprevir,Boceprevir,1
+7907,Amber Brown,63,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08874,Fidaxomicin,Difimicin  | Fidaxomicin | Fidaxomicina | Lipiarmicin | Lipiarmycin | Lipiarrmycin | Tiacumicin B,1
+7908,Valerie Gates,86,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08875,Cabozantinib,Cabozantinib,0
+7909,Jake Holt,43,Male,"['Asthma', 'Hypertension', 'Allergies', 'Heart Disease', 'Arthritis', 'Stroke', 'Cancer', 'Diabetes']",DB08876,Taliglucerase alfa,Glucosylcerebrosidase | prGC-D | prGCD | Taliglucerase alfa,0
+7910,Colton Chandler,44,Female,"['Arthritis', 'Diabetes', 'Cancer']",DB08877,Ruxolitinib,Ruxolitinib,1
+7911,Elizabeth Fernandez,49,Female,"['Stroke', 'Cancer', 'Hypertension', 'Arthritis', 'Allergies', 'Diabetes']",DB08878,Aminopterin,"4-amino-4-deoxypteroylglutamate | 4-amino-PGA | 4-aminofolic acid | 4-aminopteroylglutamic acid | Aminopteridine | Aminopterine | APGA | Minopterin  | N-(4-(((2,4-diamino-6-pteridinyl)methyl)amino)benzoyl)-L-glutamic acid | Pteramina",0
+7912,Mr. Timothy Stanton,67,Male,"['Asthma', 'Allergies', 'Heart Disease', 'Hypertension', 'Diabetes']",DB08879,Belimumab,Belimumab,1
+7913,Michael Robertson,43,Female,"['Allergies', 'Heart Disease', 'Cancer', 'Diabetes']",DB08880,Teriflunomide,"(Z)-2-cyano-alpha,alpha,alpha-trifluoro-3-hydroxy-p-crotonotoluidide | Teriflunomida | Teriflunomide | Tériflunomide | Teriflunomidum",1
+7914,Danielle Anderson,47,Male,"['Diabetes', 'Asthma', 'Arthritis', 'Stroke']",DB08881,Vemurafenib,Vémurafénib | Vemurafenib | Vemurafenibum,1
+7915,Casey Woodard,21,Male,"['Arthritis', 'Hypertension', 'Allergies', 'Asthma', 'Stroke']",DB08882,Linagliptin,"(R)-8-(3-aminopiperidin-1-yl)-7-but-2-ynyl-3-methyl-1-(4-methylquinazolin-2-ylmethyl)-3,7-dihydro-purine-2,6-dione | Linagliptin | Linagliptina",0
+7916,James Wilkins,29,Female,['Allergies'],DB08883,Perampanel,"3-(2-Cyanophenyl)-5-(2-pyridyl)-1-phenyl-1,2-dihydropyridin-2-one | Perampanel | Pérampanel | Perampanelum",1
+7917,Austin Thomas,44,Male,"['Arthritis', 'Asthma', 'Stroke', 'Allergies', 'Hypertension', 'Cancer']",DB08884,Gadoxetic acid,Gadoxetate | Gadoxetic acid | Gd-EOB-DTPA,0
+7918,Randy Thomas,98,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08885,Aflibercept,Aflibercept | Aflibercept (genetical recombination) | Ziv-aflibercept,1
+7919,Amy Kline,24,Female,"['Asthma', 'Cancer']",DB08886,Asparaginase Erwinia chrysanthemi,"Asparaginase (Erwinia chrysanthemi) | Asparaginase (Erwinia) | Asparaginase Erwinia chrysanthemi | Asparaginase Erwinia chrysanthemi (recombinant) | asparaginase erwinia chrysanthemi (recombinant)-rywn | Crisantaspase | Erwinase | Erwinaze | Erwinia asparaginase | Erwinia chrysanthemi | Erwinia L-asparaginase | L-asparaginase (Erwinia) | L-asparaginase, Erwinia chrysanthemi",1
+7920,Crystal Johnson,60,Female,"['Allergies', 'Heart Disease', 'Diabetes', 'Stroke', 'Asthma', 'Cancer', 'Arthritis', 'Hypertension']",DB08887,Icosapent ethyl,"(all-Z)-5,8,11,14,17-Eicosapentaenoic acid ethyl ester | all-cis-ethyl 5,8,11,14,17-icosapentaenoate | cis-Eicosapentaenoic acid ethyl ester | E-EPA | Eicosapentaenoic acid ethyl ester | ethyl (5Z,8Z,11Z,14Z,17Z)-eicosa-5,8,11,14,17-pentaenoate | ethyl (5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate | ethyl (5Z,8Z,11Z,14Z,17Z)-icosapentaenoate | Ethyl (all cis)-5,8,11,14,17-icosapentaenoate | Ethyl all-cis-5,8,11,14,17-icosapentaenoate | Ethyl eicosapentaenoate | Ethyl icosapentate  | ethyl-eicosapentaenoic acid | Ethyl-EPA | Icosapent ethyl | Timnodonic acid ethyl ester",0
+7921,Victoria Arnold,41,Male,"['Arthritis', 'Allergies', 'Hypertension', 'Heart Disease', 'Diabetes', 'Stroke']",DB08888,Ocriplasmin,Microplasmin | Microplasmin (synthetic human) | Ocriplasmin | Ocriplasmina | Recombinant human microplasmin,1
+7922,Mallory Clark,94,Female,"['Allergies', 'Asthma', 'Cancer', 'Heart Disease', 'Stroke', 'Hypertension', 'Arthritis']",DB08889,Carfilzomib,Carfilzomib,0
+7923,Micheal Parker,50,Male,"['Arthritis', 'Allergies', 'Heart Disease']",DB08890,Linaclotide,"(9-L-TYROSINE)HEAT-STABLE ENTEROTOXIN (ESCHERICHIA COLI)-(6-19)-PEPTIDE | L-TYROSINE, L-CYSTEINYL-L-CYSTEINYL-L-.ALPHA.-GLUTAMYL-L-TYROSYL-L-CYSTEINYL-L-CYSTEINYL-L-ASPARAGINYL-L-PROLYL-L-ALANYL-L-CYSTEINYL-L-THREONYLGLYCYL-L-CYSTEINYL-, CYCLIC (1->6),(2->10),(5->13)-TRIS(DISULFIDE) | Linaclotida | Linaclotide",1
+7924,Karla Sandoval,46,Female,"['Hypertension', 'Allergies']",DB08891,Arbaclofen,(R)-4-amino-3-(4-chlorophenyl)butan­oic acid | (R)-Baclofen | Arbaclofen,1
+7925,Amanda Day,26,Male,"['Heart Disease', 'Arthritis', 'Hypertension', 'Asthma', 'Allergies']",DB08892,Arbaclofen Placarbil,Arbaclofen Placarbil | XP19986,0
+7926,Shawn Briggs,69,Female,"['Asthma', 'Stroke', 'Diabetes']",DB08893,Mirabegron,Mirabegron,1
+7927,David Irwin,87,Female,"['Asthma', 'Hypertension', 'Cancer', 'Diabetes', 'Stroke', 'Heart Disease', 'Arthritis', 'Allergies']",DB08894,Peginesatide,Hematide | Peginesatide,0
+7928,Bradley Martinez,69,Female,"['Hypertension', 'Arthritis', 'Allergies', 'Stroke', 'Diabetes']",DB08895,Tofacitinib,Tasocitinib | Tofacitinib | Tofacitinibum,0
+7929,Richard Miles,62,Male,"['Stroke', 'Hypertension', 'Arthritis', 'Asthma', 'Allergies', 'Heart Disease']",DB08896,Regorafenib,Regorafenib | Régorafénib | Regorafenibum,1
+7930,Carol Montoya,57,Male,"['Hypertension', 'Cancer', 'Stroke', 'Allergies']",DB08897,Aclidinium,Aclidinio,0
+7931,Ann Ochoa,46,Female,"['Arthritis', 'Hypertension']",DB08898,Glucarpidase,Carboxypeptidase G2 | Folate hydrolase G2 | Glucarpidase | Glutamate carboxypeptidase | Pteroylmonoglutamic acid hydrolase G2,1
+7932,Jerome Hamilton,96,Female,"['Stroke', 'Asthma', 'Arthritis', 'Hypertension', 'Cancer', 'Diabetes']",DB08899,Enzalutamide,Enzalutamida | Enzalutamide,1
+7933,Sonia Gonzalez,76,Male,['Stroke'],DB08900,Teduglutide,(Gly2)GLP-2 | Glucagon-like peptide II (2-glycine) (human) | Gly(2)-GLP-2 | Teduglutida | Teduglutide | Teduglutide [rDNA origin] | Teduglutide Recombinant,1
+7934,Melinda Curtis,32,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08901,Ponatinib,Ponatinib | Ponatinibum,1
+7935,Samantha Marks,21,Male,"['Heart Disease', 'Asthma', 'Arthritis', 'Diabetes', 'Stroke']",DB08902,Raxibacumab,PA mAb | Raxibacumab,1
+7936,Regina Ward,23,Female,"['Asthma', 'Diabetes', 'Cancer', 'Hypertension', 'Allergies', 'Arthritis', 'Heart Disease']",DB08903,Bedaquiline,1-(6-Bromo-2-methoxy-quinolin-3-yl)-4-dimethylamino-2-naphthalen-1-yl-1-phenyl-butan-2-ol | Bedaquilina | Bedaquiline | Bédaquiline | Bedaquilinum,0
+7937,Greg Sawyer,77,Female,['Arthritis'],DB08904,Certolizumab pegol,Certolizumab pegol,1
+7938,Destiny Osborne,35,Male,"['Hypertension', 'Diabetes', 'Heart Disease', 'Asthma', 'Stroke', 'Cancer', 'Arthritis']",DB08905,Formestane,"4-hydroxy-4-androstene-3,17-dione | 4-Hydroxy-delta(4)-androstenedione | 4-hydroxy-Δ4-androstenedione | 4-hydroxyandrostenedione | 4-OH-A | 4-OHAD | Formestane | Formestano | Formestanum",0
+7939,Daniel Williams,95,Female,"['Stroke', 'Cancer', 'Heart Disease', 'Allergies', 'Asthma', 'Arthritis', 'Hypertension', 'Diabetes']",DB08906,Fluticasone furoate,Fluticasone furoate | Fluticasonum furoas | Furoate de fluticasone | Furoato de fluticasona,0
+7940,Dennis Baker,80,Female,"['Allergies', 'Stroke']",DB08907,Canagliflozin,Canagliflozin | Canagliflozin anhydrous | Canagliflozina,0
+7941,John Perez,29,Male,['Allergies'],DB08908,Dimethyl fumarate,"(E)-But-2-enedioic acid dimethyl ester | 1,2-bis(methoxycarbonyl)-trans-ethylene | Dimethyl fumarate | Dimethyl trans-ethylenedicarboxylate | Dimethylfumarat | Fumaric acid, dimethyl ester | trans-1,2-Ethylenedicarboxylic acid dimethyl ester | trans-Butenedioic acid dimethyl ester",0
+7942,Cynthia Lester,91,Male,"['Arthritis', 'Stroke', 'Asthma', 'Hypertension', 'Diabetes', 'Heart Disease']",DB08909,Glycerol phenylbutyrate,Glycerol phenylbutyrate | Glyceryl Tri-4-Phenylbutyrate | GPB | GT4P,0
+7943,Christina Barrera,75,Female,"['Arthritis', 'Hypertension', 'Asthma', 'Diabetes']",DB08910,Pomalidomide,Pomalidomida | Pomalidomide,1
+7944,Erin Brooks,94,Female,"['Stroke', 'Diabetes', 'Heart Disease', 'Allergies', 'Arthritis', 'Cancer', 'Asthma', 'Hypertension']",DB08911,Trametinib,Tramétinib | Trametinib | Trametinibum,0
+7945,Casey Robinson,96,Female,"['Heart Disease', 'Stroke', 'Cancer']",DB08912,Dabrafenib,Dabrafenib,0
+7946,Austin Robinson,80,Female,"['Hypertension', 'Arthritis']",DB08913,Radium Ra 223 dichloride,Radium chloride Ra-223 | Radium Ra 223 dichloride | Radium Ra-223 dichloride | Radium-223 chloride | Radium-223 dichloride,1
+7947,Jane Johnson,78,Female,"['Allergies', 'Diabetes', 'Heart Disease']",DB08915,Aleglitazar,Aleglitazar,1
+7948,Emily Brooks,66,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08916,Afatinib,Afatinib | Afatinibum,1
+7949,Destiny Rodriguez,75,Male,"['Allergies', 'Heart Disease']",DB08917,Ferric carboxymaltose,Ferric carboxymaltose | Iron carboxymaltose | Iron dextri-maltose,0
+7950,Brittany Mccarthy,90,Female,"['Hypertension', 'Diabetes', 'Allergies', 'Cancer']",DB08918,Levomilnacipran,"(1S,2R)-milnacipran | CYCLOPROPANECARBOXAMIDE, 2-(AMINOMETHYL)-N,N-DIETHYL-1-PHENYL-, (1S,2R)- | Levomilnacipran | MILNACIPRAN, (1S,2R)-",0
+7951,Amanda Davis,41,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08921,(4R)-limonene,"(+)-(4R)-Limonene | (+)-(R)-Limonene | (+)-4-isopropenyl-1-methylcyclohexene | (+)-Limonene | (4R)-1-methyl-4-isopropenylcyclohex-1-ene | (4R)-4-isopropenyl-1-methylcyclohexene | (R)-(+)-limonene | (R)-(+)-p-mentha-1,8-diene | (R)-1-methyl-4-(1-methylethenyl)cyclohexene | (R)-4-isopropenyl-1-methyl-1-cyclohexene | (R)-p-mentha-1,8-diene | 4βH-p-mentha-1,8-diene | D-(+)-limonene | D-Limonen | D-limonene",0
+7952,Danielle Morgan,65,Male,"['Arthritis', 'Asthma', 'Allergies', 'Cancer', 'Heart Disease', 'Hypertension', 'Diabetes', 'Stroke']",DB08922,Perospirone,"cis-N-(4-(4-(1,2-Benzisothiazol-3-yl)-1-piperazinyl)butyl)-1,2-cyclohexanedicarboximide | Perospirone | SM-9018",1
+7953,Mrs. Rebecca Hayes,92,Male,"['Cancer', 'Allergies', 'Diabetes', 'Asthma']",DB08924,Amfecloral,Amfecloral | Amphecloral,0
+7954,Scott Bridges,60,Female,"['Hypertension', 'Arthritis', 'Stroke', 'Cancer']",DB08925,Adrafinil,Adrafinil | Adrafinilum,1
+7955,Amanda Smith,51,Male,['Arthritis'],DB08926,Acediasulfone,Acediasulfone | Acediasulfonum,1
+7956,Tanya Williams,25,Female,"['Cancer', 'Heart Disease', 'Stroke', 'Hypertension']",DB08927,Amperozide,Amperozide,0
+7957,Justin Ellis,44,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08928,Arsthinol,Arsthinenol | Arsthinol,0
+7958,Kaylee Williams,75,Male,"['Arthritis', 'Stroke', 'Allergies', 'Diabetes']",DB08930,Dolutegravir,Dolutegravir,0
+7959,Wendy Rice,21,Male,"['Stroke', 'Hypertension', 'Cancer', 'Heart Disease', 'Asthma', 'Arthritis', 'Diabetes']",DB08931,Riociguat,"Methyl N-[4,6-Diamino-2-[1-[(2-fluorophenyl)methyl]-1H-pyrazolo[3,4-b]pyridin-3-yl]-5-pyrimidinyl]-N-methyl-carbaminate | Riociguat | Riociguatum",0
+7960,Debra Short,58,Male,"['Hypertension', 'Diabetes', 'Arthritis', 'Heart Disease']",DB08932,Macitentan,Macitentán | Macitentan | Macitentanum,1
+7961,Amber Walker,69,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08933,Luliconazole,Luliconazole,0
+7962,John Anthony,67,Female,"['Arthritis', 'Heart Disease', 'Allergies', 'Diabetes', 'Asthma', 'Stroke', 'Cancer']",DB08934,Sofosbuvir,"S)-Isopropyl 2-((S)-(((2R,3R,4R,5R)-5-(2,4-dioxo-3,4- dihydropyrimidin-1(2H)-yl)-4-fluoro-3-hydroxy-4-methyltetrahydrofuran-2-yl)methoxy)- (phenoxy)phosphorylamino)propanoate | Sofosbuvir",0
+7963,Brian Casey,60,Female,['Stroke'],DB08935,Obinutuzumab,Afutuzumab | Obinutuzumab,0
+7964,Stephanie Park,99,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08936,Chlorcyclizine,Chlorcyclizin | Chlorcyclizine | Chlorcyclizinum | Clorciclicina | Clorciclizina | Clorciclizinio,0
+7965,Joseph Edwards,45,Male,"['Asthma', 'Allergies', 'Stroke', 'Arthritis', 'Hypertension', 'Cancer', 'Heart Disease']",DB08937,TAS-102,,0
+7966,Kimberly Pena,28,Male,['Heart Disease'],DB08938,Magaldrate,Aluminium magnesium hydroxide sulfate hydrate | Aluminum magnesium hydroxide sulfate hydrate | Aluminum magnesium hydroxide sulphate hydrate | Hydrate magnesium aluminate activated sulfate | Magaldrate | Magaldrato | Magaldratum | Magnesium aluminate hydrate | Monalium hydrate,0
+7967,Jessica Wallace,78,Male,"['Diabetes', 'Stroke', 'Asthma', 'Hypertension', 'Heart Disease', 'Cancer']",DB08939,Letosteine,letosteina | Letosteine,1
+7968,Nicholas Davis,46,Male,"['Allergies', 'Heart Disease', 'Asthma', 'Cancer', 'Stroke', 'Arthritis', 'Hypertension', 'Diabetes']",DB08940,Kebuzone,Kebuzone | ketophenylbutazone | quebuzona,1
+7969,David Castillo,30,Male,['Diabetes'],DB08941,Isoxsuprine,Isoxsuprine,1
+7970,Kenneth Cabrera,93,Male,"['Cancer', 'Hypertension', 'Diabetes']",DB08942,Isoxicam,Isoxicam | Isoxicamo | Isoxicamum,0
+7971,Mr. Bryan Mendez,91,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08943,Isoconazole,Isoconazol | Isoconazole | Isoconazolum,0
+7972,Tiffany Cook,89,Female,['Hypertension'],DB08944,Isoaminile,Isoaminile,1
+7973,John Reilly,81,Male,"['Cancer', 'Asthma', 'Hypertension', 'Allergies']",DB08945,Iotroxic acid,Acide iotroxique | Acido iotroxico | Acidum iotroxicum | Iotroxic acid | Iotroxinsaeure,1
+7974,Tammy Anderson,40,Male,"['Stroke', 'Cancer', 'Asthma', 'Arthritis', 'Diabetes', 'Heart Disease', 'Hypertension', 'Allergies']",DB08946,Iopanoic acid,Acidum iopanoicum | Iodopanoic acid | Iopanoic acid,1
+7975,Tyler Beard,85,Male,"['Arthritis', 'Cancer']",DB08947,Iopamidol,Iopamidol | Iopamidolum,0
+7976,Samantha Cortez,61,Female,"['Diabetes', 'Asthma', 'Hypertension', 'Cancer', 'Heart Disease', 'Stroke']",DB08948,Iodamide,Ametriiodic acid | Ametriiodinic acid | Ametriodinic acid | Iodamida | Iodamide | Iodamidum | Urombrine,1
+7977,Mallory Wallace,58,Female,"['Diabetes', 'Heart Disease', 'Allergies', 'Asthma', 'Stroke', 'Hypertension', 'Cancer']",DB08949,Inositol nicotinate,hexanicotol | Inositol hexanicotinate | Inositol niacinate | Inositol nicotinate | mesoinositol hexanicotinate | myo-inositol hexanicotinate,0
+7978,Thomas Porter,71,Male,"['Asthma', 'Cancer', 'Diabetes', 'Arthritis', 'Hypertension', 'Allergies']",DB08950,Indoramin,Indoramin | Indoramina | Indoramine | Indoraminum,1
+7979,Mary Duncan,26,Female,"['Asthma', 'Arthritis', 'Cancer', 'Stroke', 'Diabetes', 'Heart Disease', 'Allergies', 'Hypertension']",DB08951,Indoprofen,Indoprofen | indoprofeno,1
+7980,Kenneth Rodriguez,31,Female,"['Stroke', 'Heart Disease', 'Diabetes', 'Hypertension', 'Asthma', 'Allergies']",DB08952,Indenolol,,1
+7981,Daniel Vasquez,45,Female,"['Allergies', 'Arthritis', 'Diabetes', 'Asthma', 'Heart Disease', 'Cancer', 'Stroke']",DB08953,Indalpine,Indalpine,0
+7982,James Grant,82,Female,"['Arthritis', 'Allergies', 'Diabetes', 'Hypertension', 'Cancer']",DB08954,Ifenprodil,Ifenprodil | Ifenprodilum,1
+7983,Rebecca Smith,22,Male,"['Asthma', 'Hypertension', 'Cancer', 'Diabetes']",DB08955,Ibuproxam,Ibuproxam | Ibuproxamum | p-Isobutylhydratropohydroxamic acid,0
+7984,Jonathan Larson,36,Male,['Diabetes'],DB08956,Hydroxydione,"21-hydroxy-5β-pregnane-3,20-dione | 5beta-dihydrodeoxycorticosterone | 5β-dihydrodeoxycorticosterone",1
+7985,Rebecca Navarro,28,Female,"['Diabetes', 'Allergies', 'Hypertension', 'Cancer']",DB08957,Hexoprenaline,Hexoprenaline,0
+7986,Zachary Potts,77,Male,"['Diabetes', 'Hypertension', 'Cancer', 'Heart Disease', 'Allergies', 'Stroke', 'Asthma']",DB08958,Hexetidine,Esetidina | Hexetidina | Hexetidine | Hexétidine | Hexetidinum,0
+7987,Aaron Nelson,68,Male,"['Allergies', 'Stroke']",DB08960,Hexamethonium,"N,N,N,N',N',N'-hexamethylhexane-1,6-diaminium",0
+7988,Dr. Leslie Brown,56,Male,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08961,Azosemide,2-chloro-5-(1H-tetrazol-5-yl)-N4-2-thenylsulfanilamide | 5-(4'-chloro-5'-sulfamoyl-2'-thenylaminophenyl)tetrazole | azosemida | Azosemide | azosémide | azosemidum,1
+7989,Rachael Garcia,88,Female,"['Cancer', 'Stroke', 'Allergies', 'Asthma', 'Heart Disease', 'Diabetes', 'Arthritis']",DB08962,Glibornuride,Glibornurid | Glibornurida | Glibornuride | Glibornuridum,0
+7990,Michael Shaw,82,Male,"['Cancer', 'Diabetes', 'Arthritis', 'Heart Disease', 'Hypertension']",DB08963,Glafenine,Glafenina | Glafenine | Glafénine | Glafeninum | Glycerylaminophenaquine,0
+7991,Steve Clark,91,Female,"['Heart Disease', 'Diabetes', 'Arthritis', 'Hypertension', 'Stroke', 'Asthma', 'Allergies', 'Cancer']",DB08964,Gemeprost,"16,16-Dimethyl-trans-delta-2-PGE1 methyl ester | 16,16-Dimethyl-trans-delta(sup 2)-prostaglandin E1 methyl ester | Gemeprost | SC-37681",0
+7992,Jesse Norton,39,Female,"['Stroke', 'Diabetes']",DB08965,Fusafungine,Fusafungina | Fusafungine,1
+7993,Thomas Pena,63,Female,"['Heart Disease', 'Stroke']",DB08966,Fursultiamine,Fursultiamina | Fursultiamine | Fursultiaminum | Thiamin tetrahydrofurfuryl disulfide | Thiamine tetrahydrofurfuryl disulfide | TTFD,1
+7994,Roberto Willis,40,Female,"['Asthma', 'Cancer', 'Stroke', 'Hypertension', 'Arthritis', 'Diabetes', 'Allergies', 'Heart Disease']",DB08967,Dimetotiazine,Dimetotiazine,0
+7995,Megan Vaughan,24,Female,"['Stroke', 'Cancer', 'Hypertension', 'Asthma', 'Heart Disease', 'Allergies', 'Diabetes']",DB08968,Fominoben,Fominoben | Fominobene | Fominobenum,0
+7996,Hannah Castro,34,Male,"['Diabetes', 'Arthritis', 'Stroke', 'Asthma', 'Cancer']",DB08969,Flurothyl,Flurothyl | Flurotyl,1
+7997,John Wright,46,Male,"['Hypertension', 'Asthma', 'Arthritis', 'Stroke', 'Allergies', 'Heart Disease']",DB08970,Fluprednidene,Fluprednidene,0
+7998,Joseph Hanson,39,Female,"['Asthma', 'Cancer']",DB08971,Fluocortolone,Fluocortolona | Fluocortolone,0
+7999,Randy Lewis,79,Male,"['Stroke', 'Cancer', 'Diabetes', 'Arthritis', 'Allergies', 'Hypertension']",DB08972,Flumequine,Flumequine,1
