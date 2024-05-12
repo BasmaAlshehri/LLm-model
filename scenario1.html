@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service 1 - DDI Prediction Model</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #024602;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .logo {
+            width: 300px;
+            height: 300px;
+        }
+        .links a {
+            color: #024602;
+            text-decoration: none;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 1200px;
+            padding: 20px;
+            background-color: #d2d0d0;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .button {
+            background-color: #024602;
+            color: #ffffff;
+            border: none;
+            padding: 0px 10px;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        .button:hover {
+            background-color: #024602;
+        }
+        .tail-text {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            font-size: 14px;
+            color: #024602;
+        }
+        .content-arabic {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="links">
+        <a href="/">Home</a> | <a href="/scenario1">Service 1</a> | <a href="/scenario2">Service 2</a> | <a href="/about">About Us</a>
+    </div>
+    <img src="https://pbs.twimg.com/profile_images/1763949789568241664/LhV12FHd_400x400.jpg" alt="Logo" class="logo">
+</header>
+<div class="content content-english">
+    <h1>Service 1: Verify Interaction Prediction Between Drugs</h1>
+
+    <form id="drugForm">
+    <div id="drugInputsEn">
+        <label for="drugNameEn1">Enter drug name 1:</label>
+        <input type="text" id="drugNameEn1" name="drugName1">
+     </div>
+     <input class="button" type="button" value="Add Drug" onclick="addDrugInput('en')">
+     <br><br>
+     <input class="button" type="button" value="Check DDI" onclick="checkDDI('en')">
+     </form>
+    <p id="predictionResultEn"></p>
+    <p><a href="#" onclick="setLanguage('ar')">العربية</a></p>
+</div>
+<div class="content content-arabic" style="display: none;">
+    <h1>الخدمة 1: التحقق من تنبؤ التفاعل بين الأدوية</h1>
+    <form id="drugFormAr">
+        <div id="drugInputsAr">
+            <label for="drugNameAr1">ادخل اسم الدواء 1:</label>
+            <input type="text" id="drugNameAr1" name="drugName1">
+        </div>
+        <input class="button" value="اضافة دواء" onclick="addDrugInput('ar')">
+        <br><br>
+        <input class="button" value="تحقق" onclick="checkDDI('ar')">
+    </form>
+    <p id="predictionResultAr"></p>
+    <p><a href="#" onclick="setLanguage('en')">English</a></p>
+</div>
+
+<script>
+    const drugCounts = {'en': 1, 'ar': 1};
+
+    // Function to add new drug input fields dynamically
+    function addDrugInput(lang) {
+        drugCounts[lang]++;
+        const drugInputsDiv = document.getElementById("drugInputs" + (lang === 'en' ? 'En' : 'Ar'));
+        const newLabel = document.createElement("label");
+        newLabel.innerHTML = lang === 'en' ? "Enter drug name " + drugCounts[lang] + ":" : "ادخل اسم الدواء " + drugCounts[lang] + ":";
+        const newInput = document.createElement("input");
+        newInput.type = "text";
+        newInput.name = "drugName" + drugCounts[lang];
+        newInput.placeholder = lang === 'en' ? "Enter drug name " + drugCounts[lang] : "ادخل اسم الدواء " + drugCounts[lang];
+        newInput.id = "drugName" + (lang === 'en' ? 'En' : 'Ar') + drugCounts[lang];
+
+        drugInputsDiv.appendChild(document.createElement("br"));
+        drugInputsDiv.appendChild(newLabel);
+        drugInputsDiv.appendChild(newInput);
+    }
+
+        async function checkDDI(lang) {
+      const drugInputsDiv = document.getElementById("drugInputs" + (lang === 'en' ? 'En' : 'Ar'));
+     const inputFields = drugInputsDiv.getElementsByTagName('input');
+     const drugNames = Array.from(inputFields).map(input => input.value.trim());
+     const predictionResultId = "predictionResult" + (lang === 'en' ? 'En' : 'Ar');
+     const resultElement = document.getElementById(predictionResultId);
+     resultElement.innerText = "Checking for interactions...";
+
+     try {
+        const response = await fetch('/scenario1', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({drugNames: drugNames})
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error, status = ${response.status}`);
+        }
+
+        const data = await response.json();
+        resultElement.innerText = "Prediction: " + data.prediction;
+     } catch (error) {
+        resultElement.innerText = "Failed to get prediction. Please try again.";
+        console.error('Error from server:', error);
+    }
+}
+
+
+
+
+    // Function to toggle between English and Arabic content
+    function setLanguage(lang) {
+        if (lang === 'ar') {
+            document.querySelector('.content-english').style.display = 'none';
+            document.querySelector('.content-arabic').style.display = 'block';
+        } else {
+            document.querySelector('.content-english').style.display = 'block';
+            document.querySelector('.content-arabic').style.display = 'none';
+        }
+    }
+</script>
+
+</body>
+    <div class="tail-text">
+        <a><span>   by Basma Mohammed Alshehri - KKU</span></a>
+</div>
+</html>

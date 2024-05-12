@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service 2 - DDI Prediction Model</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #024602;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .logo {
+            width: 300px;
+            height: 300px;
+        }
+        .links a {
+            color: #024602;
+            text-decoration: none;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 1200px;
+            padding: 20px;
+            background-color: #d2d0d0;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .button {
+            background-color: #024602;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #023502;
+        }
+        #predictionResult, #predictionResultAr {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .authForm {
+            display: none;
+        }
+        .content-arabic {
+            display: none;
+        }
+        .tail-text {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            font-size: 14px;
+            color: #024602;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="links">
+            <a href="/">Home</a> | <a href="/scenario1">Service 1</a> | <a href="/scenario2">Service 2</a> | <a href="/about">About Us</a>
+        </div>
+        <img src="https://pbs.twimg.com/profile_images/1763949789568241664/LhV12FHd_400x400.jpg" alt="Logo" class="logo">
+    </header>
+    <div class="content content-english">
+        <h1>Service 2: Verifying the Patient's Medical History and Drug Interaction</h1>
+        <div id="authForm">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username">
+            <br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password">
+            <br><br>
+            <button class="button" onclick="authenticate('En')">Authenticate</button>
+        </div>
+        <div id="inputForm" class="authForm">
+            <label for="patientName">Enter patient's name:</label>
+            <input type="text" id="patientName" name="patientName">
+            <br><br>
+            <label for="drugName">Enter drug name:</label>
+            <input type="text" id="drugName" name="drugName">
+            <br><br>
+            <button class="button" onclick="checkDDI('En')">Check DDI</button>
+        </div>
+        <div id="predictionResult"></div>
+        <p><a href="#" onclick="setLanguage('en')">English</a> | <a href="#" onclick="setLanguage('ar')">العربية</a></p>
+    </div>
+    <div class="content content-arabic">
+        <h1>الخدمة 2: التحقق من تاريخ المريض الطبي وتفاعل الدواء</h1>
+        <div id="authFormAr">
+            <label for="usernameAr">اسم المستخدم:</label>
+            <input type="text" id="usernameAr" name="username">
+            <br><br>
+            <label for="passwordAr">كلمة المرور:</label>
+            <input type="password" id="passwordAr" name="password">
+            <br><br>
+            <button class="button" onclick="authenticate('Ar')">مصادقة</button>
+        </div>
+        <div id="inputFormAr" class="authForm">
+            <label for="patientNameAr">ادخل اسم المريض:</label>
+            <input type="text" id="patientNameAr" name="patientName">
+            <br><br>
+            <label for="drugNameAr">ادخل اسم الدواء:</label>
+            <input type="text" id="drugNameAr" name="drugName">
+            <br><br>
+            <button class="button" onclick="checkDDI('Ar')">تحقق من تفاعل الدواء</button>
+        </div>
+        <div id="predictionResultAr"></div>
+        <p><a href="#" onclick="setLanguage('en')">English</a> | <a href="#" onclick="setLanguage('ar')">العربية</a></p>
+    </div>
+    <script>
+        function authenticate(lang) {
+       var username, password, authFormId, inputFormId;
+
+       if (lang === 'En') {
+        username = document.getElementById("username").value;
+        password = document.getElementById("password").value;
+        authFormId = "authForm";
+        inputFormId = "inputForm";
+       } else if (lang === 'Ar') {
+        username = document.getElementById("usernameAr").value;
+        password = document.getElementById("passwordAr").value;
+        authFormId = "authFormAr";
+        inputFormId = "inputFormAr";
+    }
+
+       if (username === 'DrBasma' && password === '123') {
+        document.getElementById(authFormId).style.display = "none";
+        document.getElementById(inputFormId).style.display = "block";
+     } else {
+        alert("Authentication failed. Invalid username or password.");
+    }
+}
+
+
+        function checkDDI(lang) {
+            var patientNameId, drugNameId, predictionResultId;
+
+            if (lang === 'En') {
+                patientNameId = "patientName";
+                drugNameId = "drugName";
+                predictionResultId = "predictionResult";
+            } else {
+                patientNameId = "patientNameAr";
+                drugNameId = "drugNameAr";
+                predictionResultId = "predictionResultAr";
+            }
+
+            var patientName = document.getElementById(patientNameId).value;
+            var drugName = document.getElementById(drugNameId).value;
+
+            // Prepare the data to be sent in the AJAX request
+            var data = {
+                patientName: patientName,
+                drugName: drugName
+            };
+
+            // Send an AJAX request to the Flask backend to get the model prediction
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/scenario2", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var response = JSON.parse(xhr.responseText);
+                    document.getElementById(predictionResultId).innerText = "Prediction: " + response.prediction;
+                } else if (xhr.readyState === 4) {
+                    console.error('Error from server:', xhr.status, xhr.statusText);
+                }
+            };
+            xhr.send(JSON.stringify(data));
+        }
+
+        function setLanguage(lang) {
+            if (lang === 'en') {
+                document.querySelector('.content-english').style.display = 'block';
+                document.querySelector('.content-arabic').style.display = 'none';
+            } else {
+                document.querySelector('.content-english').style.display = 'none';
+                document.querySelector('.content-arabic').style.display = 'block';
+            }
+        }
+    </script>
+    <tail>
+        <div class="tail-text">
+            <a><span>   by Basma Mohammed Alshehri - KKU</span></a>
+        </div>
+    </tail>
+</body>
+</html>
